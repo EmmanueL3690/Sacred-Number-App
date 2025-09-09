@@ -3,6 +3,7 @@
 
 import React from "react";
 import TestimoniesGrid from "./componenets/TestimoniesGrid";
+import SacredNumbers from "./componenets/SacredNumbers"; // ✅ new
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
 
       <main className="w-full max-w-6xl">
         <TestimoniesGrid />
+        <SacredNumbers /> {/* ✅ added here */}
       </main>
 
       <footer className="mt-12 text-center text-sm font-bold text-gray-600">
@@ -26,3 +28,4 @@ export default function App() {
     </div>
   );
 }
+
