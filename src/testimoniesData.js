@@ -399,14 +399,14 @@ const testimoniesData = {
     "O ni owo pupo. Ao lowo laye yi, ona ti owo yoo gba mo wole yoo po. Ao lo wo ile Kesan. Ti a ba 3,6,7,8,@9 owo yoo lo, awon ota yoo gba owo na danu.",
   category: "Wealth & Enemies",
 },
-"2AA": {
+"17B": {
   id: "2AA",
   title: "Section Two Extension - 2AA",
   content:
     "Arin ota ni o wa, ogun idile, ejo riro pelu eni. Won ti fi ogun buburu kan danwo ri sugbon o segun won. Won yoo ma ba owo je mo lowo. Ota po ti yoo ma fa asedanu, wahala ti yoo gbe owo lo, jibiti. Ki eni eleni majise re, ki ole ma ja o. Wahala ati idiwo yio wa fun o. Sara: agbado, adie ati agbon ni sara. Apa aimu dele ni ko je ki a mo pe olongbon nsode. Asedanu, ki eleni ma jise re. Sora pelu ija ina, mojuto alare papa iwo tori are. Ife ati ibanikegbe yoo waye loni, ife si omo, aya, oko, obi, ore. Oro isekuse loni sora. Iwa lile, ajosepo lorisirisi, ounje adidun, aso to dara, imototo.",
   category: "Enemies & Family Conflicts",
 },
-"2AB": {
+"18B": {
   id: "2AB",
   title: "Section Two Extension - 2AB",
   content:

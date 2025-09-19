@@ -15,20 +15,22 @@ export default function SacredNumbers() {
 
   const uniqueCombinations = [...new Set(combinations)];
 
-  // ✅ TestimoniesGrid logic
+  // ✅ Search / Modal logic
   const [selectedTestimony, setSelectedTestimony] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [searchTerm, setSearchTerm] = useState("");
 
-  const numbers = Array.from({ length: 34 }, (_, i) => i + 1);
-  const letters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P"];
+  // 🔍 Filter testimonies
+  const filteredResults = Object.values(testimoniesData).filter((item) =>
+    [item.id, item.title, item.content, item.category]
+      .join(" ")
+      .toLowerCase()
+      .includes(searchTerm.toLowerCase())
+  );
 
-  const handleCellClick = (number, letter) => {
-    const key = `${number}${letter}`;
-    const testimony = testimoniesData[key];
-    if (testimony) {
-      setSelectedTestimony(testimony);
-      setIsModalOpen(true);
-    }
+  const handleOpenModal = (testimony) => {
+    setSelectedTestimony(testimony);
+    setIsModalOpen(true);
   };
 
   return (
@@ -111,74 +113,56 @@ export default function SacredNumbers() {
           </div>
         </section>
 
-        {/* 🔹 Testimonies Grid (moved here) */}
+        {/* 🔹 Testimonies Search (replaced Grid) */}
         <section>
           <div className="text-center mb-8">
             <h2 className="font-heading text-2xl sm:text-3xl font-black bg-gradient-to-r from-red-600 to-yellow-600 bg-clip-text text-transparent mb-4">
-              Sacred Solutions Archive
+              Sacred Solutions Search
             </h2>
             <p className="text-base sm:text-lg font-bold text-black drop-shadow-md">
-              Discover wisdom through the mystical number-letter combinations
+              Search wisdom through the mystical number-letter combinations
             </p>
           </div>
 
-          <div className="overflow-x-auto bg-white/95 backdrop-blur-sm rounded-2xl border-2 border-orange-200 shadow-xl p-4 sm:p-6">
-            <div className="min-w-[800px]">
-              {/* Header with letters */}
-              <div className="grid grid-cols-17 gap-1 mb-2">
-                <div className="w-10 h-10 sm:w-12 sm:h-12"></div>
-                {letters.map((letter) => (
-                  <div
-                    key={letter}
-                    className="w-10 h-10 sm:w-12 sm:h-12 bg-gradient-to-br from-orange-500 to-yellow-500 text-white rounded-lg flex items-center justify-center font-black text-xs sm:text-sm shadow-lg"
-                  >
-                    {letter}
-                  </div>
-                ))}
-              </div>
-
-              {/* Number rows */}
-              {numbers.map((number) => (
-                <div key={number} className="grid grid-cols-17 gap-1 mb-1">
-                  <div className="w-10 h-10 sm:w-12 sm:h-12 bg-gradient-to-br from-red-500 to-orange-500 text-white rounded-lg flex items-center justify-center font-black text-xs sm:text-sm shadow-lg">
-                    {number}
-                  </div>
-
-                  {letters.map((letter) => {
-                    const key = `${number}${letter}`;
-                    const hasData = testimoniesData[key];
-                    return (
-                      <button
-                        key={key}
-                        onClick={() => handleCellClick(number, letter)}
-                        className={`w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center font-black text-xs transition-all duration-200 border-2 min-h-[40px] min-w-[40px] ${
-                          hasData
-                            ? "bg-gradient-to-br from-green-400 to-emerald-500 text-white border-green-600 hover:scale-110 hover:shadow-xl cursor-pointer"
-                            : "bg-gray-100 text-gray-400 border-gray-300 cursor-not-allowed"
-                        }`}
-                        disabled={!hasData}
-                      >
-                        {key}
-                      </button>
-                    );
-                  })}
-                </div>
-              ))}
-            </div>
+          {/* Search Bar */}
+          <div className="flex justify-center mb-6">
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Search by number, letter, title, category, or keywords..."
+              className="w-full sm:w-2/3 md:w-1/2 px-4 py-3 rounded-xl border-2 border-orange-300 focus:outline-none focus:ring-2 focus:ring-orange-400 shadow-md"
+            />
           </div>
 
-          {/* Legend */}
-          <div className="mt-6 flex flex-col sm:flex-row justify-center gap-4 sm:gap-6">
-            <div className="flex items-center justify-center gap-2">
-              <div className="w-4 h-4 bg-gradient-to-br from-green-400 to-emerald-500 rounded border-2 border-green-600"></div>
-              <span className="text-sm font-bold text-black">
-                Available Solutions
-              </span>
-            </div>
-            <div className="flex items-center justify-center gap-2">
-              <div className="w-4 h-4 bg-gray-100 rounded border-2 border-gray-300"></div>
-              <span className="text-sm font-bold text-black">Coming Soon</span>
-            </div>
+          {/* Results */}
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {filteredResults.length > 0 ? (
+              filteredResults.map((item) => (
+                <div
+                  key={item.id}
+                  className="bg-gradient-to-br from-white via-orange-50 to-yellow-50 border border-orange-200 rounded-xl p-4 shadow-lg hover:shadow-xl transition-all"
+                >
+                  <h3 className="font-black text-lg text-orange-700 mb-2">{item.title}</h3>
+                  <p className="text-sm text-gray-700 line-clamp-3">{item.content}</p>
+                  <span className="text-xs font-bold text-orange-600 bg-orange-100 px-2 py-1 rounded-full mt-2 inline-block">
+                    {item.category}
+                  </span>
+                  <div className="mt-4 flex justify-between">
+                    <Button
+                      onClick={() => handleOpenModal(item)}
+                      className="bg-gradient-to-r from-green-500 to-emerald-600 text-white px-4 py-2 text-sm font-bold rounded-lg"
+                    >
+                      View
+                    </Button>
+                  </div>
+                </div>
+              ))
+            ) : (
+              <p className="text-center text-gray-500 col-span-full">
+                No results found for "{searchTerm}"
+              </p>
+            )}
           </div>
 
           {/* Modal */}

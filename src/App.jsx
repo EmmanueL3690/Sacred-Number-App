@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SacredNumbers from "./componenets/SacredNumbers";
 import UserDetails from "./componenets/UserDetails";
 import TestimoniesGrid from "./componenets/TestimoniesGrid";
+import ReportsDashboard from "./componenets/ReportsDashboard";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           }
         />
         <Route path="/user-details" element={<UserDetails />} />
+         <Route path="/reports-dashboard" element={<ReportsDashboard />} />
       </Routes>
     </Router>
   );
