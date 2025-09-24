@@ -57,6 +57,192 @@ const testimoniesData = {
       "Ma paya irorun nbo, inawo tabi fifo nkan to robe lorun ki awon ota maa",
     category: "Peace & Enemy Protection",
   },
+  "1@4": {
+    "id": "1@4",
+    "title": "Section One - 1@4",
+    "content": "oyun nbo. Olokiki ni idile baba, won mo doro duro de nile baba",
+    "category": "Family & Childbirth"
+  },
+  "2@4": {
+    "id": "2@4",
+    "title": "Section One - 2@4",
+    "content": "obinrin/omo. YOO MA RI IDUNNU LARIN OMO BABA RE, PAPA ORO TO JEMO OWO, OMO RE KAN YOO MA FEWO, OKUNRIN NI OMO NA",
+    "category": "Family & Wealth"
+  },
+  "3@4": {
+    "id": "3@4",
+    "title": "Section One - 3@4",
+    "content": "yoo fe obinrin alarisi ki sora fun amubo (amubo ndalamu). Onibeere yoo fe obinrin kan o dara/Amubo, AWON AGBALAGBA NI IDILE BABA NDA LAAMU",
+    "category": "Marriage & Warnings"
+  },
+  "4@4": {
+    "id": "4@4",
+    "title": "Section One - 4@4",
+    "content": "se sara fun oku orun, ipejo lori oro kan, NI IDILE BABA, ALAYO, YOO RI IDUNNU NINU GBOGBO ADAWOLE",
+    "category": "Spiritual & Family"
+  },
+  "5@4": {
+    "id": "5@4",
+    "title": "Section One - 5@4",
+    "content": "Iwo yoo ko obinrin/okunrin kan sile, YOO RI SE NINU OMO BABA RE",
+    "category": "Marriage"
+  },
+  "6@4": {
+    "id": "6@4",
+    "title": "Section One - 6@4",
+    "content": "Aisowo lowo, nkan ko dara, ENIKAN YOO SARE NI IDILE BABA...",
+    "category": "Wealth & Warning"
+  },
+  "7@4": {
+    "id": "7@4",
+    "title": "Section One - 7@4",
+    "content": "AWON AJE ILE BABA NDA ALANIYAN LAAMU, KO MURA",
+    "category": "Enemies & Warning"
+  },
+  "8@4": {
+    "id": "8@4",
+    "title": "Section One - 8@4",
+    "content": "mojuto ara re ati omo. Obinrin kan nbe ni emi wa kama fe...",
+    "category": "Health & Family"
+  },
+  "9@4": {
+    "id": "9@4",
+    "title": "Section One - 9@4",
+    "content": "Iyawo re yoo ko o, hunhun n be larin ololufe meji be lori aseri...",
+    "category": "Marriage & Family"
+  },
+  "10@4": {
+    "id": "10@4",
+    "title": "Section One - 10@4",
+    "content": "Obinrin/okunrin yoo mafi se faari. A o fe obinrin/okunrin to yodi...",
+    "category": "Marriage & Childbirth"
+  },
+  "11@4": {
+    "id": "11@4",
+    "title": "Section One - 11@4",
+    "content": "Obinrin kan wuwa lati fe, o dara. ALANIYAN NRI IDIWO LATI IDILE BABA",
+    "category": "Marriage & Family"
+  },
+  "12@4": {
+    "id": "12@4",
+    "title": "Section One - 12@4",
+    "content": "Ao fe obinrin dudu kan, odara. ILE DADA NI SUGBON AWON YOO MA BA SOTA SUGBON YOO JERI WON",
+    "category": "Marriage & Enemies"
+  },
+  "13@4": {
+    "id": "13@4",
+    "title": "Section One - 13@4",
+    "content": "Ikosile laarin ololufe meji... Ikosile yio bi asasi dukia yio pare.",
+    "category": "Divorce & Wealth"
+  },
+  "14@4": {
+    "id": "14@4",
+    "title": "Section One - 14@4",
+    "content": "Ijaya wa fun o, sora fun sina. Iyawo wa ko gba wa gbo no trust.",
+    "category": "Enemies & Marriage"
+  },
+  "15@4": {
+    "id": "15@4",
+    "title": "Section One - 15@4",
+    "content": "Yoo je eniti yoo gbe ogo idile Baba ga nipase ise ijoba",
+    "category": "Destiny & Government"
+  },
+  "16@4": {
+    "id": "16@4",
+    "title": "Section One - 16@4",
+    "content": "Yio ma ri oun ibinu, ko sora pelu dukia ile obi, meeting nile baba...",
+    "category": "Wealth & Warning"
+  },
+  "4,1": {
+    "id": "4,1",
+    "title": "Section Two - 4,1",
+    "content": "Ko mura ki elomiran ma je ore nkan ti anse lowo",
+    "category": "Enemies & Warning"
+  },
+  "4,2": {
+    "id": "4,2",
+    "title": "Section Two - 4,2",
+    "content": "Ki o mura tori amubo aya, ati ase yori",
+    "category": "Marriage Warning"
+  },
+  "4,3": {
+    "id": "4,3",
+    "title": "Section Two - 4,3",
+    "content": "Won yoo mu oro eni ti ara re ko yawa aye lowa nibe",
+    "category": "Enemies"
+  },
+  "4,4": {
+    "id": "4,4",
+    "title": "Section Two - 4,4",
+    "content": "omo kekere tabi obinrin yoo sawa",
+    "category": "Family"
+  },
+  "4,6": {
+    "id": "4,6",
+    "title": "Section Two - 4,6",
+    "content": "Aanu olorun wa fun o mura tori ota",
+    "category": "Enemies & Prayer"
+  },
+  "4,7": {
+    "id": "4,7",
+    "title": "Section Two - 4,7",
+    "content": "Obinrin eletan kan nbo sora",
+    "category": "Enemies"
+  },
+  "4,8": {
+    "id": "4,8",
+    "title": "Section Two - 4,8",
+    "content": "Won yoo fun lo binrin lati ipase ore re",
+    "category": "Marriage & Warning"
+  },
+  "4,9": {
+    "id": "4,9",
+    "title": "Section Two - 4,9",
+    "content": "Ki o mura ki o le ba eniyan gbe",
+    "category": "Enemies & Warning"
+  },
+  "4,10": {
+    "id": "4,10",
+    "title": "Section Two - 4,10",
+    "content": "Ki oma ja si ogun (dukia)",
+    "category": "Wealth & Conflict"
+  },
+  "4,11": {
+    "id": "4,11",
+    "title": "Section Two - 4,11",
+    "content": "Obirin ti o ba sun nbo",
+    "category": "Marriage"
+  },
+  "4,14": {
+    "id": "4,14",
+    "title": "Section Two - 4,14",
+    "content": "Obirin ka yoo ta o lore okere ni yoo ti wa",
+    "category": "Marriage & Help"
+  },
+  "4,15": {
+    "id": "4,15",
+    "title": "Section Two - 4,15",
+    "content": "Obirin kan nbo ti yoo je owo re run",
+    "category": "Marriage & Warning"
+  },
+  "4A": {
+    "id": "4A",
+    "title": "Special Section - 4A",
+    "content": "Awon Ota ti o farapamo wa lara ore re ti won yoo ma ko ibanuje okan ba o...",
+    "category": "Enemies & Destiny"
+  },
+  "4b": {
+    "id": "4b",
+    "title": "Special Section - 4b",
+    "content": "Ebun opolo. Olopolo pipe ni ogbon lati fi yanju oro to ba ta koko alanu...",
+    "category": "Wisdom & Destiny"
+  },
+  "LINE ONE / TWO": {
+    "id": "LINE ONE / TWO",
+    "title": "Line One / Two",
+    "content": "Collection of journey & warning outcomes from 1,4 to 16,4",
+    "category": "Journeys & Warnings"
+  },
 
   // === A Solutions ===
   "1A": {
@@ -622,6 +808,209 @@ const testimoniesData = {
     "O je olotito, sugbon aye tabi awon eniyan ko ni gba o laaye lati so otito. Won yoo ma gba oro re sodi. Ota po ti yoo ma jowu re. Ma fi inu han ore. O ma nse nkan meji lekansoso. Ma nronu jinle ki o to se nkan. AISAN: Arariro, inudidun, ipalaran, oyin oju. ISE: Teacher, Agbe, Tewetegbo sise, Nurse, Doctor, Owo sise.",
   category: "Truth & Struggles",
 },
+  "1D": {
+    "id": "1D",
+    "title": "Section One - 1D",
+    "content": "Oyun nbo. Olokiki ni idile baba, won mo doro duro de nile baba",
+    "category": "Family & Childbirth"
+  },
+  "2D": {
+    "id": "2D",
+    "title": "Section Two - 2D",
+    "content": "Obinrin/omo. Yoo ma ri idunnu larin omo baba re, paapa oro to jemo owo. Omo re kan yoo ma fewo, okunrin ni omo na.",
+    "category": "Children & Wealth"
+  },
+  "3D": {
+    "id": "3D",
+    "title": "Section Three - 3D",
+    "content": "Yoo fe obinrin alarisi, ki o sora fun amubo (amubo ndalamu). Onibeere yoo fe obinrin kan o dara/Amubo. Awon agbalagba ni idile baba nda laamu.",
+    "category": "Marriage & Family Challenges"
+  },
+  "4D": {
+    "id": "4D",
+    "title": "Section Four - 4D",
+    "content": "Se sara fun oku orun, ipejo lori oro kan ni idile baba. Alayo, yoo ri idunnu ninu gbogbo adawole.",
+    "category": "Spiritual Rites & Happiness"
+  },
+  "5D": {
+    "id": "5D",
+    "title": "Section Five - 5D",
+    "content": "Iwo yoo ko obinrin/okunrin kan sile. Yoo ri se ninu omo baba re.",
+    "category": "Relationships & Family"
+  },
+  "6D": {
+    "id": "6D",
+    "title": "Section Six - 6D",
+    "content": "Aisowo lowo, nkan ko dara. Enikan yoo sare ni idile baba. Ti aba fe mo boya okunrin tabi obinrin, omode tabi agbalagba, ao ni ko toka si irawo kan nile. Irawo to ba bi la fi mo iru eniti yoo sare.",
+    "category": "Wealth & Misfortune"
+  },
+  "7D": {
+    "id": "7D",
+    "title": "Section Seven - 7D",
+    "content": "Awon aje ile baba nda alaniyan laamu. Ko mura.",
+    "category": "Spiritual Attack"
+  },
+  "8D": {
+    "id": "8D",
+    "title": "Section Eight - 8D",
+    "content": "Mojuto ara re ati omo. Obinrin kan nbe ni emi wa kama fe. Ti baba ba nbe, ko toju baba, ko ma sick. To ba ti ku, ko se sara.",
+    "category": "Health & Family"
+  },
+  "9D": {
+    "id": "9D",
+    "title": "Section Nine - 9D",
+    "content": "Iyawo re yoo ko o. Hunhun nbe larin ololufe meji, be lori aseri lori aburu. Iyawo wa nse ako si wa. Awon ebi nronu nipa re. Ao wo ile kesan (9). Ti a ba ba irawo to da nibe, ironu to dara ni. Irawo ti ko dara, ironu ti ko da ni.",
+    "category": "Marriage & Emotional Issues"
+  },
+  "10D": {
+    "id": "10D",
+    "title": "Section Ten - 10D",
+    "content": "Obinrin/okunrin yoo mafi se faari. A o fe obinrin/okunrin to yodi yokun to mora kan o dara. Oyun nbo. Ologo omo ti ma nna owo sile baba re, se dada fun ebi.",
+    "category": "Childbirth & Prosperity"
+  },
+  "11D": {
+    "id": "11D",
+    "title": "Section Eleven - 11D",
+    "content": "Obinrin kan wuwa lati fe, o dara. Alaniyan nri idiwo lati idile baba.",
+    "category": "Marriage & Obstacles"
+  },
+  "12D": {
+    "id": "12D",
+    "title": "Section Twelve - 12D",
+    "content": "Ao fe obinrin dudu kan, o dara. Ile dada ni, sugbon awon yoo ma ba sota. Sugbon yoo jeri won.",
+    "category": "Marriage & Enemies"
+  },
+  "13D": {
+    "id": "13D",
+    "title": "Section Thirteen - 13D",
+    "content": "Ikosile laarin ololufe meji. 14=9 Ikosile yio bi asasi, dukia yio pare. 13@9 Aori obinrin ti oti ko oko sile.",
+    "category": "Separation & Loss"
+  },
+  "14D": {
+    "id": "14D",
+    "title": "Section Fourteen - 14D",
+    "content": "Ko sora ni idile baba re ki won ma sa ogun si. Ijaya wa fun o, sora fun sina. Iyawo wa ko gba wa gbo, no trust.",
+    "category": "Marriage & Conflict"
+  },
+  "15D": {
+    "id": "15D",
+    "title": "Section Fifteen - 15D",
+    "content": "Yoo je eniti yoo gbe ogo idile baba ga nipase ise ijoba.",
+    "category": "Leadership & Success"
+  },
+  "16D": {
+    "id": "16D",
+    "title": "Section Sixteen - 16D",
+    "content": "Yoo ma ri oun ibinu. Ko sora pelu dukia ile obi, meeting ni ile baba. Ao wo ile kesan. Ti a ba ba irawo to da (4,5,10,15) oro to da ni. Ti a ba ba irawo ti ko da (3,6,7,8) oro ti ko da ni / meeting awon eeyan buruku lori eyan nibi ti eyan ti nsise.",
+    "category": "Wealth & Danger"
+  },
+  "41D": {
+    "id": "41D",
+    "title": "Section Forty-One - 41D",
+    "content": "Ko mura ki elomiran ma je ore nkan ti anse lowo.",
+    "category": "Wealth & Betrayal"
+  },
+  "42D": {
+    "id": "42D",
+    "title": "Section Forty-Two - 42D",
+    "content": "Ki o mura tori amubo aya, ati ase yori.",
+    "category": "Marriage Challenges"
+  },
+  "43D": {
+    "id": "43D",
+    "title": "Section Forty-Three - 43D",
+    "content": "Won yoo mu oro eni ti ara re ko yawa, aye lowa nibe.",
+    "category": "Reputation & Gossip"
+  },
+  "44D": {
+    "id": "44D",
+    "title": "Section Forty-Four - 44D",
+    "content": "Omo kekere tabi obinrin yoo sawa.",
+    "category": "Children & Family"
+  },
+  "45D": {
+    "id": "45D",
+    "title": "Section Forty-Five - 45D",
+    "content": "Aanu olorun wa fun o. Mura tori ota.",
+    "category": "Protection & Enemies"
+  },
+  "46D": {
+    "id": "46D",
+    "title": "Section Forty-Six - 46D",
+    "content": "Obinrin eletan kan nbo, sora.",
+    "category": "Deception & Women"
+  },
+  "48D": {
+    "id": "48D",
+    "title": "Section Forty-Eight - 48D",
+    "content": "Won yoo fun lo binrin lati ipase ore re.",
+    "category": "Relationships & Friends"
+  },
+  "49D": {
+    "id": "49D",
+    "title": "Section Forty-Nine - 49D",
+    "content": "Ki o mura ki o le ba eniyan gbe.",
+    "category": "Partnership & Caution"
+  },
+  "410D": {
+    "id": "410D",
+    "title": "Section Four Hundred Ten - 410D",
+    "content": "Ki oma ja si ogun (dukia).",
+    "category": "Wealth & Conflict"
+  },
+  "411D": {
+    "id": "411D",
+    "title": "Section Four Hundred Eleven - 411D",
+    "content": "Obirin ti o ba sun nbo.",
+    "category": "Marriage & Relationships"
+  },
+  "414D": {
+    "id": "414D",
+    "title": "Section Four Hundred Fourteen - 414D",
+    "content": "Obirin kan yoo ta o lore, okere ni yoo ti wa.",
+    "category": "Relationship & Foreign Connection"
+  },
+  "415D": {
+    "id": "415D",
+    "title": "Section Four Hundred Fifteen - 415D",
+    "content": "Obirin kan nbo ti yoo je owo re run.",
+    "category": "Marriage & Financial Loss"
+  },
+  "4DA": {
+    "id": "4DA",
+    "title": "Section 4DA",
+    "content": "Awon ota ti o farapamo wa lara ore re ti won yoo ma ko ibanuje okan ba o. Ti won fi oju jo ore sugbon ota ni won. Sora ki won o ma da o leru nu. Oore kan nbo wa lati owo okunrin nla kan, eyi ti o wa nipo ola. Awon ota re yio ma gbero lati ko wahala ba ore na to ba de, tabi ki won dena ore yi lati ma wa. Ti o ba ti nkuro ninu wahala kan, ni o ma bo sinu omiran. Okan re ko papo si ona kan. Ero buruku wa si inu okan re. Wahala emi okunkun ti nda irin ajo re lamu ti ko je ki aseyori. Ti o ba fe se nkan emi okunkun, yoo ma so wipe ko ni sese. Yoo ma ko iberu sinu okan re to je wipe ni ipari ko ni si aseyori kankan. Anadanu, wahala asenu, wahala poju owo to nri. Fi ireke ati aadun se sara.",
+    "category": "Enemies & Spiritual Struggle"
+  },
+  "4DB": {
+    "id": "4DB",
+    "title": "Section 4DB",
+    "content": "Ebun opolo. Olopolo pipe ni ogbon lati fi yanju oro to ba ta koko alanu. Awon eniyan yoo feran re, olotito eda ni o, alaanu eda, oga ninu ohun ti o ba nse, onitiju eda, oloju ona ti ki tete gbagbe nkan. Ebun irina lati ri ohun ti o ba fe sele loju aye tabi loju orun. Ma nfi ara re si ipo owo, ko fe arinfin lati odo omokekere. O je gbajumo ti yoo mo eyin nla, olokiki eniyan ni. O ma nwa bi ile aye re yoo ti dara, o feran afara we. Nigba miran, ti inu re ba dun ni aro, to ba di ale inu re maa nbaje. Ti o ba wo bi irinajo aye re nse nlo, eniti o ni ifarada ti oni itiju, suru, ti o ma fi owo pamo ti enikan kan ko ni mosi. O ma ronu jinle, ero okan re yato si ti elomiran. Yoo ri orisirisi iri pelu eniyan, ko ni je ki o fegba eniyan gbo. Olori re nibikibi. Sora fun jibiti, agidi okan, ti inu mi ni se. Ki eeyan ma gba imoran.",
+    "category": "Gift & Wisdom"
+  },
+  "LINE_ONE_TWO": {
+    "id": "LINE_ONE_TWO",
+    "title": "Line One / Two",
+    "content": [
+      "1, 4D - Irin ajo ti yio la abuku lo igbese ti ko dara to",
+      "2, 4D - Yio lo si ibikan, kosi ni ri nkan tonwa lo mubo. Yio rii – ko ni rii mubo",
+      "3, 4D - Atajare lori oja re lasiko yi, Adawole ti yio dara",
+      "5, 4D - Eti yio ba nkan to fe se, Eti wa fun",
+      "6, 4D - Adawole ko ni seese. Eti yio ba nkan to ngbero",
+      "7, 4D - Irin ajo ti ko dara rara",
+      "9, 4D - Yio gburo owo kan, owo na yio si tee lowo",
+      "10, 4D - Won yio se abosi sii lori dukia kan tabi ki on na se si enia",
+      "11, 4D - Saara fun awon omo wewe. Ona yio wa la fun",
+      "13, 4D - Ijamba motor yio sele sii, adura pelu saara",
+      "12, 4D - Mase rin irin ajo lasiko yi, ko dara to",
+      "12, 4D - Ko soro gidigidi ori aare na kan nbo, ironu yii baa ko fi aso orin re jeun se saa",
+      "14, 4D - Ona yio sii fun. Ko se saara dada",
+      "15, 4D - Yio foju kan obinrin kan o dara, o le fee",
+      "16, 4D - Enikan yio se aare iku. Ko mura gidigidi"
+    ],
+    "category": "Journeys & Warnings"
+  },
+
 
 // === E Solutions ===
 "1E": {
