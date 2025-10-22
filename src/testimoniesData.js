@@ -3822,20 +3822,7 @@ const testimoniesData = {
     category: "Dreams & Messages"
   },
 
-  "6,2": {
-    id: "6,2",
-    title: "Section Two - 6,2",
-    content: "Wa jere lori oja ti o nta, ki o tubo mura si iyonu.",
-    category: "Business Advice"
-  },
-
-  "7,2": {
-    id: "7,2",
-    title: "Section Two - 7,2",
-    content:
-      "Yio rin irin ajo, yio si ri idunnu mubo, yio se orire ni irinajo.",
-    category: "Travel & Good Fortune"
-  },
+ 
 
   "8,2": {
     id: "8,2",
@@ -3923,1214 +3910,1728 @@ const testimoniesData = {
       "Arin ota ni o wa, ogun idile, ejo riro pelu eni, won ti fi ogun buburu kan danwo ri sugbon o segun won. Won yoo ma ba owo je mo lowo Ota po ti yoo ma fa asedanu, wahala ti yoo gbe owo lo, Jibiti, ki eni eleni majise re, ki ole ma ja o, wahala ati idiwo yio wa fun o. Sara, agbado adie ati agbon ni sara, apa aimu dele ni ko je ki a mo pe olongbon nsode, asedanu, ki eleni ma jise re, sora pelu ija ina, mojuto alare papa iwo tori are Ife ati ibanikegbe yoo waye loni, ife si omo, aya, oko, obi, ore, oro isekuse loni sora. Iwa lile, ajosepo lorisirisi, ounje adidun, aso to dara, imototo. ALAIKA, DUKIA, EYAN DUDU NI, ILE OWO 2 TWO, ONIYEYE, ENITI KO SERIOUS, INA TI O MA NKE, TO KENU, ENI TO BA LO IRAWO YIN YOO DINU, TI NBA BINU EYAN KO NI MO, LE KANNA NI YOO BU GBEMU, PELU IBINU, TABI MA SE AWADA, TI INU YOO SI MA BI, TI ENIYAN KO NI MO, TO LE DI IBINU NLA LOJIJI. O je eda, ti ko nini ore otito ti yoo wa pelu re lo titi, o ma tete fura tabi ri asise eniyan maa nronun ipa iwa ti eniyan le hu. Ko beru lati so otito, o ma nse gbogbo nkan re lona toto toye, laarin ebi, ore ati ni bi gbogbo, o nbi ebun opolo, emi sise nkan titun ti kowo po tabi nkan atijo ka fi opolo gbe kale lati fi ba igba mu, Ironu jinle ati opolo ti kowopo wa fun, o ni agbekale oro, ti o ma soro fun eniyan lati le tete ronu lo si ibe, ise ti o ba fi opolo ori gbe kale tabi tete ti a fi opolo ori ta, ti ki se teteti a fi owo, yoo ma je ju ise agbara lo. iwa agidi, tinu mi ni nse, aigbaimoran, aini iberu lati koju enikeni — paapaa to ba je lori otito, inakuna nigba miran, idiju gbesan, obinrin ti o ko wulo ati okunrin ti ko wulo ni fife. AISAN: Oju, Iba, Aisanarariro, Ikoinuriru, otutu inu, egun, ejeriru.",
     category: "Enemies, Family & Social Issues"
   },
-  "3@1": {
-    "id": "3@1",
-    "title": "Section Three - 3@1",
-    "content": "Oro obinrin, ki Olorun bo asiri, on nwa nkan lo si ibikan, onse iranlowo fun enikan. Emi Onibeere yoo gun.",
-    "category": "Obinrin & Ise"
-  },
-  "3@2": {
-    "id": "3@2",
-    "title": "Section Three - 3@2",
-    "content": "ATEGUN, OSO. Oro Awe, oro obinrin kan nbe ni emi re, o nro pe nkan kolo dede, awon agba nse, O RI NKAN TI IBANINUJE NINU ILE. Agbana, aje ndi lowo, won ti bo ogo re mole, yoo ma fa idiwo sinu aye re, eti lori adehun awon eeyan, ti o ba fe se nkan yoo ma leti. KO FI AKARA SE SARA (3@2 ati 3@3 ko ri se rara).",
-    "category": "Ibaninuje & Idiwo"
-  },
-  "3@3": {
-    "id": "3@3",
-    "title": "Section Three - 3@3",
-    "content": "On reti nkankan tori yori si etan tabi jibiti. Ti a ba ri 3@3 ati 3@2 papo onibere ko ri se rara. A tun le tu 3@3 to ba daduro a tun le tu si pe o njeri pe obinrin ki se alagbere, KO TO LOKO TO BA MO OKUNRIN — MISTAKE NI. Awon agba ni idile iya won nda laamu. To baje okunrin iyawo eni yi ki se alagbere ninu abuda re, o wa le ma se awokose awon miran lati ma se. Alagbere obinrin 3@13 ati 13@3 ti a bati ri fun obinrin, alagbere ni. Fun okunrin, alagbere 1@7, 13@3 ati 3@13 yoo ba obinrin sun ti ki se iyawo re yoo ba sun. Ti a ri 3@3 pelu 3@6, ti o ba nise lowo, won ko jeki o gbadun ise. Wahala ti poju, ti ko bani ise yoo ma le ise kiri. IRAWO ILE 3 ATI 7 LAFI MO IGBEYAWO TO DARA. Omi ati erupe dara. Ina ati ategun o dara. Gbogbo iyoku ko dara. IRAWO ILE KETA 3 KA PO MO IRAWO KETALA 13. To ba bi good star o dara, to ba bi bad star ko dara. A tun le se ayewo lori irawo ina, omi, afefe ati erupe.",
-    "category": "Alagbere & Irin Aye"
-  },
-  "3@4": {
-    "id": "3@4",
-    "title": "Section Three - 3@4",
-    "content": "AMUBO. Awon agba ni idile baba ndamu.",
-    "category": "Idile Baba"
-  },
-   "3@5": {
-    "id": "3@5",
-    "title": "Section Three - 3@5",
-    "content": "Awon agba yoo block ile omo. Ti o ba ti bimo ri obinrin, omo naa yoo je, yoo kuru, yoo ri rubutu, ko ni je omo to slender to ga.",
-    "category": "Omo & Idile"
-  },
-   "3@6": {
-    "id": "3@6",
-    "title": "Section Three - 3@6",
-    "content": "Ko belorun ko ma ri idaamu lenu ise. To ba je onise owo, mo lo mo bo mo wa ise kakiri, yoo ma damu. Bere ise ka kiri, se e se ise tefe se mo ni, ko to ri ise se. Onise osu won yoo gbe ogun ti nibii ise, dojule kosi owo lowo. Ti 3@6 ati 6@6 ba jade osu meji si asiko yi, wahala yoo ba ise to nse. Ti 6@6 ba daduro, oro kanna ni.",
-    "category": "Idaamu & Ise"
-  },
-  "3@7": {
-    "id": "3@7",
-    "title": "Section Three - 3@7",
-    "content": "ONISE ISE NI. Ko si owo, osu osu ni. Gbogbo ise re ti di ibajẹ. Ko si àseyori rere ninu ohun ti o nse.",
-    "category": "Ise & Owo"
-  },
-  "3@8": {
-    "id": "3@8",
-    "title": "Section Three - 3@8",
-    "content": "Ti a ba ri 3@8, okunrin yii yoo ni wahala ninu oko ati iyawo. Obinrin naa yoo maa fi agbara rẹ maa je. Awon agba ti fi idena si. Ko ni ipinnu rere ninu oko.",
-    "category": "Igbeyawo & Wahala"
-  },
-   "3@9": {
-    "id": "3@9",
-    "title": "Section Three - 3@9",
-    "content": "Iwa ika wa nibe. Awaadi ki i se rere. Awon agba ti fi ibi si. O ni lati gbe adura gidigidi. Omi ni ororo, ohun gbogbo re ni Olorun lo le tu.",
-    "category": "Iwa & Adura"
-  },
-   "3@10": {
-    "id": "3@10",
-    "title": "Section Three - 3@10",
-    "content": "Ko ni alaanu ninu awon ara re. Oun ni ki a ma sọ ohun gbogbo fun un. O ni lati da ara re duro.",
-    "category": "Idile & Ibaṣepọ"
-  },
-   "3@11": {
-    "id": "3@11",
-    "title": "Section Three - 3@11",
-    "content": "Eniyan yii yoo maa ni wahala pẹlú awon omo. Won yoo maa fa aibale re jade. O ni lati gbadura fun iduroṣinṣin.",
-    "category": "Omo & Iduroṣinṣin"
-  },
-   "3@12": {
-    "id": "3@12",
-    "title": "Section Three - 3@12",
-    "content": "A n sọ fun alufa pe ki o ṣọra gidigidi nitori wahala nbo. Ẹ̀tan ti awọn agba fi si ọna rẹ̀, ati iṣẹ́ rẹ̀ le bajẹ. O gbọ́dọ̀ gbadura pupọ fun aabo ati isegun.",
-    "category": "Alufa & Idaabobo"
-  },
 
+    "3@1": {
+      "id": "3@1",
+      "title": "3@1",
+      "content": "ATEGUN, OSO\n\nOro Awe, oro obinrin kan nbe ni emi re, o nro pe nkan kolo dede, awon agba nse, O RI NKAN TI IBANINUJE NINU ILE",
+      "category": "THREE"
+    },
+    "3@2": {
+      "id": "3@2",
+      "title": "3@2",
+      "content": "Agbana, aje ndi lowo, won ti bo ogo re mole, yoo ma fa idiwo sinu aye re, eti lori adehun awon eeyan, ti o ba fe se nkan yoo ma leti KO FI AKARA SE SARA (3@2 ati 3@3 ko ri se rara)",
+      "category": "THREE"
+    },
+    "3@3": {
+      "id": "3@3",
+      "title": "3@3",
+      "content": "on reti nkankan tori yori si etan tabi jibiti, ti a ba ri 3@3 ati 3@2 papo onibere ko ri se rara. A tun le tu 3@3 to ba daduro a tun le tu si pe o njeri pe obinrin ki se alagbere, KO TO LOKO TO BA MO OKUNRIN MISTAKE NI, AWON AGBALAGBA NI IDILE IYA WON NDA LAAMU, to baje okunrin iyawo eni yi ki se alagbere ninu abuda re, o wa le ma se awokose awon miran lati ma se, tabi ko ni iwa miran, ki se alagbere.. Alagbere obinrin 3@13 ati 13@3 ti a bati ri fun obinrin, alagbere ni, ti o ba je pe okunrin ni irawo yi jade si iyawo re alagbere ni, fun okunrin alagbere 1@7, 13@3 ati 3@13 yoo ba obinrin sun ti ki se iyawo re yoo ba sun. Ti a ri 3@3 pelu 3@6, ti o ba nise lowo, won ko jeki o gbadun ise, wahala ti poju, ti ko bani ise lowo yoo ma le ise kiri, ti o ba ntaja ise ko lo dede IRAWO ILE 3 ATI 7 LAFI MO IGBEYAWO TO DARA. OMI ATI ERUPE DARA, INA ATI ATEGUN O DARA GBOGBO IYOKU KO DARA, A TUN LE SE AYEWO BAYI, IRAWO ILE KETA 3 NKAN TO WA NI BE KA BI PO MO NKAN TO WA NI KETALA 13, NKAN TO BA BI GOOD STAR O DARA TO BA BI BAD STAR KO DARA. TI A BA WO ONI IRAWO INA ,OMI ,AFEFE ATI ERUPE, TO BA DARA TI A FE MO BI OJO OLA YOO SE RI, AO MU IRAWO TO WA NILE IYAWO ATI ILE OKO TABI PO TO BABI 8, IPAYA EPE SISE, 14 OGUN SISE SINI, ASASI 13 ENIKAN YOO MA SE ENIKEJI",
+      "category": "THREE"
+    },
+    "3@4": {
+      "id": "3@4",
+      "title": "3@4",
+      "content": "AMUBO, AWON AGBALAGBA NI IDILE BABA NDAMU",
+      "category": "THREE"
+    },
+    "3@5": {
+      "id": "3@5",
+      "title": "3@5",
+      "content": "AWON AGBALAGBA YOO BLOCK ILE OMO, TI O BA TI BIMO RI OBINRIN NI OMO NA YOO JE, YOO KURU, YOO RI RUBUTU, KO NI JE OMO TO SLENDER TO GA",
+      "category": "THREE"
+    },
+    "3@6": {
+      "id": "3@6",
+      "title": "3@6",
+      "content": "KO BELORUN KO MA RI IDAAMU LENU ISE, TO BA JE ONISE OWO, MO LO MO BO MO WA ISE KAKIRI, YOO MA DAMU, BERE ISE KA KIRI SE E SE ISE TEFE SE MO NI, KO TO RI ISE SE, ONISE OSU WON YOO GBE OGUN TI NIBI ISE, DOJULE KOSI OWO LOWO, TI 3@6 ATI 6@6 osu meji si asiko yi, wahala yoo ba ise to nse, TI 6@6 BA DADURO ORO KANNA NI",
+      "category": "THREE"
+    },
+    "3@7": {
+      "id": "3@7",
+      "title": "3@7",
+      "content": "Ota ma ye si arin, Oko ati aya, OKO TI KI SE ALAGBERE, 3@3",
+      "category": "THREE"
+    },
+    "3@8": {
+      "id": "3@8",
+      "title": "3@8",
+      "content": "Ala wo lo la to jemo ija, tabi ta lo nbaja tabi ba se gbolohun aso, BELORUN KI OTA MA REYIN RE",
+      "category": "THREE"
+    },
+    "3@9": {
+      "id": "3@9",
+      "title": "3@9",
+      "content": "IDAMU AYE, ATEGUN LOJU ONA, YOO MA DAMU KOTO JEUN, KOTO RI, KOTO LO, GBOGBO ONA NI YOO DI",
+      "category": "THREE"
+    },
+    "3@10": {
+      "id": "3@10",
+      "title": "3@10",
+      "content": "Yoo ri ore lodo ijoba mura ki o di wahala olopa. A o ri anfaani lodo nise osu/ijoba. Gbogbo ibi ti o ba wa asiwaju ni, won yoo fi joye nla KAN KO MO KO O, OYE NLA WON TA TENT RERE, BI AWARD to ba fe se oselu yoo rimu.",
+      "category": "THREE"
+    },
+    "3@11": {
+      "id": "3@11",
+      "title": "3@11",
+      "content": "ofe fe obinrin tabi loko. Fun okunrin iyawo meji loni, fun obinrin, o fe loko titun, o ti fi ikan sile, ile oko keji lowa, agbokanle pelu adura ko ni ja ofo. Ti won ba fe se nkan fun tabi on reti nkan, emi buruku yoo ma so fun o pe ko nibo sI, aladehun ko ni sika, KO MA FI OKAN SI.",
+      "category": "THREE"
+    },
+    "3@12": {
+      "id": "3@12",
+      "title": "3@12",
+      "content": "Ija ti a ba enikan ja ti aro pe o ti pari ti ko pari, lokan eni yen, eni yen nbanija, ti a ba ri 8@3, ni idile iyawo, iya iyawo tabi aunt iyawo yoo ma ba o ja, tani o ma sepe larin yin, yoo ni epe sise ninu. 8@3 iyawo lo nbaja. 8@6 ibi ise ni won ti nbaja. 8@9 ija oju ona, inu moto, Awon eleye ni ota re. BELORUN KI OTA MA JERI RE",
+      "category": "THREE"
+    },
     "3@13": {
-    "id": "3@13",
-    "title": "Section Three - 3@13",
-    "content": "Ko gbodo ba ore re darapo mo ise. Yio fa ipinya laarin won. Ko ni ire nibe.",
-    "category": "Ore & Ise"
-  },
-   "3@14": {
-    "id": "3@14",
-    "title": "Section Three - 3@14",
-    "content": "Irin ajo rere wa fun un. Yio mu ayo wa. Ori rere ni irin ajo.",
-    "category": "Irin Ajo & Ayo"
-  },
-   "3@15": {
-    "id": "3@15",
-    "title": "Section Three - 3@15",
-    "content": "Ko sora fun gbese. Owo gbese le ba gbogbo aye re jẹ. O gbodo ma be Olorun fun itusile.",
-    "category": "Gbese & Itusile"
-  },
-   "3@16": {
-    "id": "3@16",
-    "title": "Section Three - 3@16",
-    "content": "Aisedede nbe lori dukia ati lori awon omo re. O ni lati ma gbadura fun atunṣe ati ire rere.",
-    "category": "Dukia & Omo"
-  },
-    "1,3":{
-    "id": "1,3",
-    "title": "Section One - 1,3",
-    "content": "Eniyan yii yoo je alainitọju ninu ise. Ohun gbogbo ti o ba fi owo kan yoo bajẹ. Ko si àseyori. O gbodo ma gbadura.",
-    "category": "Ise & Aseyori"
-  },
-   "2,3": {
-    "id": "2,3",
-    "title": "Section Two - 2,3",
-    "content": "A n sọ fun un pe yoo maa banuje lori awon nkan kan. Ko ni ire pupọ. O ni lati gbadura gidigidi.",
-    "category": "Ibanuje & Adura"
-  },
-   "3,3": {
-    "id": "3,3",
-    "title": "Section Three - 3,3",
-    "content": "Ohun gbogbo re maa n bajẹ loju emi re. O gbodo gbadura fun Aseyori rere. Sora fun akoba.",
-    "category": "Adura & Aseyori"
-  },
-   "4,3": {
-    "id": "4,3",
-    "title": "Section Four - 4,3",
-    "content": "Aare ati ipinya wa fun un. Awon agba ti pin aran re. O gbodo ma be Olorun fun ilera.",
-    "category": "Aare & Ilera"
-  },
+      "id": "3@13",
+      "title": "3@13",
+      "content": "OTA RE AWON TO SUNMO PEKIPEKI",
+      "category": "THREE"
+    },
+    "3@14": {
+      "id": "3@14",
+      "title": "3@14",
+      "content": "KI ALFA BELORUN KI AWON AJE MAMA BA ISE RE JE",
+      "category": "THREE"
+    },
+    "3@16": {
+      "id": "3@16",
+      "title": "3@16",
+      "content": "o fe gbe igbese kan lori oro kan mura tori igbeyin oro ko le dara. Ore okeere nbo wa. BELORUN KI AWON ELEYE MA DA O LAAMU",
+      "category": "THREE"
+    },
+    "3A": {
+      "id": "3A",
+      "title": "3A",
+      "content": "Lehin opolopo wahala adun ni oro re yoo jasi, ise yoo te o lowo, ati igbesi aye to rewa, ki o ni otito, ki o si ma gba imoran awon eniyan papa asaju, ota idile po fun o, sora ija pelu won, alakala ti yoo tumo si ifasehin, lati owo ota, awon eniyan yoo ma yan o je, ota nbe ti yio ma ro ejo, yoo ma soro re lehin, ti o le fa akoba, otito siso to le fa akoba, sora fun alagbeda, onijibiti, Olorun yoo fi o bori awon ota re, ki o si fi aseyori pamo laipariwo, malo ode oru, Olorun yio se gbogbo nkan ti o fe fun o laipe yii, Wa ri Ore lati odo eniyan pataki kan, yio mu o de ipo pataki, owo nbo, ore nbo lati idale fun o, Igbega si ipo ola: Ife ati ibanikegbe yoo waye loni.",
+      "category": "THREE"
+    },
+    "3b": {
+      "id": "3b",
+      "title": "3b",
+      "content": "O je olotito, sugbon aye tabi awon eniyan koni gba o laye lati so otito. Won yoo ma ti si iro pipa. Otito yoo je ki awon eniyan korira re, won yoo ma gba oro re sodi,,Wa fe ma da se nkan tire, ti o ni fe se ajosepo pelu won tori ailooto. Ise si re yoo ma yato si ti elomiran. Wa agidi okan, wa korira, iyanje tabi ki enikan ma lo owo agbara lati pase leyan lori lona ti ko to.O je eniti ara re ko bale, yoo ma se nkan pelu asise. Inu re ma sa dede baje. Ti o ba ronu lori bi nkan se nlo pelu re ti ko te lorun, ero okan re ma nyi pada lojiji.Isele ojiji, ore ojiji, isubu ojiji. Ore ma nyoju nigba ti o bati so ireti nu. Alanu eda to lawo to bani o, ti yoo se ore fun eniti yo lo owo tabi anfani na dada.Ma nronu jinle ko to se nkan. Ota po ti won yoo ma jowu re. Ma fi inu han ore.O ma nko irinmeji bona po, lekan soso. O ma nse nkan meji lekansoso. O ma nro ti elomiran mo tire. O ma se iwadi nkanju bi o fi ye lo ti o le fa ikorira tabi ota. O ki wa iparun fun eniyan. Feran oso le sise tabi wa ni ayika to mo toni toni."
+    },
 
-   "4@1": {
+        "ISE": {
+      "id": "ISE",
+      "title": "ISE",
+      "content": "Teacher, Ise agbe, Tewetegbo sise, Egbo igi tita, Nkan osin, Aso reran, Nurse, Doctor, Owo sise",
+      "category": "THREE"
+    },
+    "AISAN": {
+      "id": "AISAN",
+      "title": "AISAN",
+      "content": "Arariro, inudidun, inurirun, ipalaran ibi ija (accident), arawiwo, oyioju.",
+      "category": "THREE"
+    },
+
+    "1,3": {
+      "id": "1,3",
+      "title": "Section Three - 1,3",
+      "content": "Owo nla kan nbo, Yio duro lowo ko fi se nkan to dara.",
+      "category": "Wealth & Opportunity"
+    },
+    "1,3b": {
+      "id": "1,3b",
+      "title": "Section Three - 1,3b",
+      "content": "Eri okan yio maa Jee lori iwa kan to Ju ko yi pada ko Si ni ibe Olorun.",
+      "category": "Faith & Conviction"
+    },
+    "2,3": {
+      "id": "2,3",
+      "title": "Section Three - 2,3",
+      "content": "Owo ti yio fi gbo tara Re nbo (bukata) Asiri yio bo.",
+      "category": "Need & Divine Provision"
+    },
+    "3,3": {
+      "id": "3,3",
+      "title": "Section Three - 3,3",
+      "content": "Owo kan nbo yio si Lo bee. Ko bori re ko si se saara ki nkan tonfe le tee lowo o nfa nkan mo iyawo.",
+      "category": "Wealth & Marital Challenge"
+    },
+    "4,3": {
+      "id": "4,3",
+      "title": "Section Three - 4,3",
+      "content": "Owo re yio maa roke ko kun fun Ibelorun, iyonu lorisirisi ni ko ma se.",
+      "category": "Prosperity & Gratitude"
+    },
+    "5,3": {
+      "id": "5,3",
+      "title": "Section Three - 5,3",
+      "content": "Irin ajo yio yoju ko se adura tori eeti. Eti nba nka kan lowo re.",
+      "category": "Travel & Caution"
+    },
+    "8,3": {
+      "id": "8,3",
+      "title": "Section Three - 8,3",
+      "content": "Abosi laarin oko Si iyawo. Irin ajo ti yi dun moni. Ninu Oore wa leyin odi fun.",
+      "category": "Marriage & Journey"
+    },
+    "12,3": {
+      "id": "12,3",
+      "title": "Section Three - 12,3",
+      "content": "Won yii fi irin ajo kan lo Oore ni wa o minbo lati ibe.",
+      "category": "Travel & Blessing"
+    },
+    "13,3": {
+      "id": "13,3",
+      "title": "Section Three - 13,3",
+      "content": "Mase gba iyawo/sora fun sina, yio lu oogun.",
+      "category": "Caution & Misfortune"
+    },
+    "14,3": {
+      "id": "14,3",
+      "title": "Section Three - 14,3",
+      "content": "Mase lo si irin ajo Yio padanu owo re irin ajo yen ko dara. Ko maa se ebe awon agba daadaa, aare awon agba yio maa see.",
+      "category": "Travel & Ancestral Warning"
+    },
+    "15,3": {
+      "id": "15,3",
+      "title": "Section Three - 15,3",
+      "content": "Won yio fi oja kan/iso kan loo. Yio jere pupo nibe.",
+      "category": "Trade & Profit"
+    },
+    "16,3": {
+      "id": "16,3",
+      "title": "Section Three - 16,3",
+      "content": "Oro ife tori obinrin pupo ko ma ba padanu emi re.",
+      "category": "Love & Emotional Risk"
+    },
+
+
+  "4@1": {
     "id": "4@1",
     "title": "Section Four - 4@1",
-    "content": "O nri awon nkankan ti ndun mo ninu, yala ninu ile tabi nita, ki o ma te aso funfun sori bed re to ba fe sun.",
-    "category": "Ile & Aabo"
+    "content": "O n ri awon nkanan ti n dun mo ninu, yala ninu ile tabi nita, ki o ma te aso funfun sori bed re to ba fe sun.",
+    "category": "Abo & Itunu"
   },
-   "4@2": {
+  "4@2": {
     "id": "4@2",
     "title": "Section Four - 4@2",
-    "content": "Lori oro owo yoo maa ri idunnu, ayo, rerin.",
+    "content": "Lori oro owo yoo ma ri idunnu, ayo, rerin.",
     "category": "Owo & Ayo"
   },
-   "4@3": {
+  "4@3": {
     "id": "4@3",
     "title": "Section Four - 4@3",
-    "content": "Idaamu lori ise. Obinrin to ni omi lara, to mora ferefe, ni mo nwo nile yi. Yoo maa jowu pupo, igbonara po fun. To ba je okunrin, iyawo re yoo maa jowu. To ba je obinrin, ojowu ni, yoo light die, yoo lara die. (Irawo pase, ibi meji tabi meta ti soro papo ti ojo arawon. Bi 4@3 ojowu binrin, 5@7) Ojowu binrin yoo lo.",
-    "category": "Ise & Ojowu"
+    "content": "Idaamu lori ise. Obinrin to ni omi lara, to mora ferefe, ni mo nwo nile yi, yoo ma jowu pupo, igbonara po fun, to ba je okunrin iyawo re yoo ma jowu, to ba je obinrin, ojowu ni, yoo light die, yoo lara die. (Irawo pase, ibi meji tabi meta ti soro papo ti ojo arawon, bi 4@3 ojowu binrin, 5@7). Ojowu binrin yoo lo.",
+    "category": "Ise & Ife"
   },
-   "4@4": {
+  "4@4": {
     "id": "4@4",
     "title": "Section Four - 4@4",
     "content": "Ni idile baba, alaniyan, yoo ri idunnu ninu gbogbo adawole.",
-    "category": "Idile & Adawole"
+    "category": "Ebi & Idunnu"
   },
-   "4@5": {
+  "4@5": {
     "id": "4@5",
     "title": "Section Four - 4@5",
-    "content": "Omo idunnu ni omo yi, sugbon yoo maa fewo, ojukokoro.",
-    "category": "Omo & Ojukokoro"
+    "content": "Omo idunnu ni omo yi, sugbon yoo ma fewo, ojukokoro.",
+    "category": "Iwa & Omo"
   },
-   "4@6": {
+  "4@6": {
     "id": "4@6",
     "title": "Section Four - 4@6",
-    "content": "Yoo ri ayo ninu ise re.",
+    "content": "Yoo ri ayo nibii ise re.",
     "category": "Ise & Ayo"
   },
-
-   "4@7":{
+  "4@7": {
     "id": "4@7",
     "title": "Section Four - 4@7",
     "content": "Okunrin ti ara re yoo gbona, jowu, lara die, mo lara.",
-    "category": "Ara & Jowu"
+    "category": "Ara & Ife"
   },
-   "4@8":{
+  "4@8": {
     "id": "4@8",
     "title": "Section Four - 4@8",
-    "content": "Ko so enu re ko ma maa so gbogbo oro inu re sita, kole ni aseyori.",
-    "category": "Iwa & Aseyori"
+    "content": "Ko so enu re ko ma ma so gbogbo oro inu re sita, kole ni aseyori.",
+    "category": "Imoran"
   },
-   "4@9":{
+  "4@9": {
     "id": "4@9",
     "title": "Section Four - 4@9",
-    "content": "Irinaajo kan yoo waye, yoo ri idunnu nibe.",
-    "category": "Irinaajo & Idunnu"
+    "content": "Irinaajo kan yoo waye yoo ri idunnu nibe.",
+    "category": "Irinaajo & Ayo"
   },
-  "4@10":{
+  "4@10": {
     "id": "4@10",
     "title": "Section Four - 4@10",
-    "content": "Won nwdi wa kiri, yoo ni wahala legbe otun, nkankan wa legbe otun ti yoo la operation lo. Ti a ba ri 9@2 ati 9@13, owo njo lo, o ti di agbaana. Wahala isale inu didun.",
-    "category": "Ara & Wahala"
+    "content": "Won n wadi wa kiri, yoo ni wahala legbe otun, nkankan wa legbe otun ti yoo la operation lo. Ti a ba ri 9@2 ati 9@13, owo njo lo o ti di agbaana. Wahala isale inu didun.",
+    "category": "Aisan & Owo"
   },
-  "4@11":{
+  "4@11": {
     "id": "4@11",
     "title": "Section Four - 4@11",
-    "content": "Ti a bani tanmo nkankan yoo bosi. Ore ti Olorun ti pari ni. To ba je eni to loyun, ki won sora ki won ma fi obe gba omo ninu alaboyun to ba je obinrin. To ba je okunrin, ki won ma fi obe gba omo ninu iyawo.",
-    "category": "Omo & Ilera"
+    "content": "Ti a bani tanmo nkankan yoo bosi. Ore ti Olorun ti pari ni. To ba je eni to loyun, ki won sora ki won ma fi obe gba omo ninu alaboyun; to ba je okunrin ki won ma fi obe gba omo ninu iyawo.",
+    "category": "Oyun & Aabo"
   },
-   "4@12":{
+  "4@12": {
     "id": "4@12",
     "title": "Section Four - 4@12",
     "content": "Yoo jeri ota.",
-    "category": "Ota & Isegun"
+    "category": "Ota & Idaabobo"
   },
-
-   "4@13": {
+  "4@13": {
     "id": "4@13",
     "title": "Section Four - 4@13",
     "content": "Olorun fun alaniyan ti ndunnu le lori, owo wa lowo re, okan re bale, nkankan nbe ti o je idunnu fun alaniyan.",
-    "category": "Idunnu & Ore"
+    "category": "Idunnu & Aanu"
   },
-   "4@14": {
+  "4@14": {
     "id": "4@14",
     "title": "Section Four - 4@14",
     "content": "Alfa na ri ore ti ndun ninu.",
-    "category": "Ore & Ayọ"
+    "category": "Ore & Aanu"
   },
-   "4@15": {
+  "4@16": {
     "id": "4@16",
     "title": "Section Four - 4@16",
-    "content": "Yoo ri eniton jo rira tipe. Yoo lo si eyin odi, yoo ri ore nla leyin odi. Won yoo fi oro obinrin ara eyin odi lowo bi ajosepo.",
-    "category": "Ajosepo & Ore"
+    "content": "Yoo ri eniton jo rira tipe. Yoo lo si eyin odi, yoo ri ore nla leyin odi, won yoo fi oro obinrin ara eyin odi lowo bi ajosepo.",
+    "category": "Ore & Irinajo"
   },
-
-    "4@16": {
+  "4A": {
     "id": "4A",
-    "title": "Ota ti o farapamo lara ore re",
-    "content": "Awon ore ti oju won dabi ore sugbon ota ni won. Wọn yoo ma fa ibanuje, dena ore nla, mu wahala emi okunkun wa. O ni agbara opolo, ebun irina lati ri ohun to nbo, ati ola ninu ise. Sugbon ma se fi ara re si ipo owo, sora fun jibiti, ki o maa fi suru gbe aye.",
-    "category": "Spiritual Guidance"
+    "title": "Section Four - 4A",
+    "content": "Awon ota ti o farapamo wa lara ore re... (full text about hidden enemies, wisdom, character, and destiny).",
+    "category": "Itumo & Iwa"
   },
-   "ISE": {
+  "ISE": {
     "id": "ISE",
-    "title": "Ise ti o le se",
-    "content": "Electrical, Hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin, Oluko, Ounje sise ta, Pharmacy.",
-    "category": "Career"
+    "title": "Section Four - Ise",
+    "content": "Electrical, hotel business, akoweoja, akowe ijoba, agbe sise, adie sisin, oluko, ounje sise ta, pharmacy.",
+    "category": "Ise"
   },
-   "AISAN":{ 
+  "AISAN": {
     "id": "AISAN",
-    "title": "Aisan to le se",
-    "content": "Oru le mu aisan, inuriru, iba orikerike, ara riro, eyin didunki, ito sugar (diabetes).",
-    "category": "Health"
+    "title": "Section Four - Aisan",
+    "content": "Oru yoo ma fa aisan si lara, inuriru, iba orikerike ara, ara riro, eyin didunki. O ma je sugar ju tori ito sugar.",
+    "category": "Aisan"
   },
-  "IRINAJO-1": {
-    "id": "IRINAJO-1",
-    "title": "Irin ajo ti yio la abuku",
-    "content": "Irinajo kan le ko abuku ba o nitori igbese ti ko dara.",
-    "category": "Journey"
-  },
-  "IRINAJO-2":{
-    "id": "IRINAJO-2",
-    "title": "Irinajo ti ko ni mubo",
-    "content": "O le lo si ibikan sugbon ko ni ri anfaani kankan.",
-    "category": "Journey"
-  },
-  "IRINAJO-3":{
-    "id": "IRINAJO-3",
-    "title": "Atajare lori oja re",
-    "content": "Ni akoko yi, iṣowo re le dara.",
-    "category": "Business"
-  },
-  "IRINAJO-4":{
-    "id": "IRINAJO-4",
-    "title": "Eti yoo ba nkan to fe se",
-    "content": "Ero tabi igbese kan le daru nitori wahala.",
-    "category": "Journey"
-  },
-   "IRINAJO-5": {
-    "id": "IRINAJO-5",
-    "title": "Adawole ko ni sese",
-    "content": "Ero ti o n gbero le ma seese.",
-    "category": "Journey"
-  },
-   "IRINAJO-6": {
-    "id": "IRINAJO-6",
-    "title": "Yoo ri ire mubo ni irin ajo",
-    "content": "Irinajo kan le mu ire ati oore wa.",
-    "category": "Journey"
-  },
-   "IRINAJO-7": {
-    "id": "IRINAJO-7",
-    "title": "Irinajo ti ko dara rara",
-    "content": "Sora fun irinajo yi, ko dara rara.",
-    "category": "Journey"
-  },
-   "IRINAJO-8":{
-    "id": "IRINAJO-8",
-    "title": "Yoo gburo owo kan",
-    "content": "Yoo gba owo kan ti yoo si tee lowo.",
-    "category": "Business"
-  },
-   "IRINAJO-9":{
-    "id": "IRINAJO-9",
-    "title": "Won yoo se abosi lori dukia",
-    "content": "Sora fun eniyan ti o le se abosi si dukia re.",
-    "category": "Warning"
-  },
-   "IRINAJO-10": {
-    "id": "IRINAJO-10",
-    "title": "Saara fun awon omo wewe",
-    "content": "Ti o ba fun ni saara fun awon omo kekere, ona yoo si fun o.",
-    "category": "Advice"
-  },
-   "IRINAJO-11": {
-    "id": "IRINAJO-11",
-    "title": "Ijamba motor le sele",
-    "content": "Sora fun ijamba motor, se adura pelu saara.",
-    "category": "Warning"
-  },
-   "IRINAJO-12": {
-    "id": "IRINAJO-12",
-    "title": "Mase rin irinajo yi",
-    "content": "Ko dara lati rin irinajo yi, ma a gbe igbesẹ yi.",
-    "category": "Journey"
-  },
-   "IRINAJO-13": {
-    "id": "IRINAJO-13",
-    "title": "Ona yoo si fun o",
-    "content": "Ona rere yoo si, sugbon saara ni o nilo.",
-    "category": "Journey"
-  },
-   "IRINAJO-14": {
-    "id": "IRINAJO-14",
-    "title": "Yoo foju kan obinrin kan",
-    "content": "Obinrin kan yoo han, sugbon ko dara fun o.",
-    "category": "Warning"
-  },
-  "IRINAJO-15": {
-    "id": "IRINAJO-15",
-    "title": "Enikan yoo se are iku",
-    "content": "Sora gidigidi nitori arun tabi iku enikan.",
-    "category": "Warning"
-  },
-   "ILE-OMO": {
-    "id": "ILE-OMO",
-    "title": "Oro oyun ati omo",
-    "content": "Ko soro oyun ni bayi, sugbon bi oyun ba de leyin osu mefa tabi meje, iru awon irawo kan le ni ipa. Oro ojukokoro le fa wahala ninu ile.",
-    "category": "Family"
+  "4a": {
+    "id": "4a",
+    "title": "Section Four - 4a",
+    "content": "ILE OMO/OYUN, OMI, IRINAJO, 1, MA SORO OYUN, 10, MA SORO OYUN NILE KARUN, 10, GANGAN NI MA SORO OYUN, TI OYUN BA TI HAN SITA, BI OSU MEFA OSU MEJE, LEYIN TI A BA AWON IRAWO KAN NILE, 4 KI SORO OYUN NI 5, ORO OJUKOKORO NI MA NSO ATI 2 NILE.",
+    "category": "Oyun & Irinaajo"
   },
 
-  
-  "ILE-OMO": {
-    "id": "ILE-OMO",
-    "title": "Ile Omo / Oyun",
-    "content": "Ko soro oyun ni bayi, sugbon bi oyun ba han sita leyin osu mefa tabi meje, ipa awon irawo kan wa. Oro ojukokoro yoo ma nso ni nile.",
-    "category": "Family"
-  },
+    "1,4": {
+      "id": "1,4",
+      "title": "Section Four - 1,4",
+      "content": "Irin ajo ti yio la abuku lo igbese ti ko dara to.",
+      "category": "Travel & Warning"
+    },
+    "2,4": {
+      "id": "2,4",
+      "title": "Section Four - 2,4",
+      "content": "Yio lo si ibikan, kosi ni ri nkan tonwa lo mubo. Yio rii – ko ni rii mubo.",
+      "category": "Journey & Loss"
+    },
+    "3,4": {
+      "id": "3,4",
+      "title": "Section Four - 3,4",
+      "content": "Atajare lori oja re lasiko yi. Adawole ti yio dara.",
+      "category": "Business & Gain"
+    },
+    "5,4": {
+      "id": "5,4",
+      "title": "Section Four - 5,4",
+      "content": "Eti yio ba nkan to fe se. Eti wa fun.",
+      "category": "Delay & Patience"
+    },
+    "6,4": {
+      "id": "6,4",
+      "title": "Section Four - 6,4",
+      "content": "Adawole ko ni seese. Eti yio ba nkan to ngbero.",
+      "category": "Obstruction & Planning"
+    },
+    "7,4": {
+      "id": "7,4",
+      "title": "Section Four - 7,4",
+      "content": "Yio ri ire mubo ni irin ajo. Irin ajo to rewo yoo mu oore ba.",
+      "category": "Travel & Blessing"
+    },
+    "8,4": {
+      "id": "8,4",
+      "title": "Section Four - 8,4",
+      "content": "Irin ajo ti ko dara rara.",
+      "category": "Travel & Danger"
+    },
+    "9,4": {
+      "id": "9,4",
+      "title": "Section Four - 9,4",
+      "content": "Yio gburo owo kan, owo na yoo si tee lowo.",
+      "category": "Wealth & Opportunity"
+    },
+    "10,4": {
+      "id": "10,4",
+      "title": "Section Four - 10,4",
+      "content": "Won yoo se abosi sii lori dukia kan tabi ki on na se si enia.",
+      "category": "Conflict & Property"
+    },
+    "11,4": {
+      "id": "11,4",
+      "title": "Section Four - 11,4",
+      "content": "Saara fun awon omo wewe. Ona yoo wa la fun.",
+      "category": "Charity & Relief"
+    },
+    "12,4": {
+      "id": "12,4",
+      "title": "Section Four - 12,4",
+      "content": "Mase rin irin ajo lasiko yi, ko dara to.",
+      "category": "Travel & Warning"
+    },
+    "13,4": {
+      "id": "13,4",
+      "title": "Section Four - 13,4",
+      "content": "Ijamba motor yoo sele sii. Adura pelu saara.",
+      "category": "Accident & Prayer"
+    },
+    "14,4": {
+      "id": "14,4",
+      "title": "Section Four - 14,4",
+      "content": "Ona yoo sii fun. Ko se saara dada.",
+      "category": "Opportunity & Sacrifice"
+    },
+    "15,4": {
+      "id": "15,4",
+      "title": "Section Four - 15,4",
+      "content": "Yoo foju kan obinrin kan. O dara, o le fee.",
+      "category": "Love & Encounter"
+    },
+    "16,4": {
+      "id": "16,4",
+      "title": "Section Four - 16,4",
+      "content": "Enikan yoo se aare iku. Ko mura gidigidi.",
+      "category": "Illness & Warning"
+    },
+
 
   "5@1": {
-    "id": "5-1",
-    "title": "Ironu nipa omo ati irinajo",
-    "content": "O wa lemi pe o fe rin irinajo, o fe kuro nibikan bo si ibikan.",
-    "category": "Journey"
+    "id": "5@1",
+    "title": "5@1",
+    "content": "Ironu nipa omo, irin ajo lilo, O WA LEMI PE O FE RIN IRIN AJO, O FE KURO NIBIKAN BO SI IBIKAN",
+    "category": "Omo & Irinajo"
   },
   "5@2": {
-    "id": "5-2",
-    "title": "Agbaana nkan",
-    "content": "Nkan yoo njade, owo ko duro lowo onibeere. Owo ti nwole ko duro.",
-    "category": "Finance"
+    "id": "5@2",
+    "title": "5@2",
+    "content": "Agbaana nkan yoo njade.  Owo ko duro lowo onibeere, ONA LA, OWO TI NWOLE KO DURO",
+    "category": "Owo & Aseyori"
   },
   "5@3": {
-    "id": "5-3",
-    "title": "Ikosile obinrin",
-    "content": "Obinrin ti yoo paro oko, bi eni paro ewu. Ewu ikosile wa. To ba je okunrin, iyawo re yoo paro. To ba je obinrin, oko re yoo paro.",
-    "category": "Family"
+    "id": "5@3",
+    "title": "5@3",
+    "content": "IKOSILE, OBINRIN TI YOO MO PARO OKO BI ENI PARO EWU  ALAFE GBEJUSILE IYAWO, YOO PEJI, YOO KOLA, 1==1, TO BA JE OKUNRIN IYAWO RE YOO MO PARO, YOO LEJI KOLA",
+    "category": "Ife & Iyawo"
   },
   "5@4": {
-    "id": "5-4",
-    "title": "Awon omo baba re",
-    "content": "Yoo ri se ninu awon omo baba re.",
-    "category": "Family"
+    "id": "5@4",
+    "title": "5@4",
+    "content": "YOO RI SE NINU AWON OMO BABA RE",
+    "category": "Ebi & Ise"
   },
   "5@5": {
-    "id": "5-5",
-    "title": "Omo gbogbo",
-    "content": "Ko ni isoro omo, gbogbo omo yoo ya re.",
-    "category": "Family"
+    "id": "5@5",
+    "title": "5@5",
+    "content": "KO NI ISORO OMO GBOGBO OMO NI YOO YA RE",
+    "category": "Omo & Idunnu"
   },
   "5@6": {
-    "id": "5-6",
-    "title": "Ise alaniyan",
-    "content": "Ise ti alaniyan nse ona re ni, sugbon ona ko di mo.",
-    "category": "Career"
+    "id": "5@6",
+    "title": "5@6",
+    "content": "ISE TI ALANIYAN NSE ONA RE NI,ONA KO DI MO",
+    "category": "Ise & Ona"
   },
   "5@7": {
-    "id": "5-7",
-    "title": "Ikosile okunrin",
-    "content": "Okunrin naa yoo paro iyawo bi eni paro aso. Ikosile wa, wahala ibasepo nla.",
-    "category": "Family"
+    "id": "5@7",
+    "title": "5@7",
+    "content": "IKOSILE, OKUNRIN NA YOO MA PARO IYAWO BI ENI PARO ASO, YOO PEJI, TABI KO KOLA 1-1 SOJU Okunrin to peji, to kola (1-1)tabi okunrin ti obinrin ko ni ridi joko lodo re, Afegbejusile OKUNRIN, ti a ba ba bayala nile iyawo, iyawo to mora, sanra die ti yoo ma jowu, 5@7 bawa papo mo 4@3 O TI PASE IKOSILE, owu jije le ma jeki obinrin joko nile oko. OKUNRIN NA YOO MA PARO IYAWO BI IGBA TI EYAN NPARO ASO,, TO BA SE OBINRIN NI, OKO TO BA FE YOO MA PARO IYAWO",
+    "category": "Ife & Iyawo"
   },
   "5@8": {
-    "id": "5-8",
-    "title": "Iku ojiji",
-    "content": "Ko mura ki iku ojiji ma ba sele.",
-    "category": "Warning"
+    "id": "5@8",
+    "title": "5@8",
+    "content": "KO MURA KO MA BA, IKU OJIJI",
+    "category": "Iku & Sora"
   },
   "5@9": {
-    "id": "5-9",
-    "title": "Irinajo nla",
-    "content": "Irinajo kan yoo waye laipe, kuro nibikan si ibi miiran. Agbega kan nbo fun onibeere.",
-    "category": "Journey"
+    "id": "5@9",
+    "title": "5@9",
+    "content": "IRINAJO KAN YOO WAYE LAIPE,KIKURO NIBIKAN SI IBIKAN enikan sunmo ti yoo ti sibi  dada ilu oyinbo. AGBEGA KAN NBO FUN ONIBEERE,",
+    "category": "Irinajo & Agbega"
   },
   "5@10": {
-    "id": "5-10",
-    "title": "Ona owo gidi",
-    "content": "Ona owo gidi yoo la fun onibeere, gbigba adura lodo oloselu tabi onise-osu.",
-    "category": "Finance"
+    "id": "5@10",
+    "title": "5@10",
+    "content": "ONA OWO GIDI YOO LA FUN ONIBEERE GBIGBA ADUA LODO OLOSELU lodo onise –osu.",
+    "category": "Owo & Aseyori"
   },
   "5@11": {
-    "id": "5-11",
-    "title": "Message lati okere",
-    "content": "Onibeere yoo ri message lati okere. Owo kekere yoo tee lowo.",
-    "category": "Prediction"
+    "id": "5@11",
+    "title": "5@11",
+    "content": "Yoo ri MESSAGE lati okere, owo kan KEKERE yoo tee lowo.GBOGBO ORE TI ONIBEERE FI OKAN SI PATA NI YOO TE LOWO",
+    "category": "Iroyin & Owo"
   },
   "5@12": {
-    "id": "5-12",
-    "title": "Eleda ko gbabode iku",
-    "content": "Eleda ko gbabode iku, ki o be l'orun ki ota ma rehin re. Gbadura fun omo re.",
-    "category": "Spiritual Guidance"
+    "id": "5@12",
+    "title": "5@12",
+    "content": "Eleda ko gbabode iku,KO BELORUN KI OTA MA REHIN RE ki o belorun fun  Omo re ni tori ota.",
+    "category": "Ota & Adura"
   },
   "5@13": {
-    "id": "5-13",
-    "title": "Loogun ati call ayo",
-    "content": "Enikan yoo fun o ni oogun. Onibeere yoo gba call ayo, yoo rise ti yoo po.",
-    "category": "Prediction"
+    "id": "5@13",
+    "title": "5@13",
+    "content": "Enikan yoo fun loogun  Onibeere yoo gba call ayo, YOO RISE TI YOO PO YOO SI NI AKOJO",
+    "category": "Ire & Ipe Ayo"
   },
   "5@14": {
-    "id": "5-14",
-    "title": "Ona alfa",
-    "content": "Ona yoo la fun alfa, sugbon ona ko di mo.",
-    "category": "Spiritual Guidance"
+    "id": "5@14",
+    "title": "5@14",
+    "content": "ONA YOO  LA FUN ALFA, ONA KO DI MO ALFA,",
+    "category": "Ona & Alfa"
   },
   "5@15": {
-    "id": "5-15",
-    "title": "Toju ara",
-    "content": "Ki o toju ara nitori aisan eyin didun. Ilu to wa, yoo rise nibẹ.",
-    "category": "Health"
+    "id": "5@15",
+    "title": "5@15",
+    "content": "KI O TOJU ARA TORI, AISAN EYIN DIDUN, ILU TO WA YOO RISE NIBE",
+    "category": "Aisan & Ilera"
   },
   "5@16": {
-    "id": "5-16",
-    "title": "Oore okere",
-    "content": "Oore lati okere yoo bo fun onibeere. Adura yoo gba leyin odi to ba travel.",
-    "category": "Blessing"
+    "id": "5@16",
+    "title": "5@16",
+    "content": "Oore okere nwole bo fun onibeere.ADUA ONIBERE YOO GBA LEYIN ODI TO BA TRAVEL",
+    "category": "Oore & Adua"
   },
 
   "5A": {
     "id": "5A",
-    "title": "Alejo ati ire",
-    "content": "Alejo nbo fun o tabi iwo yoo lo si idale kan ti yoo mu ere ati ayo wa. Sugbon ota yoo gbero si o. Obinrin le tan o lati gba owo. Sugbon ire nla nbo pelu ebun opolo ati ola. O ma nwa bi ile aye re yoo dara, suru ni o nilo. O gbodo ma se dawole ohun ti agbara ko ka.",
-    "category": "Spiritual Guidance"
+    "title": "Section Five - 5A",
+    "content": "ILE OMO/OYUN, OMI, IRINAJO, 1,MA SORO OYUN, 10, MA SORO OYUN NILE KARUN, 10, GANGAN NI MA SORO OYUN, TI OYUN BA TI HAN SITA,BI OSU MEFA OSU MEJE, LEYIN TI A BA AWON IRAWO KAN NILE, 4 KI SORO OYUN NI 5, ORO OJUKOKORO NI MA NSO ATI 2 NILE 5   Alejo nbo fun o tabi iwo papa yio lo si idale kan ti yio mu ere, inu didun ati ayo wa, o ri dada lati ara obinrin sugbon o ni lati ni opolopo suuru pelu ayo, ki o fi oyin sugar ati adun se sara, awon ota  yoo ma gbiyanju lati se nkan ti ko dara si e, obnirin yoo ma se nkan ife si o lati fi gba owo owo re, won yoo sa ogun si o, ati iyonu nlanla, gbese  ati oro ibinu, ota po. Ire nbe lodo awon eniyan si o mura tori amubo, papa ire ti wa fi oju ri ti ota ko ni jeki o bo si nibo si, eyi ti o ko lero ni yoo bosi sara fun alagbe tori nkan buruku, mura tori elenini, agbaana, enikan wa ni idale ti won fe fi aisan se.Mura tori omo tabi oyun ki won ma fi dalaamu, are ti owo pupo yoo wo san gbadura tori iku oko tabi aya suru pupo lori ohun ti o ba nfe ki o to le bo si . Ota lori obinrin tabi ki obirin ma ja ija owu. Yoo ni omo sita o nse amubo nkankan kan, won yoo ma soro, re leyin pelu egan, sora ma se dawole nkan ti agbara ko ka, fi aso funfun toro ma se ro are re pin lori omo ati owo ofe se nkan bayi mu suru die,Ife ati ibanikegbe yoo waye loni, ife si omo aya oko obi ore isekuse loni sora, iwa lile sora, ajosepo orisirisi, ounje adidun aso to dara imototo.    Ebun opolo.Olopolo pipe ni ogbon lati fi yanju oro to ba ta koko alanu, awon eniyan yoo feran re, olotito eda ni o, alaanu eda, oga ninu ohun ti o ba nse, onitiju eda, oloju ona ti ki tete gbagbe nkan, ebun irinalati ri ohun ti o ba fe sele loju aye tabi loju orun, ma nfi ara re si ipo owo ko fe arinfin lati odo omokekere, o je gbajumo ti yoo mo eyin nla, olokiki eniyan ni.      O ma nwa bi ile aye re yoo ti dara, o feran afara we, nigba miran, ti inu re ba dun ni aro, to ba di ale inu re maa nbaje,ti o ba wo bi irinajo aye re nse nlo, eniti o ni ifarada ti oni itiju, suru,ti  o ma fi owo pamo ti enikan kan koni mosi, o ma ronu jinle, ero okan re yato si ti elomiran, yoo ri orisirisi iri pelu eniyan, koni je ki o fegba eniyan gbo , olori  re nibikibi, sora fun jibiti ,agidi okan, ti inu mi ni se,  ki eeyan ma gba imoran.",
+    "category": "Interpretation & Guidance"
+  },
+  "ISE": {
+    "id": "ISE",
+    "title": "ISE",
+    "content": "Electrical, hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin , Oluko, Ounje sise ta, Pharmarcy",
+    "category": "Ise & Owo"
+  },
+  "AISAN": {
+    "id": "AISAN",
+    "title": "AISAN",
+    "content": "Oru yoo ma fa  aisan si lara, Inuriru, Iba orikerike ara, ara riro, eyin  didunki o ma je sugar ju tori ito sugar.",
+    "category": "Aisan & Ilera"
   },
 
-"6@1": {
-  "id": "6@1",
-  "title": "Ironu ati Wahala",
-  "content": "Eti yio ba adawole re — yio maa gbero nkan ko ni seese. Yio ri wahala die, ko be Olorun. Yio maa banuje.",
-  "category": "Destiny & Warnings"
-},
+    "1,5": {
+      "id": "1,5",
+      "title": "Section Five - 1,5",
+      "content": "Yio jere oja lati okeere.",
+      "category": "Trade & Profit"
+    },
+    "2,5": {
+      "id": "2,5",
+      "title": "Section Five - 2,5",
+      "content": "Won yio fi oja Kan loo, yio si Jeere nibe.",
+      "category": "Business & Opportunity"
+    },
+    "3,5": {
+      "id": "3,5",
+      "title": "Section Five - 3,5",
+      "content": "Eti yio ba irin Ajo to fe rin. Eti nbe fun un.",
+      "category": "Travel & Delay"
+    },
+    "4,5": {
+      "id": "4,5",
+      "title": "Section Five - 4,5",
+      "content": "Mase da owo Po pelu eniyan Da owo se funrarare.",
+      "category": "Money & Caution"
+    },
+    "5,5": {
+      "id": "5,5",
+      "title": "Section Five - 5,5",
+      "content": "Yio rin irin ajo sugbon Ko se saara.",
+      "category": "Journey & Sacrifice"
+    },
+    "6,5": {
+      "id": "6,5",
+      "title": "Section Five - 6,5",
+      "content": "Atajere lori oja.",
+      "category": "Market & Gain"
+    },
+    "7,5": {
+      "id": "7,5",
+      "title": "Section Five - 7,5",
+      "content": "Abosi yio waiye Lori irin ajo kan To fe rin.",
+      "category": "Journey & Conflict"
+    },
+    "8,5": {
+      "id": "8,5",
+      "title": "Section Five - 8,5",
+      "content": "Owo kan yio Tee lowo laipe.",
+      "category": "Money & Blessing"
+    },
+    "10,5": {
+      "id": "10,5",
+      "title": "Section Five - 10,5",
+      "content": "Owo njade lowo Re gan an, ko Sora ki okowo re Ma baa run.",
+      "category": "Wealth & Warning"
+    },
+    "11,5": {
+      "id": "11,5",
+      "title": "Section Five - 11,5",
+      "content": "Yio lo si ibikan Yio ri owo mubo Nibe.",
+      "category": "Travel & Fortune"
+    },
+    "12,5": {
+      "id": "12,5",
+      "title": "Section Five - 12,5",
+      "content": "Ko lo si ibi ti O fe lo, oore wa nibe.",
+      "category": "Journey & Blessing"
+    },
+    "12,5b": {
+      "id": "12,5b",
+      "title": "Section Five - 12,5b",
+      "content": "Mase lo si irin Ajo bayi tori Ijamba oko.",
+      "category": "Travel & Accident"
+    },
+    "13,5": {
+      "id": "13,5",
+      "title": "Section Five - 13,5",
+      "content": "Irin ajo yen Ko dara mose lo.",
+      "category": "Journey & Danger"
+    },
+    "14,5": {
+      "id": "14,5",
+      "title": "Section Five - 14,5",
+      "content": "Awon agba ndaa Laamu. Ko se Iyonu/oore nibe Fun ni okeere.",
+      "category": "Elders & Fortune"
+    },
+    "15,5": {
+      "id": "15,5",
+      "title": "Section Five - 15,5",
+      "content": "Mase sin gbese.",
+      "category": "Debt & Caution"
+    },
+    "16,5": {
+      "id": "16,5",
+      "title": "Section Five - 16,5",
+      "content": "Ko rin irin ajo Toripe oore nbe Fun lati okeere.",
+      "category": "Travel & Fortune"
+    },
 
-"6@2": {
-  "id": "6@2",
-  "title": "Isesi Agbaana",
-  "content": "Yio maa banuje lori awon isesi kan agbaana.",
-  "category": "Challenges"
-},
-
-"6@3": {
-  "id": "6@3",
-  "title": "Nkan yio Baje",
-  "content": "Nkan re yio maa baje loju emi re (Adura gidiidi). Ko be Olorun fun Aseyori rere. Sora fun akoba.",
-  "category": "Spiritual Warning"
-},
-
-"6@4": {
-  "id": "6@4",
-  "title": "Aare",
-  "content": "Aare yio see. Awon Agba ti pin aran re.",
-  "category": "Health"
-},
-
-"6@5": {
-  "id": "6@5",
-  "title": "Omo Adanwo",
-  "content": "Omo yio je Adanwo fun un.",
-  "category": "Children & Trials"
-},
-
-"6@6": {
-  "id": "6@6",
-  "title": "Owo Po",
-  "content": "Ko mase ba enian Da owo po, yio run. Yio padaanu duki.",
-  "category": "Wealth & Warnings"
-},
-
-"6@7": {
-  "id": "6@7",
-  "title": "Ole",
-  "content": "Ko sora fun ole. Ko loni ibelorun fun Aseyori rere.",
-  "category": "Warnings"
-},
-
-"6@8": {
-  "id": "6@8",
-  "title": "Emi Kukuru",
-  "content": "Emi kukuru nbe Fun. Ko si Aseyori Kankan fun. Ko be Olorun gidigidi.",
-  "category": "Health & Destiny"
-},
-
-"6@9": {
-  "id": "6@9",
-  "title": "Owo Jijo",
-  "content": "Owo jijo, Ai ni akojo. Ko be Olorun gigigidi. Ki ijanba mabaa see.",
-  "category": "Wealth & Safety"
-},
-
-"6@10": {
-  "id": "6@10",
-  "title": "Oore Jinna",
-  "content": "Oore jinna si alaniyan. Yi ki o gbiyanju lati toju ara tori awon adi majeni gberu.",
-  "category": "Wellbeing"
-},
-
-"6@11": {
-  "id": "6@11",
-  "title": "Alufaa ati Sina",
-  "content": "Ki alufaa sora fun Sina, ki ifaseyin ma baa de baa.",
-  "category": "Faith & Spirituality"
-},
-
-"6@12": {
-  "id": "6@12",
-  "title": "Owo Kan Nbo",
-  "content": "Owo kan nbo wa sugbon ki o be Olorun ki o le baa tewo.",
-  "category": "Wealth"
-},
-
-"6@13": {
-  "id": "6@13",
-  "title": "Irin Ajo Rere",
-  "content": "Irin ajo to dara to si mu idunnu lowo. Ori rere ni orin ajo.",
-  "category": "Journey"
-},
-
-"6@14": {
-  "id": "6@14",
-  "title": "Gbese",
-  "content": "Ko sora fun gbese. Ki alufaa baa be Olorun.",
-  "category": "Wealth & Warnings"
-},
-
-"6@15": {
-  "id": "6@15",
-  "title": "Aise deede",
-  "content": "Aise deede nbe Fun lori dukia ati awon omo.",
-  "category": "Wealth & Family"
-},
-
-"6@16": {
-  "id": "6@16",
-  "title": "Aare Iku",
-  "content": "Enikan yio se Aare iku. Ko mura gidigidi.",
-  "category": "Health & Death Warning"
-},
-
-"6A": {
-  "id": "6A",
-  "title": "Ile Omo, Oyun & Irinajo",
-  "content": "ILE OMO/OYUN, OMI, IRINAJO. Oro nipa oyun, omo, ati irinajo ti ko dara. Sora fun aisan ati wahala ti ota le mu wa. Adupe ati adura pataki fun aabo ati ire.",
-  "category": "Pregnancy, Children & Journey"
-},
-
-"7@1": {
-  "id": "7@1",
-  "title": "Ibanuje ati Aini Owo",
-  "content": "O wa ninu ibanuje nitori aini owo. Ao ma la alakala. Awon agba ndaamu, awon aje ntele kakiri, won ko jeki onibeere ni isinmi.",
-  "category": "Wealth & Struggles"
-},
-
-"7@2": {
-  "id": "7@2",
-  "title": "Okuta Lori Owo",
-  "content": "Okuta nbe lori nkan aje. Ti onibeere ba sowo, ko ni ta; ti o ba sise ijoba, yio maa gba salary nikan. Ko ni ri owo miran wo le. Awon eleye ndaa laamu.",
-  "category": "Wealth & Blockages"
-},
-
-"7@3": {
-  "id": "7@3",
-  "title": "Idile Iya",
-  "content": "Awon agbalagba ni idile iya, iyawo alaniyan eyan pupa ni. Alaniyan nta epo, eran pipa tabi aso.",
-  "category": "Family & Traditions"
-},
-
-"7@4": {
-  "id": "7@4",
-  "title": "Aje Ile Baba",
-  "content": "Awon aje ile baba nda alaniyan laamu. Ko mura.",
-  "category": "Spiritual Warning"
-},
-
-"7@5": {
-  "id": "7@5",
-  "title": "Nkan Osu",
-  "content": "Iyawo alaniyan nse nkan osu lowo. Ti o ba je okunrin, wahala owo; ti o ba je obinrin, yoo ri nkan osu re laipe sugbon ko sese pari re.",
-  "category": "Family & Finances"
-},
-
-"7@6": {
-  "id": "7@6",
-  "title": "Ise & Ajo",
-  "content": "Are yoo se oko re, tabi wahala fun obinrin. Asiri kan yoo tu. Won fun laajo, bo se adura, ko sise. Awon aje nba ise re je. O nilo wẹ owo aje kuro lara.",
-  "category": "Work & Challenges"
-},
-
-"7@7": {
-  "id": "7@7",
-  "title": "Obinrin Tó Ni Ipa",
-  "content": "Yoo fe obinrin to ni ipa, ti yoo ma fa owo rawon lowo. Awon agbalagba ni idile oko, iyawo alaniyan eyan pupa ni. Alaniyan nta epo, ata tabi aso.",
-  "category": "Marriage & Relationships"
-},
-
-"7@8": {
-  "id": "7@8",
-  "title": "Eese ati Stroke",
-  "content": "Won fe fi ese da alaniyan laamu tabi fi stroke se.",
-  "category": "Spiritual Attack"
-},
-
-"7@9": {
-  "id": "7@9",
-  "title": "Ore Ti a Dina",
-  "content": "Gbogbo ore ti nbo fun alaniyan won gba danu. Won block re. Obinrin pupa kan yoo maa dina mo.",
-  "category": "Friendships & Blockages"
-},
-
-"7@10": {
-  "id": "7@10",
-  "title": "Eyonu Aye",
-  "content": "O ni eyonu kan ninu ise, aye nse wahala si. Gbogbo to nse odun mo awon agba ninu.",
-  "category": "Destiny & Warnings"
-},
-
-"7@11": {
-  "id": "7@11",
-  "title": "Ore Ti A Gba",
-  "content": "Awon nkan ti alaniyan fokan si gege bi ore, awon aje gba danu.",
-  "category": "Wealth & Loss"
-},
-
-"7@12": {
-  "id": "7@12",
-  "title": "Ota Aje",
-  "content": "Awon ota alaniyan je aje pupa. Nkan eyonu awon aje ni ko ma se. Oso, emere, alfa, pastor, babalawo le je ota.",
-  "category": "Enemies & Warnings"
-},
-
-"7@13": {
-  "id": "7@13",
-  "title": "Agbalagba Aje",
-  "content": "Awon aje agbalagba to sunmo alaniyan ndaa laamu.",
-  "category": "Spiritual Attack"
-},
-
-"7@14": {
-  "id": "7@14",
-  "title": "Ala Buruku",
-  "content": "Alaniyan ni nla ala buruku to maa da wahala.",
-  "category": "Dreams & Warnings"
-},
-
-"7@15": {
-  "id": "7@15",
-  "title": "Oju Omo",
-  "content": "Oju omo yio pon. Wahala fun idile.",
-  "category": "Children"
-},
-
-"7@16": {
-  "id": "7@16",
-  "title": "Apapo Eleye",
-  "content": "Awon apapo eleye nda onibeere laamu. Ko lo nkan eyonu rara.",
-  "category": "Enemies & Spiritual Blockage"
-},
-
-"7A": {
-  "id": "7A",
-  "title": "Ile Oko & Afeefe",
-  "content": "Ile oko, afefe, awon agba, nkan pupa, eyan pupa foo. Irawo ile keta ati irawo ile keje ba bi inkisu, awon aje nse idaamu. Ogun idile iya ati baba nbe fun alaniyan. Aisan inu ati ori, gbese, oro etan larin okunrin ati obinrin. Onibeere je eniyan pataki sugbon opo ota wa. O je olotito sugbon awon eniyan ma npa iro si re. Otito mu ki won korira re. Ise re maa yato si ti elomiran. O ni agidi okan, isele ojiji maa nwaye. Opo ota yoo maa jowu re. O maa fi otito se oro sugbon eeyan maa gba sodi. O je alanu eda, sugbon ma se fi inu han gbogbo ore.",
-  "category": "Family, Destiny & Spiritual Guidance"
-},
-  "8@1": {
-    "id": "8@1",
-    "title": "Section Eight - 8@1",
-    "content": "IPAYA, AIFI OKAN BALE, IBANUJE, NBE FUN ONIBERE, ti o le gbemi eeyan... ao bere pe ta ni se epe larin awon meteta.",
-    "category": "Eight"
+  "6@1": {
+    "id": "6@1",
+    "title": "6@1",
+    "content": "OKAN RE KO BALE, AYA RE NJA,YALA LORI OWO TABI ALAAFIA,nurse arun kan ninu ara, NGBERO LATI RA NKAN BI IRIN, ERO",
+    "category": "Alaafia & Owo"
   },
-  "8@2": {
-    "id": "8@2",
-    "title": "Section Eight - 8@2",
-    "content": "ERU NBA ONIBERE NIPA OWO, OKAN RE KO BALE NI PA ORO OLOWO DE.",
-    "category": "Eight"
+  "6@2": {
+    "id": "6@2",
+    "title": "6@2",
+    "content": "agbana.ise eni are nse, OKAN RE KO BALE LORI BI NKAN SE NLO, PAPA LORI OWO,  NKAN SLOW",
+    "category": "Ise & Owo"
   },
-  "8@3": {
-    "id": "8@3",
-    "title": "Section Eight - 8@3",
-    "content": "Onibere okunrin, ti iya iyawo ba omo re joko nile oko, ... IYAWO TO GBE OKO SEPE.",
-    "category": "Eight"
+  "6@3": {
+    "id": "6@3",
+    "title": "6@3",
+    "content": "IYAWO ALAGIDI NI, PAMI NKU, AO BI LERE PE SE OMO OSUN NI IYAWO TABI EKITI,",
+    "category": "Ife & Iyawo"
   },
-  "8@4": {
-    "id": "8@4",
-    "title": "Section Eight - 8@4",
-    "content": "TI BABA BA NBE KO TOJU BABA, KO MA SICK, TO BA TI KU KO SE SARA.",
-    "category": "Eight"
+  "6@4": {
+    "id": "6@4",
+    "title": "6@4",
+    "content": "ENIKAN YOO SARE NI IDILE BABA,TI ABA FE MO BOYA OKUNRIN TABI OBINRIN, OMODE TABI AGBALAGBA, AO NI KO TOKA SI IRAWO KAN NILE IRAWO TI A BA BA NIBE AO BI PO MO RA WON, IRAWO TO BA BI LAFI MO IRU ENITI YOO SARE",
+    "category": "Idile & Irawo"
   },
-  "8@5": {
-    "id": "8@5",
-    "title": "Section Eight - 8@5",
-    "content": "TI ALANIYAN BA TI BIMO, KO BE OLORUN LORI AWON OMO... TI KO BA TI BIMO IDADURO FUN OBINRIN.",
-    "category": "Eight"
+  "6@5": {
+    "id": "6@5",
+    "title": "6@5",
+    "content": "A le so pe omo kan re ti inu yoo ma nrun, arun ni papa to ba fe se period re, tabi ko seize period re, TO BA JE OBINRIN elegbe omo omi ni,a le tu si ile omo to doti, ile omo to doti le fa idaduro, TO BA TI BIMO AKOBI,INU RIRUN YOO MA DALAMU,",
+    "category": "Omo & Aisan"
   },
-  "8@6": {
-    "id": "8@6",
-    "title": "Section Eight - 8@6",
-    "content": "MONAFIKI, AROKA, AIFINI LOKAN BALE LENU ISE, AWON OTA LO YIKA NIBI ISE KO SORA, KO SI IGBADUN, PAKALEKE WA NIBE.",
-    "category": "Eight"
+  "6@6": {
+    "id": "6@6",
+    "title": "6@6",
+    "content": "Obinrin ni yoo ran o lowo.",
+    "category": "Ore"
   },
-  "8@7": {
-    "id": "8@7",
-    "title": "Section Eight - 8@7",
-    "content": "Yoo fe obinrin kan ti yoo buru onifari... EPE TI WON NFI ARA WON SE YI YOO SE, TORI AWON KAN NBE TI WON NFI ASE SORI EPE NA.",
-    "category": "Eight"
+  "6@7": {
+    "id": "6@7",
+    "title": "6@7",
+    "content": "Obinrin kan nro ejo wa kiri/ ede ayide tin nlo owo ti o le jasi ikosile, IYAWO/OKO ALAGIDI NI, PAMI NKU, AO BI LERE PE SE OMO OSUN NI IYAWO TABI EKITI, BI ILE KETA NA NI, OKO ALAGIDI",
+    "category": "Ife & Iroyin"
   },
-  "8@8": {
-    "id": "8@8",
-    "title": "Section Eight - 8@8",
-    "content": "KO SORA FUN IJA, IBINU, ORO TI KO MOWO MESE TORI IKU OJIJI... MA DI LE LORI.",
-    "category": "Eight"
+  "6@8": {
+    "id": "6@8",
+    "title": "6@8",
+    "content": "KO BELORUN KI WON MA FI ARE DA GUNLE",
+    "category": "Adura & Aabo"
   },
-  "8@9": {
-    "id": "8@9",
-    "title": "Section Eight - 8@9",
-    "content": "WON TI GBE IGI DANA IGBESI AYE RE ATI JE YOO NIRA, ATI NAWO YOO NIRA... WON TI GBEGI DANA.",
-    "category": "Eight"
+  "6@9": {
+    "id": "6@9",
+    "title": "6@9",
+    "content": "GBOGBO NKAN LO MA SLOW GAN, GBOGBO NKAN TI AWON EGBE RE TI SE YOO TUN WA LENU LENU RE",
+    "category": "Ise & Idaduro"
   },
-  "8@10": {
-    "id": "8@10",
-    "title": "Section Eight - 8@10",
-    "content": "Ni apa otun ni ikun wahala wa nibe, yoo ma dun, ti o yoo ma nawo si... KO MA DI WAHALA SI LORUN.",
-    "category": "Eight"
+  "6@10": {
+    "id": "6@10",
+    "title": "6@10",
+    "content": "KO SI OWO LOWO ALANIYAN, ARE NSE OWO RE,Ti olopa ba nwa, won o mu,",
+    "category": "Owo & Aisan"
   },
-  "8@11": {
-    "id": "8@11",
-    "title": "Section Eight - 8@11",
-    "content": "Awon ota yoo ma dun koko mo aseyori... Leyin wahala yoo bosi.",
-    "category": "Eight"
+  "6@11": {
+    "id": "6@11",
+    "title": "6@11",
+    "content": "Ibi ti o ba fi okan si yoo  SLOW  GAN die, aya yoo ma ja  okan ko bale, lori awon nkan to ko semi ti nre esi lati ibe, nkan yoo lo die ko to bo si, delay, yoo bo si ki se immediately to ba je eni to loyun, ki won sora ki won ma fi obe gba omo ninu alaboyun to ba je obinrin, to ba je okunrin ki won ma fi obe gba omo  ninu iyawo",
+    "category": "Ise & Ife"
   },
-  "8@12": {
-    "id": "8@12",
-    "title": "Section Eight - 8@12",
-    "content": "KO BELORUN KI OTA MA REYIN RE.",
-    "category": "Eight"
+  "6@12": {
+    "id": "6@12",
+    "title": "6@12",
+    "content": "Ota ngbogun, WON NKO IFASEHIN BA WON KO JEKI O NI ILOSIWAJU, Eda ti ogun ki ran, BI ILE KOKANLA NI, AWON AJE KO IFASEHIN BA",
+    "category": "Ota & Ifaseyin"
   },
-  "8@13": {
-    "id": "8@13",
-    "title": "Section Eight - 8@13",
-    "content": "OKAN RE KO BALE, IPAYA WA FUN, SORA PELU EPE SISE, BAKANA 8@1.",
-    "category": "Eight"
+  "6@13": {
+    "id": "6@13",
+    "title": "6@13",
+    "content": "AWON TO SUNMO, NI NKO WAHALA BA",
+    "category": "Ebi & Ija"
   },
-  "8@14": {
-    "id": "8@14",
-    "title": "Section Eight - 8@14",
-    "content": "Oro ile, eniyan yoo ku lori re, sora fun enu. Eyin yoo ma dun onibere, ALFA YOO RI OWO KEKERE.",
-    "category": "Eight"
+  "6@14": {
+    "id": "6@14",
+    "title": "6@14",
+    "content": "NKAN SLOW FUN ALFA",
+    "category": "Alfa & Ise"
   },
-  "8@16": {
-    "id": "8@16",
-    "title": "Section Eight - 8@16",
-    "content": "Arun ehin didun se o, adua lori wahala awon aje lori re, AWON EYAN YOO BA O SE EJO... OPO EJO.",
-    "category": "Eight"
+  "6@15": {
+    "id": "6@15",
+    "title": "6@15",
+    "content": "OKAN ALANIYAN KO BALE, TI A BA FE MO IBI AIBALE OKAN WA, AO WO ILE  OWO, ILE OMO , ILE AFOKANSI, ILE ISE, TI A BA TI BA IRAWO TI KO DARA, IBE NI IBI AIBALE OKAN WA,",
+    "category": "Ero Okan & Idanimọ"
   },
-  "8A": {
-    "id": "8A",
-    "title": "Section Eight - 8A",
-    "content": "OBINRIN EYAN DUDU TO KURU NI... oro etan larin okunrin si obinrin.",
-    "category": "Eight"
+  "6@16": {
+    "id": "6@16",
+    "title": "6@16",
+    "content": "AWON ELEYE NKO IFASEYIN BA ALANIYAN LORI ADAWOLE",
+    "category": "Eleye & Ifaseyin"
   },
-  "8B": {
-    "id": "8B",
-    "title": "Section Eight - 8B",
-    "content": "O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada... Mechanic.",
-    "category": "Eight"
+  "6A": {
+    "id": "6A",
+    "title": "6A",
+    "content": "OMI TO DOTI/ ILE ARUN ARUN,KO SOWO LOWO, ILE ISE, AISEDEDE ISE. NKAN KO LO DEDE, MA SORO, IRIN TI NLO ARA WON\n\nSora fun ejo, mase ba enia du nkan po tabi ja, ni suuru ninu ohun gbogbo, igbese aye re yio dara, ibanuje yio di ayo. Ranti awon oku orun re nitori ki awon le ma gbe o ni ja. Bi o ba fi okan re bale ona re yio dara awon nkan re to lo lowo re yoo pada, ma se sika, ayo ni opin oro re yio jasi ayo. Bi nkan re ba ti ndara ki aye momo baje mo, ki o ma ba eniyan du nkan po .#Sora tori arun okan pelu ironu. Emi buruku kan wa ni ibiti o kori si amojuto ki o ma ma bi ala buruku, da irin ajo eeyan ru. ORO ISITI.Eko kiko loni tabi lo eko ti a ni fun anfani eniyan ati fifi oju inu wo nkan to ba fe sele si tabi daba ti yoo bosi, ise riran si ibomiran tabi ki won ran ise si o.",
+    "category": "Isiti & Igbese"
   },
-"9@1": {
-  "id": "9@1",
-  "title": "Section Nine - 9@1",
-  "content": "ALANIYAN NRONU, TO BA TI FOWO LERAN EMI TI JADE KURO LARA RE. IRONU TO JINNA TI EYAN TI GBA GBE RA, IRONU TI MA SORI EYAN KODO TI O LE FA IKU LOJIJI. Ao wo ile owo 2, boya owo ni, ao wo ile ise 6 boya ise ni, ao wo ile omo 5 boya omo ni, 3 odo iyawo, 7 odo oko. Bad star (3,6,7,8) ni ibi ti nkan ti nronu. Ti a ba ri irawo buruku nibe, ibe ni nkan ti nronu wa. Ti a ba wo ile owo, 2 ati 13 atelewo, ti araji ba wa nibe owo njade niyen.",
-  "category": "Nronu & Finance"
-},
-"9@2": {
-  "id": "9@2",
-  "title": "Section Nine - 9@2",
-  "content": "Ise ti dojuru, owo tabi dukia yoo jade lowo onibere. Ti 9@13 ba han o confirm agbaana. 8@5 omo sick ibe ni nawo si, 8@3 iyawo sick ibe ni nawo si, 8@6 ise ko lo dede. Ao wo ile ise ibi ti irawo 3,6,7,8 wa. Oro dada ni ma nso nile omo iya won. Awon agba ndaamu fun sara. Ao wo ile kefa 6, omi nkan olomi lo maa se sara.",
-  "category": "Work & Loss"
-},
-"9@3": {
-  "id": "9@3",
-  "title": "Section Nine - 9@3",
-  "content": "Iyawo ti lo tabi prepare lati ko. Ile iyigi sofo. Ko da ki won jo gbe, o ti lo, yoo lo.",
-  "category": "Marriage & Home"
-},
-"9@4": {
-  "id": "9@4",
-  "title": "Section Nine - 9@4",
-  "content": "Iyawo re yoo ko oko. Hunhun nbe larin ololufe meji. Awon ebi nronu nipa re. Ao wo ile kesan 9, ti irawo dara, ironu dara. Ti irawo ko dara, ironu ko dara.",
-  "category": "Marriage & Family"
-},
-"9@5": {
-  "id": "9@5",
-  "title": "Section Nine - 9@5",
-  "content": "Ti obinrin ni, yoo se nkan osu titi ojo merin. Alaniyan ko mojuto omo, ki ere mo po fun. Ko ma ma sa nile iwe tabi ile oko.",
-  "category": "Women & Children"
-},
-"9@6": {
-  "id": "9@6",
-  "title": "Section Nine - 9@6",
-  "content": "Ma se je adeja. Iya onibere yoo sare ka bi lere pe iya re nko. Iya kan re to ru ti ebi npa. Ti o ba ni iya, ko toju iya re. Ebi npa, yoo sick to ma ru gan. Ti iya ba ku, ko se sara fun.",
-  "category": "Mother & Family"
-},
-"9@7": {
-  "id": "9@7",
-  "title": "Section Nine - 9@7",
-  "content": "Ti okunrin, o fe ko iyawo. Ao wo ile kesan 9, ti daily ba wa nibe, ko ni lo. Bo lo yoo pada. Ti 3 se arija ni yoo lo.",
-  "category": "Marriage & Men"
-},
-"9@8": {
-  "id": "9@8",
-  "title": "Section Nine - 9@8",
-  "content": "9@8 ati 9@13 npase, ki alaniyan mura ajalu ti yoo sele ti eyan yoo ma ta dukia. Ki onibere ma fi ironu se ara re lese.",
-  "category": "Danger & Loss"
-},
-"9@9": {
-  "id": "9@9",
-  "title": "Section Nine - 9@9",
-  "content": "Irinaajo kan nbo wa fun onirin ajo. Ao wo ile mefa 6, ti irawo dara, irinajo dara. Ti irawo ko dara, ko ma lo.",
-  "category": "Travel"
-},
-"9@10": {
-  "id": "9@10",
-  "title": "Section Nine - 9@10",
-  "content": "Ti a ba fe mo iru ise ti eniyan nse, ao wo ile kewa 9@10 ati ile kefa 9@6. Yoo je olopa, soja, uniform. Alaniyan yoo change ile, yoo change ise.",
-  "category": "Career & Change"
-},
-"9@11": {
-  "id": "9@11",
-  "title": "Section Nine - 9@11",
-  "content": "Ti 9@11 ati 9@2 ba wa papo, irinajo wa lemi re ti o nawo si. Ki alaniyan ko ma fokan si ore kankan. Ti yoo ba bosi, yoo se wahala. Ko to bo si.",
-  "category": "Travel & Caution"
-},
-"9@12": {
-  "id": "9@12",
-  "title": "Section Nine - 9@12",
-  "content": "Ko ma jeki ota ko ile are si ara re. Ko ma fi aye sile fun ironu to le yori si are.",
-  "category": "Protection"
-},
-"9@13": {
-  "id": "9@13",
-  "title": "Section Nine - 9@13",
-  "content": "Onibere ni awon nkan ti nawo le lori. Ti a ba fe mo ibi ti nawo si, ao wo ile ise, ile omo, ile oko, ile iyawo. Ti a ba ri irawo ti ko dara nibe, ibe ni nawo si.",
-  "category": "Finance & Family"
-},
-"9@14": {
-  "id": "9@14",
-  "title": "Section Nine - 9@14",
-  "content": "Okan alaniyan ko bale.",
-  "category": "Mind & Peace"
-},
-"9@15": {
-  "id": "9@15",
-  "title": "Section Nine - 9@15",
-  "content": "Aye yoo gba o nibiti o bawa, olori nibi gbogbo. Adura wa yoo gba laarin ilu yi.",
-  "category": "Blessings"
-},
-"9@16": {
-  "id": "9@16",
-  "title": "Section Nine - 9@16",
-  "content": "Ko gbiyanju ko travel. Ore wa ni be, ore lati odo arinrin ajo. Ao lo si irin-ajo ti ao ri ore nbe.",
-  "category": "Travel & Friendship"
-},
-"9A": {
-  "id": "9A",
-  "title": "Section Nine - 9A",
-  "content": "ILE MESAN 9, ILE IRINAJO, ibi ti nkan kuro lowo eni. Ao relate gbogbo irawo mo ile kesan. Fun apeere, 13@11, 14@9, 14@13. Ogun kan wa ti n sise. 10@14 Alfa yoo gbowo. Ao lo wo ona ti owo fe gba wa ile kesan 9. Ti umura 7 wa nibe, 7@9 owo yen ko ni tewo. 15@9 owo naa yoo tewo. 11@9 moto car, 13@9 Jeep, bus, ajagbe ejo, oko nla. NARASARA ARIJA 9. Ti 1@14 ati 4@9 alejo ngbe asobo fun Alfa.",
-  "category": "Travel & Finance"
-},
-"2,9": {
-  "id": "2,9",
-  "title": "Related Pair - 2,9",
-  "content": "Awon agba ndaa laamu lori arisiki. Adura ati iyonu.",
-  "category": "Elders & Risk"
-},
-"3,9": {
-  "id": "3,9",
-  "title": "Related Pair - 3,9",
-  "content": "Owo re njo, owo ko ni kojosii lowo. Adura ati aajo.",
-  "category": "Finance & Prayer"
-},
-"4,9": {
-  "id": "4,9",
-  "title": "Related Pair - 4,9",
-  "content": "Owo kan nba fun un sugbon koni duro lowo.",
-  "category": "Finance"
-},
-"5,9": {
-  "id": "5,9",
-  "title": "Related Pair - 5,9",
-  "content": "Ko mase rin irin ajo. Koni ri nkan ti o nwa lo mubo.",
-  "category": "Travel Warning"
-},
-"6,9": {
-  "id": "6,9",
-  "title": "Related Pair - 6,9",
-  "content": "Ona si fun lati se ohun kohun.",
-  "category": "Opportunity"
-},
-"7,9": {
-  "id": "7,9",
-  "title": "Related Pair - 7,9",
-  "content": "Ko mase rin irin ajo. Obinrin yoo ri nkan osu re.",
-  "category": "Travel & Women"
-},
-"8,9": {
-  "id": "8,9",
-  "title": "Related Pair - 8,9",
-  "content": "Irinaajo yoo waye sugbon ko kun fun adura, ki ma baa bo lofo.",
-  "category": "Travel & Prayer"
-},
-"9,9": {
-  "id": "9,9",
-  "title": "Related Pair - 9,9",
-  "content": "Ko mase deja, yoo yi lowo. Yoo ri nkan ti onfe, nkan ti o sonu yoo rii.",
-  "category": "Finance & Loss"
-},
-"10,9": {
-  "id": "10,9",
-  "title": "Related Pair - 10,9",
-  "content": "Eje re yio maa fail, ko sora fun hypertension.",
-  "category": "Health"
-},
-"11,9": {
-  "id": "11,9",
-  "title": "Related Pair - 11,9",
-  "content": "Yoo maa se aare okan. Nkan to fe se ko ni bosi.",
-  "category": "Health"
-},
-"12,9": {
-  "id": "12,9",
-  "title": "Related Pair - 12,9",
-  "content": "Asiri ki re nlo die die. Abgara na now owo re die die ko si ibe Olorun.",
-  "category": "Secrets & Finance"
-},
-"13,9": {
-  "id": "13,9",
-  "title": "Related Pair - 13,9",
-  "content": "Omo re kan yoo maa gbiyanju sii.",
-  "category": "Children"
-},
-"14,9": {
-  "id": "14,9",
-  "title": "Related Pair - 14,9",
-  "content": "Iyawo re wa ninu egbe, yio si maa baa ja.",
-  "category": "Marriage"
-},
-"15,9": {
-  "id": "15,9",
-  "title": "Related Pair - 15,9",
-  "content": "Ko mase ja rara. Suuru ni oro re gba.",
-  "category": "Patience"
-},
-"16,9": {
-  "id": "16,9",
-  "title": "Related Pair - 16,9",
-  "content": "Yoo daran, ko sora gidigidi, adura.",
-  "category": "Warning & Prayer"
-},
+  "6b": {
+    "id": "6b",
+    "title": "6b",
+    "content": "Ebun opolo.Olopolo pipe ni ogbon lati fi yanju oro to ba ta koko alanu, awon eniyan yoo feran re, olotito eda ni o, alaanu eda, oga ninu ohun ti o ba nse, onitiju eda, oloju ona ti ki tete gbagbe nkan, ebun irina lati ri ohun ti o ba fe sele loju aye tabi loju orun, ma nfi ara re si ipo owo ko fe arinfin lati odo omokekere, o je gbajumo ti yoo mo eyin nla, olokiki eniyan ni.\n\nO ma nwa bi ile aye re yoo ti dara, o feran afara we, nigba miran, ti inu re ba dun ni aro, to ba di ale inu re maa nbaje,ti o ba wo bi irinajo aye re nse nlo, eniti o ni ifarada ti oni itiju, suru,ti  o ma fi owo pamo ti enikan kan koni mosi, o ma ronu jinle, ero okan re yato si ti elomiran, yoo ri orisirisi iri pelu eniyan, koni je ki o fegba eniyan gbo , olori  re nibikibi, sora fun jibiti ,agidi okan, ti inu mi ni se,  ki eeyan ma gba imoran.",
+    "category": "Ebun & Iwa"
+  },
+  "ISE": [
+    "Electrical, hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin , Oluko, Ounje sise ta, Pharmarcy",
+    "Electrical, hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin , Oluko, Ounje sise ta, Pharmarcy"
+  ],
+  "AISAN": [
+    "Oru yoo ma fa  aisan si lara, Inuriru, Iba orikerike ara, ara riro, eyin  didunki o ma je sugar ju tori ito suga",
+    "Oruyoo ma faaisansilara, Inuriru, Ibaorikerikeara, Arariro, Eyindidunki o ma Je sugar ju tori ito sugar."
+  ],
 
-"10@1": {
-  "id": "10@1",
-  "title": "Section Ten - 10@1",
-  "content": "ALANIYAN NFI OKAN SI ARANSE KAN, YOO NI LARI LAYE. ORE, KAWO ILE 9 TI A BA BA BAD STAR NKAN YE OFO NI, TI A BA GOOD STAR O DARA. (Bad star (3,6,7,8), (4,5,10,15). Good star (10@1,10@5 ati 10@12), ti a ba ba nile obinrin olobinrin yoo loyun fun.)",
-  "category": "General Life & Destiny"
-},
-"10@2": {
-  "id": "10@2",
-  "title": "Section Ten - 10@2",
-  "content": "YOO LOLA TI YOO PO, ODA OWO KO NI DA, YOO RINA YOO RILO.",
-  "category": "Wealth & Prosperity"
-},
-"10@3": {
-  "id": "10@3",
-  "title": "Section Ten - 10@3",
-  "content": "IYAWO ALANIYAN EEYAN KUKURU, DUDU NI, YOO YOKUN YODI, ALASIKI EDA NI, KO MA KO.",
-  "category": "Marriage & Relationships"
-},
-"10@4": {
-  "id": "10@4",
-  "title": "Section Ten - 10@4",
-  "content": "OLOGO OMO TI MA NNA OWO SILE BABA RE, SE DADA FUN EBI, LO MA JE.",
-  "category": "Family & Children"
-},
-"10@5": {
-  "id": "10@5",
-  "title": "Section Ten - 10@5",
-  "content": "TO BA JE ENI TI WOJU OLORUN OYUN TI DE. ASIKAFU 10, A MA SORO OYUN A MA SORO OWO. TI A BA FE MO BOYA OYUN TI DE AO WO ILE 11 ATI 9, TI A BA BA GOOD STAR NIBE OYUN TI DE. Lati confirm boya oyun tabi ki se oyun, ile kerin 4 ti ina (1,2,9,16) wa ni ibe. Ti awo ile kefa 6 ti aba omi (4,5,6,13). ILE OMO NGBONA, Ina ati ina NO, Ina ati afefe NO, Ina ati erupe NO, Afefe ati afefe NO, Omi ati afefe NO, Omi ati omi YES, Omi ati erupe YES, Erupe ati erupe YES.",
-  "category": "Pregnancy & Twins"
-},
-"10@6": {
-  "id": "10@6",
-  "title": "Section Ten - 10@6",
-  "content": "TO BA NISE LOWO, AO KI KU ORIRE. TI KO BA NISE LOWO, YOO PADA JANA TI YOO RISE NIBI ISE IJOBA, ILE ISE ILE OWO, KO NI PROBLEM.",
-  "category": "Work & Career"
-},
-"10@7": {
-  "id": "10@7",
-  "title": "Section Ten - 10@7",
-  "content": "IYAWO RE/OKO RE EEYAN KUKURU NI YOO YOKUN YOO YODI ALASIKI.",
-  "category": "Marriage & Relationships"
-},
-"10@8": {
-  "id": "10@8",
-  "title": "Section Ten - 10@8",
-  "content": "KI O SORA KO WA OWO DELE IKU. KO MO SE OGUN OWO. IKU RE, OWO RE, KO DURO TI OLORUN.",
-  "category": "Wealth & Warnings"
-},
-"10@9": {
-  "id": "10@9",
-  "title": "Section Ten - 10@9",
-  "content": "YOO RIRIN AJO TI YOO RI OWO NIBE.",
-  "category": "Travel & Fortune"
-},
-"10@10": {
-  "id": "10@10",
-  "title": "Section Ten - 10@10",
-  "content": "ADURA RE TI GBA, YOO RI ANU OLORUN, YOO RI OWO.",
-  "category": "Prayer & Blessings"
-},
-"10@11": {
-  "id": "10@11",
-  "title": "Section Ten - 10@11",
-  "content": "ORE TI A FI OKAN SI, YOO WOLE. NKAN TI NRETI LORE YOO TE LOWO.",
-  "category": "Friendship & Expectations"
-},
-"10@12": {
-  "id": "10@12",
-  "title": "Section Ten - 10@12",
-  "content": "OTA YOO MA GBOGUN TORI BURUJI RE TO JI DA DA. ASIKI WA LOWO OTA KO MURA.",
-  "category": "Enemies & Protection"
-},
-"10@13": {
-  "id": "10@13",
-  "title": "Section Ten - 10@13",
-  "content": "OWO NBE LOWO ALANIYAN.",
-  "category": "Wealth"
-},
-"10@14": {
-  "id": "10@14",
-  "title": "Section Ten - 10@14",
-  "content": "Won nbo wa fun Alfa lowo, ALFA YOO RI OWO. AO WO ILE 9 LATI FI MO BI YOO SE TI YA SI. GOOD, YOO YA. BAD, YOO PE.",
-  "category": "Religion & Wealth"
-},
-"10@15": {
-  "id": "10@15",
-  "title": "Section Ten - 10@15",
-  "content": "Arisiki to po lodun yi, orisirisi ore nbo. Oore, ILU TI ALANIYAN WA NI YOO TI RISE, KO MA TRAVEL.",
-  "category": "Wealth & Travel"
-},
-"10@16": {
-  "id": "10@16",
-  "title": "Section Ten - 10@16",
-  "content": "ORE lodo arin-rin ajo. ORE ALANIYAN PO LEYIN ODI. KO GBIYANJU KO TRAVEL.",
-  "category": "Friendship & Travel"
-},
-"10,2": {
-  "id": "10,2",
-  "title": "Section Ten - 10,2",
-  "content": "Oyin fi se sara.",
-  "category": "Health & Wellness"
-},
-"10,7": {
-  "id": "10,7",
-  "title": "Section Ten - 10,7",
-  "content": "O fe ni owo wa sini.",
-  "category": "Wealth"
-},
-"10,10": {
-  "id": "10,10",
-  "title": "Section Ten - 10,10",
-  "content": "Oju yoo dun eni re kan, aye lo wa nibe.",
-  "category": "Life & Happiness"
-},
-"10,12": {
-  "id": "10,12",
-  "title": "Section Ten - 10,12",
-  "content": "Sora oro ewon nitori obinrin ko pe mo.",
-  "category": "Warnings"
-},
-"10,13": {
-  "id": "10,13",
-  "title": "Section Ten - 10,13",
-  "content": "Won nse monafiki re lodo ijoba.",
-  "category": "Politics & Enemies"
-},
-"10,14": {
-  "id": "10,14",
-  "title": "Section Ten - 10,14",
-  "content": "Sara fun agbalagba.",
-  "category": "Respect & Elders"
-},
-"10A": {
-  "id": "10A",
-  "title": "Section Ten - 10A",
-  "content": "NI, ILE OBA/OLA/OWO ILE, EEYAN KUKURU, TO YOKUN, YODI. TEN 10, A MO JUWE ABO ATI AKO SUGBON ABO NI. Sora fun oro enu, oro ejo, tolopa tabi court, ale yiyan. Jeki gbogbo ona re kun fun isora. Sora fun iwa aifarabale woran woran. Gba imoran awon asaju, gbiyanju lati je alatunse ki o ma je baseje. Sora fun iwa obinrin/okunrin pelu iwa palapala. O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba kigba to de, feran irepo, ko feran lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye ti o n lo lati fi yanju oro. Feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni. Awon eniyan yoo maa yan je, o maa n fa eniyan goke. O maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan. O maa n fi arani re lati ran elomiran lowo. O korira gbese tabi ra nkan win, o ko rira ki eniyan so rare di bukata si lorun. Okan re maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala. Okan re naa lora lati gba yangbo tabi lati sun mo eniyan pelu iriri ti o ti ri pelu awon eniyan. Aisan: eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru. Sora pelu ounje lode. Ise: ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, Mechanic.",
-  "category": "Character & Destiny"
-},
-"1,10": {
-  "id": "1,10",
-  "title": "Section Ten - 1,10",
-  "content": "Owo ko duro lowo re. Ibelorun/ajo.",
-  "category": "Wealth & Travel"
-},
-"2,10": {
-  "id": "2,10",
-  "title": "Section Ten - 2,10",
-  "content": "Yio se afeku dukia kan (Iyawo tabi omo).",
-  "category": "Family & Property"
-},
-"3,10": {
-  "id": "3,10",
-  "title": "Section Ten - 3,10",
-  "content": "Yio je oye tabi de ipo ola.",
-  "category": "Position & Honour"
-},
-"4,10": {
-  "id": "4,10",
-  "title": "Section Ten - 4,10",
-  "content": "Inu re ko dun sugbon yio ri idunnu.",
-  "category": "Happiness"
-},
-"5,10": {
-  "id": "5,10",
-  "title": "Section Ten - 5,10",
-  "content": "Oore nbo fun sugbon ota po fun ko belorun.",
-  "category": "Friendship & Enemies"
-},
-"6,10": {
-  "id": "6,10",
-  "title": "Section Ten - 6,10",
-  "content": "O nba enia je tabi ki a so pe awon enia nse ibaje re.",
-  "category": "Enemies"
-},
-"7,10": {
-  "id": "7,10",
-  "title": "Section Ten - 7,10",
-  "content": "Ko ni aseyori kankan. Adura kikankikan.",
-  "category": "Failure & Warnings"
-},
-"8,10": {
-  "id": "8,10",
-  "title": "Section Ten - 8,10",
-  "content": "Rin ajo ti a ko tanmo yio ri oore nibe.",
-  "category": "Travel & Fortune"
-},
-"9,10": {
-  "id": "9,10",
-  "title": "Section Ten - 9,10",
-  "content": "Ore yio daa, won yio lu ni jibiti owo.",
-  "category": "Friends & Betrayal"
-},
-"10,10b": {
-  "id": "10,10b",
-  "title": "Section Ten - 10,10 (Extra)",
-  "content": "Emi re kun fun opolopo nkan sugbon yio se aseyori.",
-  "category": "Life & Success"
-},
-"11,10": {
-  "id": "11,10",
-  "title": "Section Ten - 11,10",
-  "content": "Oore kan nbo fun sugbon okan re nse iyameji.",
-  "category": "Friendship"
-},
-"12,10": {
-  "id": "12,10",
-  "title": "Section Ten - 12,10",
-  "content": "Owo kan bo, yio si duro lowo.",
-  "category": "Wealth"
-},
-"13,10": {
-  "id": "13,10",
-  "title": "Section Ten - 13,10",
-  "content": "Owo kan nbo, yio si lo.",
-  "category": "Wealth"
-},
-"14,10": {
-  "id": "14,10",
-  "title": "Section Ten - 14,10",
-  "content": "Atajere lori oja.",
-  "category": "Trade & Market"
-},
-"15,10": {
-  "id": "15,10",
-  "title": "Section Ten - 15,10",
-  "content": "Irin ajo ti yio mu ibinu wa.",
-  "category": "Travel & Warnings"
-},
-"16,10": {
-  "id": "16,10",
-  "title": "Section Ten - 16,10",
-  "content": "Ogun airowona nbaa ja.",
-  "category": "Conflict & War"
-},
+    "1,6": {
+      "id": "1,6",
+      "title": "Section Six - 1,6",
+      "content": "Eniyi gbodo maa se Suuru lopolopo, ibinu.",
+      "category": "Patience & Temper"
+    },
+    "2,6": {
+      "id": "2,6",
+      "title": "Section Six - 2,6",
+      "content": "Atajere lori oja, ase Yori lori adawole.",
+      "category": "Trade & Success"
+    },
+    "3,6": {
+      "id": "3,6",
+      "title": "Section Six - 3,6",
+      "content": "Mura si adawole Yio yori sir ere Irin ajo yio dara Obinrin kan yio maa naa Lowo.",
+      "category": "Work & Relationship"
+    },
+    "4,6": {
+      "id": "4,6",
+      "title": "Section Six - 4,6",
+      "content": "Ko se adura Daadara tori Aseti.",
+      "category": "Prayer & Hindrance"
+    },
+    "5,6": {
+      "id": "5,6",
+      "title": "Section Six - 5,6",
+      "content": "Eri okan yio maa Jee lori, ihuwasi Kan.",
+      "category": "Conscience & Behavior"
+    },
+    "6,6": {
+      "id": "6,6",
+      "title": "Section Six - 6,6",
+      "content": "Isegun ota wa Fun yio la laipe Ko se aseta dada Ola ti de bayio.",
+      "category": "Victory & Wealth"
+    },
+    "7,6": {
+      "id": "7,6",
+      "title": "Section Six - 7,6",
+      "content": "Owo kan nbo fun Tabi oore kan nbo Ko sora ko ma je Eeedi.",
+      "category": "Gift & Caution"
+    },
+    "8,6": {
+      "id": "8,6",
+      "title": "Section Six - 8,6",
+      "content": "Yio se abosi si Enikan, yio si Yii lowo.",
+      "category": "Conflict & Gain"
+    },
+    "9,6": {
+      "id": "9,6",
+      "title": "Section Six - 9,6",
+      "content": "Saara fun oku Owo nbo fun sugbon Ko se saara fun Orisa kan nile won.",
+      "category": "Offering & Wealth"
+    },
+    "10,6": {
+      "id": "10,6",
+      "title": "Section Six - 10,6",
+      "content": "O nba eni aje/ Enikan Nparo moo.",
+      "category": "Deception & Money"
+    },
+    "11,6": {
+      "id": "11,6",
+      "title": "Section Six - 11,6",
+      "content": "Irin ajo to fe lo Ona dii moo ko se Asina/adura Ko maase sin gbese.",
+      "category": "Travel & Delay"
+    },
+    "12,6": {
+      "id": "12,6",
+      "title": "Section Six - 12,6",
+      "content": "Obinrin kan yoo fe o lati sakani eyan nla yoo ti wa.",
+      "category": "Marriage & Opportunity"
+    },
+    "13,6": {
+      "id": "13,6",
+      "title": "Section Six - 13,6",
+      "content": "Awon Agba nfe gba nkan laro re ko Se iyonu ki oore le Tee lowo.",
+      "category": "Elders & Blessing"
+    },
+    "14,6": {
+      "id": "14,6",
+      "title": "Section Six - 14,6",
+      "content": "Accident ko ni saraa mase rin irin ajo titi ojo.",
+      "category": "Accident & Warning"
+    },
+    "15,6": {
+      "id": "15,6",
+      "title": "Section Six - 15,6",
+      "content": "Ori irin ni oore re wa ko rin irin jo.",
+      "category": "Travel & Blessing"
+    },
+    "16,6": {
+      "id": "16,6",
+      "title": "Section Six - 16,6",
+      "content": "Ifaseyin tori aare okan. Irewesi okan to nfa ifa seyin.",
+      "category": "Setback & Worry"
+    },
+
+
+  "7@1": {
+    "id": "7@1",
+    "title": "7@1",
+    "content": "Owa ninu ibanuje airi owo na. Ao ma la alakala, awon agba ndaamu, awon aje ntele kakiri, won ko jeki oni isinmi monitor re kiri.",
+    "category": "Ibanuje & Aje"
+  },
+
+  "7@2": {
+    "id": "7@2",
+    "title": "7@2",
+    "content": "Okuta nbe lori nkan ti fi se oro aje, yala on sowo ni ko ni ta tabi on sise ijoba, to ba sise ijoba yoo ma gba salary ko ni ri owo miran ko wole ni bi ki bi, awon eleye nda onibeere laa mu.",
+    "category": "Aje & Owo"
+  },
+
+  "7@3": {
+    "id": "7@3",
+    "title": "7@3",
+    "content": "Awon agbalagba ni idile iya. Alaniyan, iyawo alaniyan eyan pupa ni. Alaniyan nta yala epo, eran pipa tabi aso.",
+    "category": "Idile & Alaniyan"
+  },
+
+  "7@4": {
+    "id": "7@4",
+    "title": "7@4",
+    "content": "Awon aje ile baba nda alaniyan laamu, ko mura.",
+    "category": "Aje & Idile Baba"
+  },
+
+  "7@5": {
+    "id": "7@5",
+    "title": "7@5",
+    "content": "Iyawo alaniyan nse nkan osu lowo to ba je okunrin. To ba je obinrin, yoo ri nkan osu re laipe, ko ma se lowo tabi ko sese pari re.",
+    "category": "Iyawo & Osu"
+  },
+
+  "7@6": {
+    "id": "7@6",
+    "title": "7@6",
+    "content": "Are yoo se oko re, to ba je obinrin, ati nkan ko lo dede fun oko. Asiri kan yoo tu. Umura ile kefa. Bi won fun laajo ko sise, bo se adura, ko sise, won yoo ko wahala ba ise re. Onise owo yoo ma le ise kiri, daamu foro lori ise. Won nba ajo je mo lara ko lo we owo aje kuro lara.",
+    "category": "Ise & Wahala"
+  },
+
+  "7@7": {
+    "id": "7@7",
+    "title": "7@7",
+    "content": "Yoo fe obinrin to fi won ma fa mo rawon lowo. A o fe obinrin ti ko si ni ile oko. Okunrin pupa kan ni mo nwo nile. Awon agbalagba ni idile oko. Iyawo alaniyan eyan pupa ni. Alaniyan nta epo, ata tabi aso. Bi ile keta na ni.",
+    "category": "Ife & Idile"
+  },
+
+  "7@8": {
+    "id": "7@8",
+    "title": "7@8",
+    "content": "Won fe fi ese da alaniyan laamu tabi fi stroke se.",
+    "category": "Laamu & Aisan"
+  },
+
+  "7@9": {
+    "id": "7@9",
+    "title": "7@9",
+    "content": "Gbogbo ore ti nbo wa fun alaniyan won gba danu, won block re. Obinrin kan pupa yoo ma dina mo.",
+    "category": "Ore & Idena"
+  },
+
+  "7@10": {
+    "id": "7@10",
+    "title": "7@10",
+    "content": "O ni eyonu kan ti nlo ti nsise, aye nyonu si. Gbogbo to nse odun mo awon agba ninu.",
+    "category": "Eyonu & Agba"
+  },
+
+  "7@11": {
+    "id": "7@11",
+    "title": "7@11",
+    "content": "Awon nkan ti alaniyan fokan ni ore awon aje ti gba danu.",
+    "category": "Ore & Aje"
+  },
+
+  "7@12": {
+    "id": "7@12",
+    "title": "7@12",
+    "content": "Awon ota ti alaniyan ni aje pupa. Nkan eyonu awon aje ni ko ma se. 3@12 oso lota, 11@12 emere lota, 14@12 alfa, pastor, babalawo ni ota.",
+    "category": "Ota & Aje"
+  },
+
+  "7@13": {
+    "id": "7@13",
+    "title": "7@13",
+    "content": "Awon ti ndaamu alaniyan awon agbalagba aje to sunmo ni.",
+    "category": "Aje & Daamu"
+  },
+
+  "7@14": {
+    "id": "7@14",
+    "title": "7@14",
+    "content": "Alaniyan nla ala buruku.",
+    "category": "Ala & Alaniyan"
+  },
+
+  "7@16": {
+    "id": "7@16",
+    "title": "7@16",
+    "content": "Awon apapo eleye nda onibeere laamu, ko ma lo nkan eyonu.",
+    "category": "Eleye & Laamu"
+  },
+
+  "7A": {
+    "id": "7A",
+    "title": "7A",
+    "content": "Ile oko, afefe, awon agba, nkan pupa, eyan pupa foo. Irawo ile keta ati irawo ile keje to ba bi inkisu, 8, won ko gbadun ara won ma fi ara won se epe, dara won laamu. 7@3, 7@4, ogun idile iya ati baba nbe fun alaniyan. Awon aje nse idaamu, aisan to jemo inu ati ori fifo, oju, asiri bibo lori gbese. Toju emi re tori ota, oro ejo ti yoo jemo oye, dukia. Sora ki won to lu eniyan buruku. Oro etan larin okunrin si obinrin. Wa ni lari laye sugbon wa ri idaamu die. Ki e ma sika, ki o ma ja tabi soro lile. Eniyan pataki ni o. Wa ma gbayi nibikibi ti o ba lo, olori ti won yoo ma bowo fun ni o. Sora fun iwa igberaga, enu didan bale, o ko gbodo ba inu je, obi ifin bo eleda re. O je olotito, sugbon aye tabi awon eniyan koni gba o laye lati so otito. Won yoo ma ti si iro pipa. Otito yoo je ki awon eniyan korira re, won yoo ma gba oro re sodi. Wa fe ma da se nkan tire ti o ni fe se ajosepo pelu won tori ailooto. Ise si re yoo ma yato si ti elomiran. Wa agidi okan, wa korira, iyanje tabi ki enikan ma lo owo agbara lati pase leyan lori lona ti ko to. O je eniti ara re ko bale yoo ma se nkan pelu asise. Inu re ma sa dede baje. Ti o ba ronu lori bi nkan se nlo pelu re ti ko te lorun, ero okan re ma nyi pada lojiji. Isele ojiji, ore ojiji, isubu ojiji. Ore ma nyoju nigbati o bati so ireti nu. Alanu eda to lawo to bani o, ti yoo se ore fun eniti yo lo owo tabi anfani na dada. Ma nronu jinle ko to se nkan. Ota po ti won yoo ma jowu re. Ma fi inu han ore. O ma nko irinmeji bona po. Lekan soso, o ma nse nkan meji lekansoso. O ma nro ti elomiran mo tire. O ma se iwadi nkanju bi o fi ye lo, ti o le fa ikorira tabi ota. O ki wa iparun fun eniyan. Feran oso le sise tabi wa ni ayika to mo toni toni.",
+    "category": "Ile Oko & Ogun Idile"
+  },
+
+  "AISAN": {
+    "id": "7@Aisan",
+    "title": "AISAN",
+    "content": "Arariro, inudidun, inurirun, ipalaran ibija (accident), arawiwo, oyioju.",
+    "category": "Aisan Ara"
+  },
+
+  "ISE": {
+    "id": "7@Ise",
+    "title": "ISE",
+    "content": "Teacher, Ise agbe, Tewetegbo sise, Egbo igi tita, Nkan osin, Aso reran, Nurse, Doctor, Owo sise.",
+    "category": "Ise & Ona Ilera"
+  },
+
+    "7,1": {
+      "id": "7,1",
+      "title": "Section Seven - 7,1",
+      "content": "Amodi nse enikan yoo nawo pupo ki oto san.",
+      "category": "Debt & Expenditure"
+    },
+    "7,2": {
+      "id": "7,2",
+      "title": "Section Seven - 7,2",
+      "content": "Okuta nbe lori nkan ti fi se oro aje, yala on sowo ni ko ni ta tabi on sise ijoba, to ba sise ijoba yoo ma gba salary ko ni ri owo miran ko wole ni bi ki bi, awon eleye nda onibeere laa mu.",
+      "category": "Financial Blockage & Witchcraft"
+    },
+    "7,3": {
+      "id": "7,3",
+      "title": "Section Seven - 7,3",
+      "content": "AWON AGBALAGBA NI IDILE IYA, ALANIYAN, IYAWO ALANIYAN EYAN PUPA NI, ALANIYAN NTA YALA EPO, ERAN PIPA TABI ASO.",
+      "category": "Family & Trade"
+    },
+    "7,4": {
+      "id": "7,4",
+      "title": "Section Seven - 7,4",
+      "content": "AWON AJE ILE BABA NDA ALANIYAN LAAMU, KO MURA.",
+      "category": "Spiritual Attack"
+    },
+    "7,5": {
+      "id": "7,5",
+      "title": "Section Seven - 7,5",
+      "content": "IYAWO ALANIYAN NSE NKAN OSU LOWO TO BA JE OKUNRIN, TO BA JE OBINRIN, YOO RI NKAN OSU RE LAIPE, KO MA SE LOWO TABI KO SESE PARI RE.",
+      "category": "Marriage & Struggle"
+    },
+    "7,6": {
+      "id": "7,6",
+      "title": "Section Seven - 7,6",
+      "content": "Are yoo se oko re, to ba je obinrin, ati nkan ko lo dede fun oko. Asiri kan yoo tu, UMURA ILE KEFA, bi won fun laajo ko sise, bo se adua, ko sise, won yoo ko wahala ba ise re, onise owo yoo ma le ise kiri, daamu foro lori ise, WON NBA AJO JE MO LARA KO LO WE OWO AJE KURO LARA.",
+      "category": "Work & Misfortune"
+    },
+    "7,7": {
+      "id": "7,7",
+      "title": "Section Seven - 7,7",
+      "content": "Yoo fe obinrin to fi won ma fa mo rawon lowo. A o fe obinrin ti ko si ni ile oko, okunrin pupa kan ni mo nwo nile, AWON AGBALAGBA NI IDILE OKO, IYAWO ALANIYAN EYAN PUPA NI, ALANIYAN NTA EPO, ATA, TABI ASO. BI ILE KETA NA NI.",
+      "category": "Marriage & Elders"
+    },
+    "7,8": {
+      "id": "7,8",
+      "title": "Section Seven - 7,8",
+      "content": "WON FE FI ESE DA ALANIYAN LAAMU TABI FI STROKE SE.",
+      "category": "Witchcraft & Health"
+    },
+    "7,9": {
+      "id": "7,9",
+      "title": "Section Seven - 7,9",
+      "content": "GBOGBO ORE TI NBO WA FUN ALANIYAN WON GBA DANU, WON BLOCK RE. Obinrin kan pupa yoo ma dina mo.",
+      "category": "Blocked Fortune & Female Influence"
+    },
+    "7,10": {
+      "id": "7,10",
+      "title": "Section Seven - 7,10",
+      "content": "O ni eyonu kan ti nlo ti nsise, aye nyonu si, GBOGBO TO NSE ODUN MO AWON AGBA NINU.",
+      "category": "Struggle & Elders"
+    },
+    "7,11": {
+      "id": "7,11",
+      "title": "Section Seven - 7,11",
+      "content": "AWON NKAN TI ALANIYAN FOKAN NI ORE AWON AJE TI GBA DANU.",
+      "category": "Lost Fortune & Spiritual Hindrance"
+    },
+    "7,12": {
+      "id": "7,12",
+      "title": "Section Seven - 7,12",
+      "content": "AWON OTA TI ALANIYAN NI AJE,PUPA, NKAN EYONU AWON AJE NI KO MA SE, 3@12 OSO LOTA, 11@12 EMERE LOTA, 14@12 ALFA, PASTOR, BABALAWO NI OTA.",
+      "category": "Enemies & Spiritual Forces"
+    },
+    "7,13": {
+      "id": "7,13",
+      "title": "Section Seven - 7,13",
+      "content": "AWON TI NDAAMU ALANIYAN AWON AGBALAGBA AJE TO SUNMO NI.",
+      "category": "Elders & Witchcraft"
+    },
+    "7,14": {
+      "id": "7,14",
+      "title": "Section Seven - 7,14",
+      "content": "ALANIYAN, NLA ALA BURUKU.",
+      "category": "Bad Dreams & Warning"
+    },
+    "7,16": {
+      "id": "7,16",
+      "title": "Section Seven - 7,16",
+      "content": "AWON APAPO ELEYE NDA ONIBEERE LAAMU, KO MA LO NKAN EYONU.",
+      "category": "Witchcraft & Protection"
+    },
+
+
+    "8@1": {
+      "id": "8@1",
+      "title": "8@1",
+      "content": "IPAYA ,AIFI OKAN BALE, IBANUJE, NBE FUN ONIBERE, ti o le gbemi eeyan, nkankan npalaya, ti a ba fe mo nkan ti nplaya ao wo irawo to wa nile omo,(5), eyi ti o wa nile owo (2),eyi towa nile iyawo(3), nile oko 7, ile ise, ibi ti a ba ti aba bad star ibe ni ipaya wa( bad star (3,6,7,8), fun apere,8@1 ati 8@3, ipaya ni idile iyawo, iya iyawo tabi ati egbon iyawo yoo ma tenubo oro loko laya,won yoo ma da arin won ru, ija yoo ma sele larin won ao bere pe ta ni se epe larin awon meteta",
+      "category": "EIGHT"
+    },
+
+    "8@2": {
+      "id": "8@2",
+      "title": "8@2",
+      "content": "ERU NBA ONIBERE NIPA OWO, OKAN RE KO BALE NI PA ORO OLOWO DE",
+      "category": "EIGHT"
+    },
+
+    "8@3": {
+      "id": "8@3",
+      "title": "8@3",
+      "content": "onibere okunrin, ti iya iyawo ba omo re joko nile oko,ko fe ki omo re ridi joko nile oko, tabi aunt Egbon iya iyawo ko fe ko ridi joko nile oko, oko ati iyawo won nja ti okan ninu won ma se epe tabi awon mejeji, le bere pe talo ma nsepe larin won.IYAWO TI KO FI OKO LOKAN BALE, IYAWO TI AWON OBI RE KO FE KO GBE ILE OKO, IYAWO TO GBE OKO SEPE",
+      "category": "EIGHT"
+    },
+
+    "8@4": {
+      "id": "8@4",
+      "title": "8@4",
+      "content": "TI BABA BA NBE KO TOJU BABA, KO MA SICK, TO BA TI KU KO SE SARA",
+      "category": "EIGHT"
+    },
+
+    "8@5": {
+      "id": "8@5",
+      "title": "8@5",
+      "content": "TI ALANIYAN BA TI BIMO,KO BE OLORUN LORI AWON OMO,  LORI ARE TABI IKU OJIJI LORI OMO, TI KO BA TI BIMO IDADURO FUN OBINRIN.",
+      "category": "EIGHT"
+    },
+
+    "8@6": {
+      "id": "8@6",
+      "title": "8@6",
+      "content": "MONAFIKI,AROKA, AIFINI LOKAN BALE LENU ISE, AWON OTA LO YIKA NIBI ISE KO SORA, KO SI IGBADUN, PAKALEKE WA NIBE",
+      "category": "EIGHT"
+    },
+
+    "8@7": {
+      "id": "8@7",
+      "title": "8@7",
+      "content": "Yoo fe obinrin kan ti yoo buru onifari. Onibeere yoo fe obinrin kan. Oko ni iya kan tabi aunt kan ti ko fe ki iyawo duro lodo re, oko ati iyawo won yoo ma ja, se epe ao bi pe tani ma sepe ti oro ba ti sele, O NI IYAWO NILE, IYA, TABI ABURO IYA RE TABI AUNT RE YOO MA GBOGUN TI IYAWO, WON KO FE KI OBINRIN RIDI JOKO NI ODO OKO,WON YOO MA FA IJA SI ARIN WON,IYAWO ATI OKO YOO MA SE EPE, EPE TI WON NFI ARA WON SE YI YOO SE, TORI AWON KAN NBE TI WON NFI ASE SORI EPE NA, BI TI 8@3",
+      "category": "EIGHT"
+    },
+
+    "8@8": {
+      "id": "8@8",
+      "title": "8@8",
+      "content": "KO SORA FUN  IJA, IBINU, ORO TI KO MOWO MESE TORI IKU OJIJI, ki onibeere yi se saara tori iku ojiji.Ti a ba ri 8@8, 4@4, 11@11, 5@12,, 8- iku, 4-aso funfun, 11- posi, 5- sare SORA FUN, IJA, IBINU, WAHALA, ORAN TI KO MOWO MESE MA DI LE LORI,",
+      "category": "EIGHT"
+    },
+
+    "8@9": {
+      "id": "8@9",
+      "title": "8@9",
+      "content": "WON TI GBE IGI DANA IGBESI AYE RE ATI JE YOO NIRA, ATI NAWO YOO NIRA, ONA YE TI DI, O FE TRAVEL NI, O FE RISE NI KO SI, GBOGBO NTI JE DADA IRINAJO RE WON TI GBEGI DANA",
+      "category": "EIGHT"
+    },
+
+    "8@10": {
+      "id": "8@10",
+      "title": "8@10",
+      "content": "Ni apa otun ni ikun wahala wa nibe, yoo ma dun, ti o yoo ma nawo si,ti aba leri 9@2 ati 9@13 o ti di agbaana, KO BELORUN KI WON MA SO ASARA SINU OWO RE, ARE INU, PAPA LAPA OTUN, YOO MA DUN YOO MA KAN, KO TETE MOJUTO KO MA DI WAHALA SI LORUN.",
+      "category": "EIGHT"
+    },
+
+    "8@11": {
+      "id": "8@11",
+      "title": "8@11",
+      "content": "Awon ota yoo ma dun koko mo aseyori,, lori nkan ti a ba fe, ibi ti a ti nreti nkan yi, won yoo ni kope oku nkankan wa to ba je ise ni nwa tabi ile iwe/ travelling document/ iwe igbelu,won a ni o ku document kan ko lo muwa, kanwon a ni o ku nkankan, ki won lo mu wa, o tumo si pe nkan ti won nse koi ti pe, to ba ti pe won yoo fun, to ba je owo owo ye ko ni pe , nkankan ti nreti esi re npani laya, fun apere inu re ko dun bi nkan se nfale, yoo ni idaamu pelu aforiti ati adura yoo bo si, delay ki se oju ese, Ti oyun ba ti yobi osu mefa meje, ti o ti han sita,( 8@11 ki won mojuto oyun ko ma bi lokumo/ fi obe gbebi)/ 4@11/ 6@11, ki eniti o loyun ki won ma fi obe gba ibi, lojo ikunle,TI NBA RETI ORE IDAJI NI YOO RI,FUN APERE, O NRETI #10 YOO MA RI #2 SI 3, TO BA JE CONTRACT MEJI NI O NRETI, WON FUN NI EYOKAN TABI KI WON O PIN EYOKAN SI MEJI FUN AWON MEJI,TO BA JE DOCUMENT LO SUBMIT SI IBIKAN, FUN EMBASSY NIGBATI WON CHECK, WON YOO BERE IWE MIRAN PE KO LO MUWA WON YOO NI O KU IWE KAN KO LO MU WA, LEYIN WAHALA YOO BOSI",
+      "category": "EIGHT"
+    },
+
+    "8@12": {
+      "id": "8@12",
+      "title": "8@12",
+      "content": "KO BELORUN KI OTA MA REYIN RE",
+      "category": "EIGHT"
+    },
+
+    "8@13": {
+      "id": "8@13",
+      "title": "8@13",
+      "content": "OKAN RE KO BALE, IPAYA WA FUN, SORA PELU EPE SISE, BAKANA 8@1",
+      "category": "EIGHT"
+    },
+
+    "8@14": {
+      "id": "8@14",
+      "title": "8@14",
+      "content": "Oro ile, eniyan yoo ku lori re, sora fun enu. Eyin yoo ma dun onibere, ALFA YOO RI OWO KEKERE",
+      "category": "EIGHT"
+    },
+
+    "8@16": {
+      "id": "8@16",
+      "title": "8@16",
+      "content": "Arun ehin didun se o, adua lori wahala awon aje lori re, AWON EYAN YOO BA O SE EJO, KO MA TI TRAVEL KO MA LO KA WAHALA LEHIN ODI 16@1,16@3, 16@7,16@10, OPO EJO",
+      "category": "EIGHT"
+    },
+
+    "8A": {
+      "id": "8A",
+      "title": "8A",
+      "content": "OBINRIN EYAN DUDU TO KURU NI, IPAYA, IBANUJE, ILE IKU, EPE SISE ,EYIN DIDUN,ERUPE, 8@11, 8@14, WON NGBE ALARE BO WA, KI WON SORO ALARE KAN FUN NI, AO WO MO OJU ONA, TI A BA BA OMI NIBE, NKAN BI HANTU, TABI AGBO TI WON LO MI PELU RE, NI KI WON LO FUN, TI A BA RI AFEFE NI 9 ADUA NI KI WON O SE, ERUPE NI 9 OSE NI KI WON O GUN FUN, INA NI 9 NKAN JIJO, TABI BI IGBERE\n\nAre ti yoo le pupo, obinrin yoo se ore fun. Lilo si ibomiran tabi nibi ise miran tabi ki o lo gbe ibomiran.\n\nBelorun ole ara ati emi, ituka oko, iyawo, tabi egbe ki o gbadura tori ibujoko (ko si oko nile tabi iyawo) iku oko tabi iyawo. Awon kan dipo fun ibi,won nbinu re, oro iwo ati iyawo re, won yoo se ogun nitori yin. Eniyan gigun kan yoo se lore , mase ba eniyan lo fila ati kainkain, o tana waje, Eniyan gigun kan yoo se lore o nwa owo ko ma yorisi aisan.ORO ISITI sora fun iwa aifarabale, woran woran loni, ki o si gba imoran awon asaju, gbiyanju lati je alatunse ki o ma je baseje loni sora fun obinrin/okunrin sora fun iwa palapala. Ma gbekele adehun awon eniyan, ki o ma du emi re lorekore won yoo ma wa isubu re, sora fun jibiti tabi wahala ti yoo gbe owo lo, awon ti eko lero si ni yoo ma se aburu fun yin, ki o so enu re, ki o ma ba fenu ko, ki o oyun ma ba baje tabi so di arun, irin ajo wa lese re.",
+      "category": "EIGHT"
+    },
+
+    "8B": {
+      "id": "8B",
+      "title": "8B",
+      "content": "O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba kigba to de, feran irepo, koferan lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye tio n lo lati fi yanju oro ti o ba se koko, feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni. Awon eniyan yoo maa yan je, o maa n fa eniyan goke, o maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan, o maa n fi arani re lati ran elomiran lowo, o korira gbese tabi ra nka win, o ko rira ki eniyan so rare di bukata si lorun. Okan re maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala ati awon eniyan kan ti yoo maa je sababi buruku sinu aye won. okan re naa lora lati gba yangbo tabi lati sun mo eniyan pelu iriri ti o ti ri pelu awon eniyan. Aisan eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru. Sora pelu ounje lode, ise ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, Ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, Mechanic.",
+      "category": "EIGHT"
+    },
+
+    "1,8": {
+      "id": "1,8",
+      "title": "Section Eight - 1,8",
+      "content": "Ona ma la funnu lori Ohun gbogbo.",
+      "category": "Open Paths & Blessings"
+    },
+    "2,8": {
+      "id": "2,8",
+      "title": "Section Eight - 2,8",
+      "content": "Owo yio duro Lowo re ko se Adura.",
+      "category": "Stagnant Wealth & Prayer"
+    },
+    "3,8": {
+      "id": "3,8",
+      "title": "Section Eight - 3,8",
+      "content": "Irorun lori ohun gbogbo awon Agba Yio maa yonu sii.",
+      "category": "Ease & Elder Support"
+    },
+    "4,8": {
+      "id": "4,8",
+      "title": "Section Eight - 4,8",
+      "content": "Otutu ife Onmuu o nife Si enikan.",
+      "category": "Love & Attraction"
+    },
+    "5,8": {
+      "id": "5,8",
+      "title": "Section Eight - 5,8",
+      "content": "Yio bimo ti yio Po. Ko mase feto Somo bibi.",
+      "category": "Fertility & Children"
+    },
+    "6,8": {
+      "id": "6,8",
+      "title": "Section Eight - 6,8",
+      "content": "Alaisan yio Gbadun ko Se saara Eran.",
+      "category": "Health & Sacrifice"
+    },
+    "7,8": {
+      "id": "7,8",
+      "title": "Section Eight - 7,8",
+      "content": "Oju omo npon.",
+      "category": "Child & Vision"
+    },
+    "8,8": {
+      "id": "8,8",
+      "title": "Section Eight - 8,8",
+      "content": "Ipinya larin awon meji kan, oro ile no message.",
+      "category": "Separation & Domestic Matter"
+    },
+    "9,8": {
+      "id": "9,8",
+      "title": "Section Eight - 9,8",
+      "content": "Yoo rin irin ajo Yoo se ori re Lajo.",
+      "category": "Travel & Destiny"
+    },
+    "10,8": {
+      "id": "10,8",
+      "title": "Section Eight - 10,8",
+      "content": "Ona di moo Asina ni ko maa Se/ Adura.",
+      "category": "Obstruction & Prayer"
+    },
+    "11,8": {
+      "id": "11,8",
+      "title": "Section Eight - 11,8",
+      "content": "Yio so yigi Loko/ Febinrin.",
+      "category": "Marital Conflict"
+    },
+    "12,8": {
+      "id": "12,8",
+      "title": "Section Eight - 12,8",
+      "content": "Idunnu lori Ise ti onse.",
+      "category": "Success & Joy at Work"
+    },
+    "13,8": {
+      "id": "13,8",
+      "title": "Section Eight - 13,8",
+      "content": "Owo kan nbo Yio si lo lese Kese (Adura) Fun. Adura/ Aajo.",
+      "category": "Incoming Wealth & Prayer"
+    },
+    "14,8": {
+      "id": "14,8",
+      "title": "Section Eight - 14,8",
+      "content": "Ipaya wa.",
+      "category": "Shock & Caution"
+    },
+    "15,8": {
+      "id": "15,8",
+      "title": "Section Eight - 15,8",
+      "content": "Awon agba ndaa Laamu ko se Iyonu.",
+      "category": "Elders & Peace"
+    },
+    "16,8": {
+      "id": "16,8",
+      "title": "Section Eight - 16,8",
+      "content": "Yio travel Mase ba eniyan Ja.",
+      "category": "Travel & Conflict"
+    },
+    "8,9": {
+      "id": "8,9",
+      "title": "Section Eight - 8,9",
+      "content": "Arun wa larin ilu yi yoo si fa iku.",
+      "category": "Disease & Death"
+    },
+    "8,10": {
+      "id": "8,10",
+      "title": "Section Eight - 8,10",
+      "content": "Ija nitori owo.",
+      "category": "Conflict & Money"
+    },
+
+    "9@1": {
+      "id": "9@1",
+      "title": "9@1",
+      "content": "ALANIYAN NRONU, TO BA TI FOWO LERAN EMI TI JADE KURO LARA RE IRONU TO JINNA TI EYAN TI GBA GBE RA ironu ti ma sori eyan kodo ti o le fa iku lojiji,on ronu gan, kini nronu le lori, ao wo ile owo 2, boya owo ni, ao wo ile ise 6 boya ise ni, ao wo ile omo 5 boya omo ni, 3 odo iyawo to ba se okunrin, 7 odo oko , ibi ti a ba ti aba bad star ibe ni nkan t inro ninu wa( bad star (3,6,7,8), ti a ba wo ile owo, 2 ati 13 atelewo,ti okan ninu araji b awa nibe owo njade niyen.",
+      "category": "NINE"
+    },
+    "9@2": {
+      "id": "9@2",
+      "title": "9@2",
+      "content": "Ise ti dojuru,agbaana, owo tabi dukia yoo jade lowo onibere, ti a ba ri 9@13 o confirm agbaana, 8@5 omo yoo sick, ibe ni nawo si, 8@3, iyawo yoo sick, iyawo ni nawo si, 8@6, ise ko lo dede, ao wo ile ise ibi ti a ba ti ri irawo ti ko da bi 3,6,7,8, ibe ni nawo si, most of time oro dada ni ma nso nile omo iya won, awole ina, omi wole omi,ategun wole ategun, ile wole ile , o le so dada o le ma so dada fun apere,7@3,7@7 nidi eleyi e se sara fun awon agbalagba, agba ndaamu, lati mo nkan ti yoo fi se sara, ao wo ile kefa, 6, ti a ba omi nkan olomi ni yoo fi se sara bi minerals, osan, eso ti oni omi ninu,O NRONU, OWO KO DURO, 9@5,0M0 NI NAWO LE LORI,9@6 ISE NI GBA OWO DANU LOWO RE.",
+      "category": "NINE"
+    },
+    "9@3": {
+      "id": "9@3",
+      "title": "9@3",
+      "content": "IYAWO TI LO TABI PREPARE LATI KO,ILE IYIGI SOFO, KO DA KI WON JO  MA GBE, O TI LO, YOO LO.",
+      "category": "NINE"
+    },
+    "9@4": {
+      "id": "9@4",
+      "title": "9@4",
+      "content": "Iyawo re yoo ko oko, hunhun nbe larin ololufe meji. AWON EBI NRONU NIPA RE, AO WO ILE KESAN 9, TI A BA BA IRAWO TO DA NIBE, IRONU TO DARA NI,IRAWO TI KO DARA, IRONU TI KO DA NI.",
+      "category": "NINE"
+    },
+    "9@5": {
+      "id": "9@5",
+      "title": "9@5",
+      "content": "TO BA JE OBINRIN YOO SE NKAN OSU TITI OJO MERIN, ALANIYAN KO MOJUTO OMO KI ERE  MO PO FUN, KO MA MA SA NILE IWE, TABI ILE OKO.",
+      "category": "NINE"
+    },
+    "9@6": {
+      "id": "9@6",
+      "title": "9@6",
+      "content": "Ma se je adeja, IYA ONIBERE YOO SARE KA BI LERE PE IYA RE NKO,, IYA KAN RE TO RU TI EBI NPA , TI O BA NIYA KO TOJU IYA RE EBI NPA, YOO SICK TO MA RU GAN TO BA TI KU KO SE SARA FUN.",
+      "category": "NINE"
+    },
+    "9@7": {
+      "id": "9@7",
+      "title": "9@7",
+      "content": "TO BA JE OKUNRIN, O FE KO IYAWO, AO WO ILE KESAN 9, TI DAILI BA WA NIBE, KO NI LO, BO LO YOO PADA, TO 3 SE ARIJA NI YOO LO.",
+      "category": "NINE"
+    },
+    "9@8": {
+      "id": "9@8",
+      "title": "9@8",
+      "content": "9@8 ATI 9@13 npase, ki alaniyan mura ajalu ti yoo sele ti eyan yoo ma ta dukia  KI ONIBERE MA FI IRONU SE ARA RE LESE.",
+      "category": "NINE"
+    },
+    "9@9": {
+      "id": "9@9",
+      "title": "9@9",
+      "content": "IRINAJO KAN NBO WA FUN ONIRIN AJO, KAWO ILE MEFA 6, TI IRAWO TO WA NIBE BA DA, KO MA LO O DARA.",
+      "category": "NINE"
+    },
+    "9@10": {
+      "id": "9@10",
+      "title": "9@10",
+      "content": "Ti a ba fe mo iru ise ti eniyan nse, ao wo ile kewa 9@10 ati ile kefa 9@6 , yoo je olopa , soja , uniform, ALANIYAN YOO CHANGE, ILE, YOO CHANGE ISE.",
+      "category": "NINE"
+    },
+    "9@11": {
+      "id": "9@11",
+      "title": "9@11",
+      "content": "Ti a ba 9@11,ati 9@2 ba wa papo irinajo wa lemi re ti o nawo si, KI ALANIYAN KO MA FOKAN SI ORE KANKAN, TI YOO BA BOSI YOO SE WAHALA DAAMU, KO TO BO SI.",
+      "category": "NINE"
+    },
+    "9@12": {
+      "id": "9@12",
+      "title": "9@12",
+      "content": "KO MA JEKI OTA KO ILE ARE SI ARA RE, KO MA FI AYE SILE FUN IRONU TO LE YORI SI ARE.",
+      "category": "NINE"
+    },
+    "9@13": {
+      "id": "9@13",
+      "title": "9@13",
+      "content": "Onibere ni awon nkan ti nawo le lori, TI A BA FE MO IBI TI NAWO SI, AO WO ILE ISE, ILE OMO,ILE OKO, ILE IYAWO, TI A BA TI RI IRAWO TI KO DARA NIBE, IBE NI NAWO SI.",
+      "category": "NINE"
+    },
+    "9@14": {
+      "id": "9@14",
+      "title": "9@14",
+      "content": "OKAN ALANIYAN KO BALE.",
+      "category": "NINE"
+    },
+    "9@15": {
+      "id": "9@15",
+      "title": "9@15",
+      "content": "Aye yoo gba o nibiti o bawa, olori nibi gbogbo. Adura wa yoo gba laarin ilu yi.",
+      "category": "NINE"
+    },
+    "9@16": {
+      "id": "9@16",
+      "title": "9@16",
+      "content": "KO GBIYANJU KO TRAVEL ORE WA NI BE, ore lati odo ARINRIN AJO. Ao losi irin-ajo ti ao ri ore nbe.",
+      "category": "NINE"
+    },
+    "9A": {
+      "id": "9A",
+      "title": "9A",
+      "content": "ILE MESAN 9, ILE IRINAJO, KI NKAN KURO LOWO ENI, IBE LE TI MO SE NKAN LO DEDE FUN EEYAN, SONA DI FUN YAN, SE EYAN DADA LEYAN ABI EYAN BURUKU, GBOGBO NKAN TO JE MO IGBESI AYE EYAN ILE KESAN LA TI MO, KESAN LA TI MO, KI SE IRINAJO NIKAN, TI ORE BA NBO IBE LEYAN O TI MO BOYA WON BLOCK RE, TI ORE KO BA WA KILO FA TI KO FI WA, GBOGBO IRAWO LA MO RELATE MO ILE KESAN FUN APEERE, 13@11, 14@9 ATI 14@13, O NLO OGUN KAN TI NSISE, , 10@14 ALFA YOO GBOWO, AO LO WO OJU ONA TI OWO FE GBAWA ILE KESAN 9, TI A BA UMURA 7 NIBE, 7@9 OWO YEN KO NI TEWO, WON TI FE GBA OWO YI DANU, TI 15 BAWA NI ILE KESAN 15@9 OWO NA YOO TEWO TI O BA JE 11@9 YOO WOLE, ENITI NMU OWO YI BO O NGBE MOTO BO, 11 MA NSORO MOTO CAR NI ENIYI NGBE BO, 13 MA NSORO MOTO 13@9, JEEP, BUS, AJAGBE EJO, OKO NLA. NARASARA ARIJA 9. Ti a ba 1@14 ati 4@9 alejo ngbe asobo fun Alfa. SLOW, IRAWO. Be olorun ki awon ota ma ti o lu wahala ti yoo pe ki o to bo ninu re tabi sinu ofin (koto) aye ti yoo wa ninu ironu ati ibanuje ti ko ni agbara Kankan lati yoo ara re afi olorun oba nikan, o wa ninu ibanuje airi oluranlowo kankan. Ero kan yoo wa sinu okan re lati gbawe tabi se itore aanu tori aye ti o wa. O ma nla ala orisirisi to ba ji ni aro o ma ngba gbese, akojopo ninu ile fun nkan ti o sonu/tabi ija o, won pejo won nsoro nkankan oro na si buru larin yin tabi ki awon elomiran puro ole mo o mura ki o ma muti olopa dani, Loni wa ri apere orisirisi nkan, ero okan re ko ni duro si oju kan soso, sora fun iwa ole ati oroju, ma se gbagbe oro to ba se koko, iwa obinrin. O je eda, ti ko nini ore otito ti yoo wa pelu re lo titi, o ma tete fura tabi ri asise eniyan maa nronun ipa iwa ti eniyan le hu. Ko beru lati so otito, o ma nse gbogbo nkan re lona toto toye, laarin ebi, ore ati ni bi gbogbo, o nbi ebun opolo, emi sise nkan titun ti kowo po tabi nkan atijo ka fi opolo gbe kale lati fi ba igba mu, Ironu jinle ati opolo ti kowopo wa fun, o ni agbekale oro, ti o ma soro fun eniyan lati le tete ronu lo si ibe, ise ti o ba fi opolo ori gbe kale tabi tete ti a fi opolo ori ta, ti ki se teteti a fi owo, yoo ma je ju ise agbara lo. iwa agidi, tinu mi ni nse, aigbaimoran, aini iberu lati koju enikeni paapa to ba je lori otito, inakuna nigba miran, idiju gbesan, obinrin ti o ko wulo ati okunrin ti ko wulo ni fife. AISAN: Oju, Iba, Aisanarariro, Ikoinuriru, otutu inu egun, ejeriru. ISE: Nurse, Electrical work, olopa, Hotel, ojiseolorun, Akowe, Labe ijoba, oja tita lorisirisi, nkan oso ile, ounje tita, Eja, Mineral, Perfume, Make up.",
+      "category": "NINE"
+    },
+
+    "AISAN": {
+      "id": "AISAN",
+      "title": "AISAN",
+      "content": "Oju, Iba, Aisanarariro, Ikoinuriru, otutu inu egun, ejeriru ",
+      "category": "NINE"
+    },
+    "ISE": {
+      "id": " ISE",
+      "title": "ISE",
+      "content": "Nurse, Electrical work, olopa, Hotel, ojiseolorun, Akowe, Labe ijoba, oja tita lorisirisi, nkan oso ile, ounje tita, Eja, Mineral, Perfume, Make up.",
+      "category": "NINE"
+    },
+
+  "1,9": { 
+    "id": "1,9", 
+    "title": "Section Nine - 1,9", 
+    "content": "Awon agba ndaa laamu Lori arisiki. Adura Ati iyonu", 
+    "category": "Wealth & Patience" 
+  },
+  "2,9": { 
+    "id": "2,9", 
+    "title": "Section Nine - 2,9", 
+    "content": "Owo re njo, owo ko Ni kojosii lowo. Adura Ati aajo.", 
+    "category": "Financial Delay" 
+  },
+  "3,9": { 
+    "id": "3,9", 
+    "title": "Section Nine - 3,9", 
+    "content": "Owo kan nba fun un Sugbon koni duro lowo", 
+    "category": "Short-lived Gain" 
+  },
+  "4,9": { 
+    "id": "4,9", 
+    "title": "Section Nine - 4,9", 
+    "content": "Ko mase rin irin Ajo. Koni ri nkan Yi o nwa lo mubo.", 
+    "category": "Travel Warning" 
+  },
+  "5,9": { 
+    "id": "5,9", 
+    "title": "Section Nine - 5,9", 
+    "content": "Ko mase rin irin Ajo. Koni ri nkan Yi o nwa lo mubo.", 
+    "category": "Journey & Disappointment" 
+  },
+  "6,9": { 
+    "id": "6,9", 
+    "title": "Section Nine - 6,9", 
+    "content": "Ona si fun lati Se ohun kohun", 
+    "category": "Open Path & Opportunity" 
+  },
+  "7,9": { 
+    "id": "7,9", 
+    "title": "Section Nine - 7,9", 
+    "content": "Ko mase rin Irin ajo. Obinrin Yio ri nkan osu re.", 
+    "category": "Travel & Women’s Health" 
+  },
+  "8,9": { 
+    "id": "8,9", 
+    "title": "Section Nine - 8,9", 
+    "content": "Irin ajo yio waye Sugbon ko kun Fun adura ko Maa baa bo lofo.", 
+    "category": "Journey & Prayer" 
+  },
+  "9,9": { 
+    "id": "9,9", 
+    "title": "Section Nine - 9,9", 
+    "content": "Ko mase deja yio Yi lowo.", 
+    "category": "Loss & Warning" 
+  },
+  "10,9": { 
+    "id": "10,9", 
+    "title": "Section Nine - 10,9", 
+    "content": "Eje re yio maa Fail, ko sora fun Hypertension.", 
+    "category": "Health Warning" 
+  },
+  "11,9": { 
+    "id": "11,9", 
+    "title": "Section Nine - 11,9", 
+    "content": "Yio maa se aare Okan. Nkan to fe se ko ni bosi", 
+    "category": "Heart & Delay" 
+  },
+  "12,9": { 
+    "id": "12,9", 
+    "title": "Section Nine - 12,9", 
+    "content": "Asiri ki re nlo die die. Abgara na now owo re die die ko si ibe Olorun", 
+    "category": "Hidden Matters" 
+  },
+  "13,9": { 
+    "id": "13,9", 
+    "title": "Section Nine - 13,9", 
+    "content": "Omo re kan yio Maa gbiyan ju Sii", 
+    "category": "Children & Progress" 
+  },
+  "14,9": { 
+    "id": "14,9", 
+    "title": "Section Nine - 14,9", 
+    "content": "Iyawo re wa ninu Egbe, yio si maa Baa ja", 
+    "category": "Conflict in Marriage" 
+  },
+  "15,9": { 
+    "id": "15,9", 
+    "title": "Section Nine - 15,9", 
+    "content": "Ko mase ja Rara. Suuru ni Oro re gba", 
+    "category": "Patience & Peace" 
+  },
+  "16,9": { 
+    "id": "16,9", 
+    "title": "Section Nine - 16,9", 
+    "content": "Yio daran, Ko sora gidigidi Adura", 
+    "category": "Danger & Prayer" 
+  },
+
+
+    "10@1": {
+      "id": "10@1",
+      "title": "10@1",
+      "content": "ALANIYAN NFI OKAN SI ARANSE KAN, YOO NI LARI LAYE. ORE, KAWO ILE 9 TI A BA BA BAD STAR NKAN YE OFO NI, TI A BA GOOD STAR O DARA. (bad star (3,6,7,8), (4,5,10,15) GOOD STAR (10@1,10@5 ati 10@12), ti a baba nile obinrin olobinrin yoo loyun fun o.",
+      "category": "TEN"
+    },
+    "10@2": {
+      "id": "10@2",
+      "title": "10@2",
+      "content": "YOO LOLA TI YOO PO, ODA OWO KO NI DA, YOO RINA YOO RILO.",
+      "category": "TEN"
+    },
+    "10@3": {
+      "id": "10@3",
+      "title": "10@3",
+      "content": "IYAWO ALANIYAN EYAN KUKURU, DUDU NI, YOO YOKUN YODI, ALASIKI EDA NI, KO MA KO.",
+      "category": "TEN"
+    },
+    "10@4": {
+      "id": "10@4",
+      "title": "10@4",
+      "content": "OLOGO OMO TI MA NNA OWO SILE BABA RE, SE DADA FUN EBI, LO MA JE.",
+      "category": "TEN"
+    },
+    "10@5": {
+      "id": "10@5",
+      "title": "10@5",
+      "content": "TO BA JE ENI TI WOJU OLORUN OYUN TI DE, ASIKAFU 10, A MA SORO OYUN A MA SORO OWO. TI A BA FE MO BOYA OYUN TI DE AO WO ILE 11 ATI 9, TI A BA BA GOOD STAR NIBE OYUN TI DE. LATI CONFIRM BOYA OYUN TABI KI SE OYUN, ILE KERIN 4 TI INA (1,2,9,16) WA NI IBE, TI AWO ILE KEFA 6 TI ABA OMI (4,5,6,13), ILE OMO NGBONA. INA ATI INA NO, INA ATI AFEFE NO, INA ATI ERUPE NO, AFEFE ATI AFEFE NO, OMI ATI AFEFE NO, OMI ATI OMI YES, OMI ATI ERUPE YES, ERUPE ATI ERUPE YES.",
+      "category": "TEN"
+    },
+    "10@6": {
+      "id": "10@6",
+      "title": "10@6",
+      "content": "TO BA NISE LOWO, AO KI KU ORIRE. TI KO BA NISE LOWO, YOO PADA JANA TI YOO RISE NIBI ISE IJOBA, ILE ISE ILE OWO, KO NI PROBLEM.",
+      "category": "TEN"
+    },
+    "10@7": {
+      "id": "10@7",
+      "title": "10@7",
+      "content": "IYAWO RE / OKO RE EEYAN KUKURU NI YOO YOKUN YOO YODI ALASIKI.",
+      "category": "TEN"
+    },
+    "10@8": {
+      "id": "10@8",
+      "title": "10@8",
+      "content": "KI O SORA KO WA OWO DELE IKU, KO MO SE OGUN OWO, IKU RE, OWO RE, KO DURO TI OLORUN.",
+      "category": "TEN"
+    },
+    "10@9": {
+      "id": "10@9",
+      "title": "10@9",
+      "content": "YOO RIRIN AJO TI YOO RI OWO NIBE.",
+      "category": "TEN"
+    },
+    "10@10": {
+      "id": "10@10",
+      "title": "10@10",
+      "content": "ADURA RE TI GBA, YOO RI ANU OLORUN, YOO RI OWO.",
+      "category": "TEN"
+    },
+    "10@11": {
+      "id": "10@11",
+      "title": "10@11",
+      "content": "ORE TI A FI OKAN SI, YOO WOLE, NKAN TI NRETI LORE YOO TE LOWO.",
+      "category": "TEN"
+    },
+    "10@12": {
+      "id": "10@12",
+      "title": "10@12",
+      "content": "OTA YOO MA GBOGUN TORI BURUJI RE TO JI DADA, ASIKI WA LOWO OTA KO MURA.",
+      "category": "TEN"
+    },
+    "10@13": {
+      "id": "10@13",
+      "title": "10@13",
+      "content": "OWO NBE LOWO ALANIYAN.",
+      "category": "TEN"
+    },
+    "10@14": {
+      "id": "10@14",
+      "title": "10@14",
+      "content": "WON NBO WA FUN ALFA LOWO, ALFA YOO RI OWO. AO WO ILE 9 LATI FI MO BI YOO SE TI YA SI, GOOD, YOO YA; BAD, YOO PE.",
+      "category": "TEN"
+    },
+    "10@15": {
+      "id": "10@15",
+      "title": "10@15",
+      "content": "ARISIKI TO PO LODUN YI, ORISIRISI ORE NBO. OORE, ILU TI ALANIYAN WA NI YOO TI RISE, KO MA TRAVEL.",
+      "category": "TEN"
+    },
+    "10@16": {
+      "id": "10@16",
+      "title": "10@16",
+      "content": "ORE LODO ARIN-RIN AJO. ORE ALANIYAN PO LEYIN ODI, KO GBIYANJU KO TRAVEL.",
+      "category": "TEN"
+    },
+    "10A": {
+      "id": "10A",
+      "title": "10A",
+      "content": "NI, ILE OBA / OLA / OWO ILE, EEYAN KUKURU, TO YOKUN, YODI TEN 10. A MO JUWE ABO ATI AKO SUGBON ABO NI. Sora fun oro enu, oro ejo, tolopa tabi court, ale yiyan, jeki gbogbo ona re kun fun isora. Sora fun iwa aifarabale woran woran loni ki o si gba imoran awon asaju. Gbiyanju lati je alatunse ki o ma je baseje loni. Sora fun iwa obinrin/okunrin pelu iwa palapala. O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba kigba to de, feran irepo, koferan lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye tio n lo lati fi yanju oro ti o ba se koko. Feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni. Awon eniyan yoo maa yan je, o maa n fa eniyan goke, o maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan, o maa n fi arani re lati ran elomiran lowo, o korira gbese tabi ra nka win, o ko rira ki eniyan so rare di bukata si lorun. Okan re maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala ati awon eniyan kan ti yoo maa je sababi buruku sinu aye won. Okan re naa lora lati gba yangbo tabi lati sun mo eniyan pelu iriri ti o ti ri pelu awon eniyan. Aisan eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru. Sora pelu ounje lode. ISE: Ise ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, Ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, Mechanic.",
+      "category": "TEN"
+    },
+
+  "1,10": { 
+    "id": "1,10", 
+    "title": "Section Ten - 1,10", 
+    "content": "Owo ko duro lowo Re. Ibelorun/ajo.", 
+    "category": "Wealth & Restlessness" 
+  },
+  "2,10": { 
+    "id": "2,10", 
+    "title": "Section Ten - 2,10", 
+    "content": "Yio se afeku Dukia kan (Iyawo tabi omo).", 
+    "category": "Loss & Family" 
+  },
+  "3,10": { 
+    "id": "3,10", 
+    "title": "Section Ten - 3,10", 
+    "content": "Yio je oye tabi de ipo ola.", 
+    "category": "Elevation & Honor" 
+  },
+  "4,10": { 
+    "id": "4,10", 
+    "title": "Section Ten - 4,10", 
+    "content": "Inu re ko dun sugbon yio ri idiun nu.", 
+    "category": "Joy After Sorrow" 
+  },
+  "5,10": { 
+    "id": "5,10", 
+    "title": "Section Ten - 5,10", 
+    "content": "Oore nbo fun sugbon ota po fun. Ko belorun.", 
+    "category": "Blessings & Enemies" 
+  },
+  "6,10": { 
+    "id": "6,10", 
+    "title": "Section Ten - 6,10", 
+    "content": "O nba enia je tabi kia so pe awon enia nse ibaje re.", 
+    "category": "Conflict & Slander" 
+  },
+  "7,10": { 
+    "id": "7,10", 
+    "title": "Section Ten - 7,10", 
+    "content": "Ko ni aseyori kankan. Adura ki kan ki kan.", 
+    "category": "Failure & Prayer Need" 
+  },
+  "8,10": { 
+    "id": "8,10", 
+    "title": "Section Ten - 8,10", 
+    "content": "Rin ajo ti a ko tanmo yio ri oore nibe.", 
+    "category": "Unexpected Blessing" 
+  },
+  "9,10": { 
+    "id": "9,10", 
+    "title": "Section Ten - 9,10", 
+    "content": "Ore yio daa won yoo luu ni jibiti owo.", 
+    "category": "Deception & Friendship" 
+  },
+  "10,10": { 
+    "id": "10,10", 
+    "title": "Section Ten - 10,10", 
+    "content": "Emi re kun fun opolopo nkan sugbon yio se aseyori.", 
+    "category": "Fulfillment & Success" 
+  },
+  "11,10": { 
+    "id": "11,10", 
+    "title": "Section Ten - 11,10", 
+    "content": "Oore kan nbo fun sugbon okan re nse iyameji.", 
+    "category": "Doubt & Blessing" 
+  },
+  "12,10": { 
+    "id": "12,10", 
+    "title": "Section Ten - 12,10", 
+    "content": "Owo kanbo yio si duro lowo.", 
+    "category": "Stable Finance" 
+  },
+  "13,10": { 
+    "id": "13,10", 
+    "title": "Section Ten - 13,10", 
+    "content": "Owo kan nbo yio si lo.", 
+    "category": "Gain & Loss" 
+  },
+  "14,10": { 
+    "id": "14,10", 
+    "title": "Section Ten - 14,10", 
+    "content": "Atajere lori oja.", 
+    "category": "Market & Profit" 
+  },
+  "15,10": { 
+    "id": "15,10", 
+    "title": "Section Ten - 15,10", 
+    "content": "Irin ajo ti yio mu ibinu wa.", 
+    "category": "Journey & Anger" 
+  },
+  "16,10": { 
+    "id": "16,10", 
+    "title": "Section Ten - 16,10", 
+    "content": "Ogun airowona nbaa ja.", 
+    "category": "Conflict & Chaos" 
+  },
+  "10,2": { 
+    "id": "10,2", 
+    "title": "Section Ten - 10,2", 
+    "content": "Oyin fi se sara.", 
+    "category": "Healing & Offering" 
+  },
+  "10,7": { 
+    "id": "10,7", 
+    "title": "Section Ten - 10,7", 
+    "content": "O fe ni owo wa sini.", 
+    "category": "Love & Wealth" 
+  },
+  "10,10b": { 
+    "id": "10,10b", 
+    "title": "Section Ten - 10,10b", 
+    "content": "Oju yoo dun eni re kan, aye lo wa nibe.", 
+    "category": "Bittersweet Fortune" 
+  },
+  "10,12": { 
+    "id": "10,12", 
+    "title": "Section Ten - 10,12", 
+    "content": "Sora oro ewon nitori obinrin ko pe mo.", 
+    "category": "Legal Trouble & Women" 
+  },
+  "10,13": { 
+    "id": "10,13", 
+    "title": "Section Ten - 10,13", 
+    "content": "Won nse monafiki re lodo ijoba.", 
+    "category": "Deceit & Authority" 
+  },
+  "10,14": { 
+    "id": "10,14", 
+    "title": "Section Ten - 10,14", 
+    "content": "Sara fun agbalagba.", 
+    "category": "Sacrifice & Elders" 
+  },
+
+
 "11@1": {
   "id": "11@1",
   "title": "Section Eleven - 11@1",
@@ -5329,205 +5830,432 @@ const testimoniesData = {
   "content": "Ko mase ebe. Iyonu lopolopo, owo nbo.",
   "category": "Wealth & Trouble"
  },
-  "12@1": {
-    "id": "12@1",
-    "title": "Section Twelve - 12@1",
-    "content": "Ota po, yoo ri iwosi, sora fun ibinu papa lori owo. Onibere ore diedie ni wole fun.",
-    "category": "Enemies & Caution"
+
+    "12@1": {
+      "id": "12@1",
+      "title": "12@1",
+      "content": "Ota po,yoo ri iwosi, sora fun ibinu papa lori owo.ONIBEERE ORE DIEDIE NI WOLE FUN",
+      "category": "TWELVE"
+    },
+    "12@2": {
+      "id": "12@2",
+      "title": "12@2",
+      "content": "Obinrin ti yoo fe o nbo. Aranse mbo wa ni ibi ise wa. ORE TO PO YOO WOLE FUN TO BA TUN WA NILE KETA ORE TO PO GAN YOO WOLE",
+      "category": "TWELVE"
+    },
+    "12@3": {
+      "id": "12@3",
+      "title": "12@3",
+      "content": "YOO SAPEJUWE OBINRIN, YALA IYAWO TABI ALE, O KURU, KO GA, O DUDU, OBINRIN KO MOJUTO IBUJOKO RE, Aranse nbo lati odo olorun aroye nbe fun o. Ka sora fun ore nitori akoba ti aranse yi ba de",
+      "category": "TWELVE"
+    },
+    "12@4": {
+      "id": "12@4",
+      "title": "12@4",
+      "content": "Ao fe obinrin dudu kan, odara. ILE DADA NI SUGBON AWON YOO MA BA SOTA SUGBON YOO JERI WON",
+      "category": "TWELVE"
+    },
+    "12@5": {
+      "id": "12@5",
+      "title": "12@5",
+      "content": "Eniti o nwa omo ni egbe wa yoo bimo. OMO KAN YOO MA SE JAGIDI JAGAN, SE IPANLE",
+      "category": "TWELVE"
+    },
+    "12@6": {
+      "id": "12@6",
+      "title": "12@6",
+      "content": "KO FI OKAN BALE WON KO LE DADURO NIBI ISE, NKAN BURUKU KAN KOLE SELE SI LENU ISE",
+      "category": "TWELVE"
+    },
+    "12@7": {
+      "id": "12@7",
+      "title": "12@7",
+      "content": "YOO SAPEJUWE OBINRIN, YALA IYAWO TABI ALE, O KURU, KO GA, O DUDU, OBINRIN KO MOJUTO IBUJOKO RE, OBINRIN NA YOO MA FI SE FAARI. Aori obinrin kan, oni apa lese osi.",
+      "category": "TWELVE"
+    },
+    "12@8": {
+      "id": "12@8",
+      "title": "12@8",
+      "content": "KI ONIBERE MA FA WAHALA, MA SE JAGIDIJAGAN. Eti yoo maa ba ohun to fe se, Won yoo ma wadi wa kiri.",
+      "category": "TWELVE"
+    },
+    "12@9": {
+      "id": "12@9",
+      "title": "12@9",
+      "content": "ORE YOO WOLE FUN ALANIYAN",
+      "category": "TWELVE"
+    },
+    "12@10": {
+      "id": "12@10",
+      "title": "12@10",
+      "content": "Yoo ri idunnu lodo ijoba, Aranse nbo wa laipe yi. OLOPA YOO MU, TABI ORO TO JEMO IJOBA, yoo ni aponle, eni iyi, eni eye",
+      "category": "TWELVE"
+    },
+    "12@11": {
+      "id": "12@11",
+      "title": "12@11",
+      "content": "Dissappointment. won a ni ko mu nkan kan wa, leyin na owo yoo te nkan ti a fe ti nba reti nkan==irorun, GBOGBO AFOKANSI YOO JASI IRORUN",
+      "category": "TWELVE"
+    },
+    "12@12": {
+      "id": "12@12",
+      "title": "12@12",
+      "content": "Ota po won fe gbemi re",
+      "category": "TWELVE"
+    },
+    "12@13": {
+      "id": "12@13",
+      "title": "12@13",
+      "content": "Ma ya eniyan lowo ko ni dapada, fun. OWO ILU OYINBO owo ilu oyinbo wa lowo re",
+      "category": "TWELVE"
+    },
+    "12@14": {
+      "id": "12@14",
+      "title": "12@14",
+      "content": "Awon ota ni nse o, Owo kan nbo fun Alfa.",
+      "category": "TWELVE"
+    },
+    "12@15": {
+      "id": "12@15",
+      "title": "12@15",
+      "content": "Wa gba owo kan laipe yi, ile ti o ngbe ko jinna si odo, won kun ninu won ko kun nita",
+      "category": "TWELVE"
+    },
+    "12@16": {
+      "id": "12@16",
+      "title": "12@16",
+      "content": "Won yoo kan sara si, ma fi inu han eniyan. ONA ATI TRAVEL YOO LAA, O TI JADE KURO NINU ILU, TI A BA RI PO, 12@10, IPASE IJOBA NI YOO FI KURO NINU ILU SILE Ona ati travel laa sile. O ti ja de kuro ninu ilu, ti a ba tun ri 12@10 ijoba yoo mu, deportation, yoo jade kuro ni lu",
+      "category": "TWELVE"
+    },
+    "12A": {
+      "id": "12A",
+      "title": "12A",
+      "content": "Mura tori wahala ati ijangbon, ti awon Ota ngbiyanju, awon ota yoo ma se ilara re won yoo ma wa isubu re ati titonija, lati ko inira ati wahala ba o ati so eni di eni ile (Olosi). Awon ota yoo ma fa asedanu sinu aye re yala lori ise (Business), Idiwo ati ainito wa fun o nisisiyi pelu adura ati igbiyanju ona re yoo la iyanu ati anfani (Ore) lati ehin odi wa ore nbo, owo, leta oke okun, nkan tita oke okun, awon olola yoo mo laipe yi, yoo di eni yi larin awon eniyan ma se fa oro kan lakoko yi ki o se suru die ti Sora fun iwa aifarabale woran woran loni ki o si gba imoran awon asaju gbiyanju lati je alatunse ki o ma je baseje loni sora fun obinrin/okunrin pelu iwa palapala.",
+      "category": "TWELVE"
+    },
+    "12b": {
+      "id": "12b",
+      "title": "12b",
+      "content": "O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba kigba to de, feran irepo, koferan lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye tio n lo lati fi yanju oro ti o ba se koko, feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni. Awon eniyan yoo maa yan je, o maa n fa eniyan goke, o maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan, o maa n fi arani re lati ran elomiran lowo, o korira gbese tabi ra nka win, o ko rira ki eniyan so rare di bukata si lorun. Okan re maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala ati awon eniyan kan ti yoo maa je sababi buruku sinu aye won. okan re naa lora lati gba yangbo tabi lati sun mo eniyan pelu iriri ti o ti ri pelu awon eniyan. Aisan eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru. Sora pelu ounje lode, ise ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, Ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, Mechanic.",
+      "category": "TWELVE"
+    },
+
+  "1,12": { 
+    "id": "1,12", 
+    "title": "Section Twelve - 1,12", 
+    "content": "Ona di, owo ko wole (iyonu Adura)", 
+    "category": "Blocked Path & Prayer" 
   },
-  "12@2": {
-    "id": "12@2",
-    "title": "Section Twelve - 12@2",
-    "content": "Obinrin ti yoo fe o nbo. Aranse mbo wa ni ibi ise wa. Ore to po yoo wole fun, to ba tun wa nile keta ore to po gan yoo wole.",
-    "category": "Marriage & Opportunities"
+  "2,12": { 
+    "id": "2,12", 
+    "title": "Section Twelve - 2,12", 
+    "content": "Ko sora ki o Ma baa je eedi Majele", 
+    "category": "Warning & Poison" 
   },
-  "12@3": {
-    "id": "12@3",
-    "title": "Section Twelve - 12@3",
-    "content": "Yoo sapejuwe obinrin, yala iyawo tabi ale, o kuru, ko ga, o dudu, obinrin ko mojuto ibujoko re. Aranse nbo lati odo Olorun, aroye nbe fun o. Ka sora fun ore nitori akoba ti aranse yi ba de.",
-    "category": "Relationships & Test"
+  "3,12": { 
+    "id": "3,12", 
+    "title": "Section Twelve - 3,12", 
+    "content": "O fe bebinrin Ko dara lasikoyi", 
+    "category": "Love & Timing" 
   },
-  "12@4": {
-    "id": "12@4",
-    "title": "Section Twelve - 12@4",
-    "content": "Ao fe obinrin dudu kan, odara. Ile dada ni sugbon awon yoo ma ba sota sugbon yoo jeri won.",
-    "category": "Marriage & Household"
+  "4,12": { 
+    "id": "4,12", 
+    "title": "Section Twelve - 4,12", 
+    "content": "Omo re kan Yio se aara Ko gbiyanju fun", 
+    "category": "Children & Effort" 
   },
-  "12@5": {
-    "id": "12@5",
-    "title": "Section Twelve - 12@5",
-    "content": "Eniti o nwa omo ni egbe wa yoo bimo. Omo kan yoo ma se jagidijagan, se ipanle.",
-    "category": "Children & Family"
+  "6,12": { 
+    "id": "6,12", 
+    "title": "Section Twelve - 6,12", 
+    "content": "Ona ise kan yio ki see", 
+    "category": "Career & Obstruction" 
   },
-  "12@6": {
-    "id": "12@6",
-    "title": "Section Twelve - 12@6",
-    "content": "Ko fi okan bale, won ko le dadurosibe, nkan buruku kan kole sele si lenu ise.",
-    "category": "Work & Stability"
+  "7,12": { 
+    "id": "7,12", 
+    "title": "Section Twelve - 7,12", 
+    "content": "Owo kan yio kojo sii lowo yio sit un pare", 
+    "category": "Money & Loss" 
   },
-  "12@7": {
-    "id": "12@7",
-    "title": "Section Twelve - 12@7",
-    "content": "Yoo sapejuwe obinrin, yala iyawo tabi ale, o kuru, ko ga, o dudu, obinrin ko mojuto ibujoko re. Obinrin na yoo ma fi se faari. Aori obinrin kan, oni apa lese osi.",
-    "category": "Relationships & Family Signs"
+  "8,12": { 
+    "id": "8,12", 
+    "title": "Section Twelve - 8,12", 
+    "content": "Obinrin kan nwa/abi o fe fe binrin o dara ko fee", 
+    "category": "Relationship & Choice" 
   },
-  "12@8": {
-    "id": "12@8",
-    "title": "Section Twelve - 12@8",
-    "content": "Ki onibere ma fa wahala, ma se jagidijagan. Eti yoo maa ba ohun to fe se, won yoo ma wadi wa kiri.",
-    "category": "Conduct & Guidance"
+  "9,12": { 
+    "id": "9,12", 
+    "title": "Section Twelve - 9,12", 
+    "content": "Yio ri alejo kan ko se saara fun oku orun", 
+    "category": "Visitor & Spiritual Offering" 
   },
-  "12@9": {
-    "id": "12@9",
-    "title": "Section Twelve - 12@9",
-    "content": "Ore yoo wole fun alaniyan.",
-    "category": "Wealth & Friends"
+  "10,12": { 
+    "id": "10,12", 
+    "title": "Section Twelve - 10,12", 
+    "content": "Ko sora fun eedi", 
+    "category": "Warning & Evil" 
   },
-  "12@10": {
-    "id": "12@10",
-    "title": "Section Twelve - 12@10",
-    "content": "Yoo ri idunnu lodo ijoba. Aranse nbo wa laipe yi. Olopa yoo mu, tabi oro to jemo ijoba, yoo ni aponle, eni iyi, eni eye.",
-    "category": "Government & Honor"
+  "11,12": { 
+    "id": "11,12", 
+    "title": "Section Twelve - 11,12", 
+    "content": "Obinrin re yio maa baa soto", 
+    "category": "Deception & Partner" 
   },
-  "12@11": {
-    "id": "12@11",
-    "title": "Section Twelve - 12@11",
-    "content": "Disappointment. Won a ni ko mu nkan kan wa, leyin na owo yoo te nkan ti a fe ti nba reti nkan. Irorun, gbogbo afokansi yoo jasi irorun.",
-    "category": "Disappointment & Relief"
+  "12,12": { 
+    "id": "12,12", 
+    "title": "Section Twelve - 12,12", 
+    "content": "Ona yio di moo owo ko ni wole lasiko yi ki se adura ati aajo.", 
+    "category": "Obstruction & Prayer" 
   },
-  "12@12": {
-    "id": "12@12",
-    "title": "Section Twelve - 12@12",
-    "content": "Ota po, won fe gbemi re.",
-    "category": "Enemies & Danger"
+  "13,12": { 
+    "id": "13,12", 
+    "title": "Section Twelve - 13,12", 
+    "content": "O n gbero lati wa Enikan lo yio si Baa / yio se konge oore.", 
+    "category": "Plan & Favor" 
   },
-  "12@13": {
-    "id": "12@13",
-    "title": "Section Twelve - 12@13",
-    "content": "Ma ya eniyan lowo, ko ni dapada fun. Owo ilu oyinbo wa lowo re.",
-    "category": "Finance & Caution"
+  "14,12": { 
+    "id": "14,12", 
+    "title": "Section Twelve - 14,12", 
+    "content": "Ipalara wa fun Laarin ore ko Sora fun won", 
+    "category": "Friendship & Harm" 
   },
-  "12@14": {
-    "id": "12@14",
-    "title": "Section Twelve - 12@14",
-    "content": "Awon ota ni nse o. Owo kan nbo fun Alfa.",
-    "category": "Enemies & Finance"
+  "15,12": { 
+    "id": "15,12", 
+    "title": "Section Twelve - 15,12", 
+    "content": "Won yio se abosi Sii / ko sora fun Abosi", 
+    "category": "Warning & Betrayal" 
   },
-  "12@15": {
-    "id": "12@15",
-    "title": "Section Twelve - 12@15",
-    "content": "Wa gba owo kan laipe yi. Ile ti o ngbe ko jinna si odo. Won kun ninu, won ko kun nita.",
-    "category": "Wealth & Household"
-  },
-  "12@16": {
-    "id": "12@16",
-    "title": "Section Twelve - 12@16",
-    "content": "Won yoo kan sara si, ma fi inu han eniyan. Ona ati travel yoo laa, o ti jade kuro ninu ilu. Ti a ba ri po, 12@10, ipase ijoba ni yoo fi kuro ninu ilu sile. Ona ati travel laa sile. O ti jade kuro ninu ilu. Ti a ba tun ri 12@10 ijoba yoo mu, deportation, yoo jade kuro ninu ilu.",
-    "category": "Travel & Exile"
-  },
-  "12A": {
-    "id": "12A",
-    "title": "Section Twelve - 12A",
-    "content": "Mura tori wahala ati ijangbon, ti awon ota ngbiyanju. Awon ota yoo ma se ilara re, won yoo ma wa isubu re ati titonija, lati ko inira ati wahala ba o ati so eni di eni ile (Olosi). Awon ota yoo ma fa asedanu sinu aye re yala lori ise (Business). Idiwo ati ainito wa fun o nisisiyi pelu adura ati igbiyanju, ona re yoo la. Iyanu ati anfani (Ore) lati ehin odi wa ore nbo. Owo, leta oke okun, nkan tita oke okun, awon olola yoo mo laipe yi, yoo di eni yi larin awon eniyan. Ma se fa oro kan lakoko yi, ki o se suru die. Sora fun iwa aifarabale woran woran loni ki o si gba imoran awon asaju gbiyanju lati je alatunse ki o ma je baseje loni. Sora fun obinrin/okunrin pelu iwa palapala.",
-    "category": "Enemies & Struggles"
-  },
-  "12B": {
-    "id": "12B",
-    "title": "Section Twelve - 12B",
-    "content": "O je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba. Feran irepo, koferan lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye tio n lo lati fi yanju oro. Feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni. Awon eniyan yoo maa yan je, o maa n fa eniyan goke, o maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan. O maa n fi arani re lati ran elomiran lowo. O korira gbese tabi ra nkan win. O maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala. Awon eniyan kan yoo maa je sababi buruku sinu aye won. Okan re lora lati gba yangbo tabi lati sun mo eniyan pelu iriri. Aisan: eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru. Ise: ise ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, mechanic.",
-    "category": "Character & Life Path"
+  "16,12": { 
+    "id": "16,12", 
+    "title": "Section Twelve - 16,12", 
+    "content": "Ibale okan Wa fun ko Ni ibe orun", 
+    "category": "Peace & Calm" 
   },
 
-  "13A": {
-    "id": "13A",
-    "title": "Section Thirteen - 13A",
-    "content": "Alagbere, Ole, Omi, Thirteen, Atelewo Onibere. Awon eniyan yoo ma to o nija, ko gbodo ba eniyan ja, ki o ma baa dina oore, ikorira akoba, lati odo ota ati jibiti ati oniwayo ore. Ibanuje re yio di ayo, oluranlowo yoo dide fun o, Olorun yio mu isoro kuro lona re, ire ni opin ona re yoo jasi. Fi adie funfun bo ori re ki omo araye ba. Sora iwa aifarabale woran woran loni ki o si gba imoran awon asaju, gbiyanju lati je alatunse ki o ma je baseje loni, sora fun obinrin/okunrin pelu iwa palapala. Ebun opolo, olopolo pipe ni ogbon lati fi yanju oro to ba ta koko. Alanu, olotito, olori nibikibi. Sora fun jibiti ati agidi okan. Ise: Electrical, hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin, Oluko, Ounje sise ta, Pharmacy. Aisan: Oru yoo ma fa aisan si lara, inuriru, iba orikerike, ara riro, eyin didun, ki o ma je sugar ju nitori ito sugar.",
-    "category": "Iwa, Ise ati Aisan"
+
+    "13@1": {
+      "id": "13@1",
+      "title": "13@1",
+      "content": "Nkan ibinu, ti okan ko, ki ise ma dojuru, Alaniyan ngbero moto nla jeep lati ra.",
+      "category": "THIRTEEN"
+    },
+    "13@2": {
+      "id": "13@2",
+      "title": "13@2",
+      "content": "YOO MA RI OWO DADA. Inu ko dun, nkan fe jalo. Onibeere yoo ri owo to opo lodun yi.",
+      "category": "THIRTEEN"
+    },
+    "13@3": {
+      "id": "13@3",
+      "title": "13@3",
+      "content": "IYAWO ENIYI NSE SINA. Bi eniyan ba seleri fun o koni muse, bi o ba seleri fun eniyan koni muse. Atun le tu si pe Iyawo wa yoo kowa sile. Ti aba ri 13@3 ati 3@13 alagbere ni obinrin, to baje pe okunrn lo jade si, iyawo re alagbere ni. Ti a ba ri 14@3 nkan ti ma saaba tumo si, won ko fe ki obinrin ridi joko nile oko, tani yoo se iye o le se iya oko, tabi aunt oko. 14@7 won ko fe ki oko ni iyawo, tabi won ko fe obinrin duro nile oko, tani yoo se, o le je iya iyawo ko fe ki omo re fe tabi aunt iyawo. Ona keji, 14@3 a tu si iyawo o fe fun oko ni nkan je, nkan to fe fun je yi, se o le seku pa. Ao wo ile kejo ile iku no 8, ti a ba ba 8 tabi 6 nibe, 8@8 tabi 6@8, ao wo oju on ti a ba ba 8@9 tabi 6@9, ogun ti yoo seku pa ni, ti a ba ri 14@3 or 14@7 ti a wo ile ti ao ri naisi(3,6,7,8) nile, ko ni seku pa. Toba je ogun ti yoo seku pa ti a ba fe mo boya yoo sise tabi ko ni sise, kawo ile kefa 6 ati ile kesan ti aba good star beeni yoo sise, bad star koni sise. Ao tu si pe won ko fe jeki ori idi joko nile oko.",
+      "category": "THIRTEEN"
+    },
+    "13@4": {
+      "id": "13@4",
+      "title": "13@4",
+      "content": "ALANIYAN YOO SE AJO KAN INCARE IDILE BABA NI YOO TI SE. Ikosile laarin ololufe meji 14=9 Ikosile yio bi asasi dukia yio pare. 13@9 Aori obinrin ti oti ko oko sile.",
+      "category": "THIRTEEN"
+    },
+    "13@5": {
+      "id": "13@5",
+      "title": "13@5",
+      "content": "YOO BIMO TI YOO LOWO DADA. A ko gbodo se oyun.",
+      "category": "THIRTEEN"
+    },
+    "13@6": {
+      "id": "13@6",
+      "title": "13@6",
+      "content": "ISE ALANIYAN DURO DADA. Kosi owo lowo, omi wole omi, o le so dada, ogun nje fun alaniyan.",
+      "category": "THIRTEEN"
+    },
+    "13@7": {
+      "id": "13@7",
+      "title": "13@7",
+      "content": "OKO NSE AGBERE. 13@7 ATI 1@9, YOO BA OBINRIN SUN NIJO NA. Iyawo wa yoo kowa sile.",
+      "category": "THIRTEEN"
+    },
+    "13@8": {
+      "id": "13@8",
+      "title": "13@8",
+      "content": "Asiki yio yoju sora – eran. Ki a se saara nkan eleje.",
+      "category": "THIRTEEN"
+    },
+    "13@9": {
+      "id": "13@9",
+      "title": "13@9",
+      "content": "ONI BERE NI MOTO NLA YALA JEEP TABI TRAILER TI NWA FUN RA RE, TABI KO JE TRAILER DRIVER. Ki o ma se ja, ore nbo. Ao ri owo kan gba.",
+      "category": "THIRTEEN"
+    },
+    "13@10": {
+      "id": "13@10",
+      "title": "13@10",
+      "content": "Yio ri owo lati odo ijoba. Ao gburo owo kan.",
+      "category": "THIRTEEN"
+    },
+    "13@11": {
+      "id": "13@11",
+      "title": "13@11",
+      "content": "Yio fe obinrin lofe, yio ri oore nibi ti ko fokan si. Nkan ti a nreti yoo tewo. O FE SE AJO KAN AJO NA YOO SI JE. TI A BA FE MO IRU AJO NA, AO WO ILE 6 ATI ILE 9, OMI LOBA WA NIBE, AJO NA HANTU NI, TABI AGBO. TO BA JE ERUPE LO BA WA NIBE AJE WIPE AJO NA NKAN GIGUN, OSE NI. TO BA JE ATEGUN LOWA NI BE, YOO NI EYE NINU, O LEJE JIJO O LE JE GIGUN, TO BA INA LOWA NIBE, NKAN BI EWE JIJO NI.",
+      "category": "THIRTEEN"
+    },
+    "13@12": {
+      "id": "13@12",
+      "title": "13@12",
+      "content": "Ota ngbogun sugbon isegun wa fun o, Isegun ota fun wa. OTA PO FUN, OTA NI KO JEKI NKAN LO DEDE FUN.",
+      "category": "THIRTEEN"
+    },
+    "13@13": {
+      "id": "13@13",
+      "title": "13@13",
+      "content": "Ohun ti onse yio tee lowo. ONIBEERE NLO AJO TO DA TO SISE. Ao gba owo.",
+      "category": "THIRTEEN"
+    },
+    "13@14": {
+      "id": "13@14",
+      "title": "13@14",
+      "content": "Sora ole. Ao gba owo loni yi. ONIMOTO BI JEEP NWA ALFA BO. TI A BA BA IRAWO TO DA NILE KESAN YOO SE DADA.",
+      "category": "THIRTEEN"
+    },
+    "13@16": {
+      "id": "13@16",
+      "title": "13@16",
+      "content": "Awon eniyan yio feran re. ORE KAN NBO LATI OKEERE WA.",
+      "category": "THIRTEEN"
+    },
+    "13A": {
+      "id": "13A",
+      "title": "13A",
+      "content": "ALAGBERE, OLE, OMI, THIRTEEN, ATELEWO ONIBERE, TI ALANIYAN BA FE SE OGUN. Awon eniyan yoo ma to o nija, ko gbodo ba eniyan ja, ki o ma baa dina oore, ikorira akoba, lati odo ota ati jibiti ati oniwayo ore. Ibanuje re yio di ayo, oluranlowo yoo dide fun o, olorun yio mu isoro kuro lona re, ire ni opin ona re yoo jasi. Fi adie funfun bo ori re ki omo araye ba. Sora iwa aifarabale woran woran loni ki o si gba imoran awon asaju gbiyanju lati je alatunse ki o ma je baseje loni. Sora fun obinrin/okunrin pelu iwa palapala. Ebun opolo. Olopolo pipe ni ogbon lati fi yanju oro to ba ta koko alanu. Awon eniyan yoo feran re, olotito eda ni o, alaanu eda, oga ninu ohun ti o ba nse, onitiju eda, oloju ona ti ki tete gbagbe nkan, ebun irina lati ri ohun ti o ba fe sele loju aye tabi loju orun. O ma nfi ara re si ipo owo ko fe arinfin lati odo omokekere. O je gbajumo ti yoo mo eyin nla, olokiki eniyan ni. O ma nwa bi ile aye re yoo ti dara, o feran afara we, nigba miran, ti inu re ba dun ni aro, to ba di ale inu re maa nbaje. Ti o ba wo bi irinajo aye re nse nlo, eniti o ni ifarada ti oni itiju, suru, ti o ma fi owo pamo ti enikan kan koni mosi, o ma ronu jinle, ero okan re yato si ti elomiran, yoo ri orisirisi iri pelu eniyan, koni je ki o fegba eniyan gbo, olori re nibikibi. Sora fun jibiti, agidi okan, ti inu mi ni se, ki eeyan ma gba imoran.",
+      "category": "THIRTEEN"
+    },
+    "ISE": {
+      "id": "ISE",
+      "title": "ISE",
+      "content": "Electrical, hotel business, Akoweoja, Akowe ijoba, Agbe sise, Adie sisin, Oluko, Ounje sise ta, Pharmacy.",
+      "category": "THIRTEEN"
+    },
+    "AISAN": {
+      "id": "AISAN",
+      "title": "AISAN",
+      "content": "Oru yoo ma fa aisan si lara, Inuriru, Iba orikerike ara, ara riro, eyin didun. Ki o ma je sugar ju tori ito sugar.",
+      "category": "THIRTEEN"
+    },
+
+  "13,5": { 
+    "id": "13,5", 
+    "title": "Section Thirteen - 13,5", 
+    "content": "Ija ti won yio lurawon", 
+    "category": "Conflict & Struggle" 
   },
-  "2,13": {
-    "id": "2,13",
-    "title": "Section Thirteen - 2,13",
-    "content": "Accident. Ko ni ibelorun, ko le ri iranlowo gba.",
-    "category": "Ise ati Ifoya"
+  "13,7": { 
+    "id": "13,7", 
+    "title": "Section Thirteen - 13,7", 
+    "content": "Ise kan nbe ti won yoo ran o, wa ri ore nibe", 
+    "category": "Work & Blessing" 
   },
-  "3,13": {
-    "id": "3,13",
-    "title": "Section Thirteen - 3,13",
-    "content": "Yio lu oogun lara obinrin. Arun, sora fun sina.",
-    "category": "Aisan ati Iwa"
+  "13,8": { 
+    "id": "13,8", 
+    "title": "Section Thirteen - 13,8", 
+    "content": "Enikan w ati o si gba owo lowo re wa se suuru fun", 
+    "category": "Patience & Debt" 
   },
-  "4,13": {
-    "id": "4,13",
-    "title": "Section Thirteen - 4,13",
-    "content": "Won yio fi oro obinrin tabi oko loo. Ko fe, ko dara.",
-    "category": "Ife ati Ajose"
+  "13,15": { 
+    "id": "13,15", 
+    "title": "Section Thirteen - 13,15", 
+    "content": "Ole nbo loru", 
+    "category": "Warning & Theft" 
   },
-  "5,13": {
-    "id": "5,13",
-    "title": "Section Thirteen - 5,13",
-    "content": "Ipaya wa fun. Airi owo to wa fun ko be Olorun.",
-    "category": "Owo ati Ifoya"
+  "13,16": { 
+    "id": "13,16", 
+    "title": "Section Thirteen - 13,16", 
+    "content": "Obinrin ati okunrin ti o sun mo o ni yio dide iranlowo fun o", 
+    "category": "Help & Relationship" 
   },
-  "6,13": {
-    "id": "6,13",
-    "title": "Section Thirteen - 6,13",
-    "content": "Oyun yio maa bii, ko iti duro daada.",
-    "category": "Aisan ati Idile"
+  "2,13": { 
+    "id": "2,13", 
+    "title": "Section Thirteen - 2,13", 
+    "content": "Accident / Ko ni Ibelorun Ko le Ri iranlowo gba", 
+    "category": "Accident & Discomfort" 
   },
-  "7,13": {
-    "id": "7,13",
-    "title": "Section Thirteen - 7,13",
-    "content": "Sina sise nko baa. Ki o fi sina sile, ko le ni laari.",
-    "category": "Ise"
+  "3,13": { 
+    "id": "3,13", 
+    "title": "Section Thirteen - 3,13", 
+    "content": "Yio lu oogun Lara obinrin Arun Sora fun sina", 
+    "category": "Health & Warning" 
   },
-  "8,13": {
-    "id": "8,13",
-    "title": "Section Thirteen - 8,13",
-    "content": "Ona ko dara fun onisowo.",
-    "category": "Ise ati Ona"
+  "4,13": { 
+    "id": "4,13", 
+    "title": "Section Thirteen - 4,13", 
+    "content": "Won yio fi oro Obinrin / oko loo Ko fee o dara", 
+    "category": "Relationship & Advice" 
   },
-  "9,13": {
-    "id": "9,13",
-    "title": "Section Thirteen - 9,13",
-    "content": "Ore kan n bo wa, ko tubo ni ibelorun.",
-    "category": "Ore ati Ibelorun"
+  "5,13": { 
+    "id": "5,13", 
+    "title": "Section Thirteen - 5,13", 
+    "content": "Ipaya wa fun /Airi Owo to wa fun ko Be olorun", 
+    "category": "Fear & Lack" 
   },
-  "10,13": {
-    "id": "10,13",
-    "title": "Section Thirteen - 10,13",
-    "content": "Aiye nda oro re ru. Okan re ko bale rara, ko mura.",
-    "category": "Aiye ati Okan"
+  "6,13": { 
+    "id": "6,13", 
+    "title": "Section Thirteen - 6,13", 
+    "content": "Oyun yio maa Bii / Ko iti duro Daada", 
+    "category": "Pregnancy & Health" 
   },
-  "11,13": {
-    "id": "11,13",
-    "title": "Section Thirteen - 11,13",
-    "content": "Aise deede wa fun lenu ise. Ko lo fi sina sise sile.",
-    "category": "Ise"
+  "7,13": { 
+    "id": "7,13", 
+    "title": "Section Thirteen - 7,13", 
+    "content": "Sina sise nko baa Ki o fi sina sile Ko le ni laari", 
+    "category": "Work & Struggle" 
   },
-  "12,13": {
-    "id": "12,13",
-    "title": "Section Thirteen - 12,13",
-    "content": "Omo kekere kan yio se aare. Ko toju re.",
-    "category": "Idile"
+  "8,13": { 
+    "id": "8,13", 
+    "title": "Section Thirteen - 8,13", 
+    "content": "Ona ko dara Fun Onisowo", 
+    "category": "Business & Warning" 
   },
-  "14,13": {
-    "id": "14,13",
-    "title": "Section Thirteen - 14,13",
-    "content": "Ajose owo pelu enikan ko ni yori si rere.",
-    "category": "Owo ati Ajose"
+  "9,13": { 
+    "id": "9,13", 
+    "title": "Section Thirteen - 9,13", 
+    "content": "Ore kan n bo Wa ko tubo ni Ibelorun", 
+    "category": "Friendship & Doubt" 
   },
-  "15,13": {
-    "id": "15,13",
-    "title": "Section Thirteen - 15,13",
-    "content": "Yio se oogun kan, yio si paa lara.",
-    "category": "Aisan ati Ogun"
+  "10,13": { 
+    "id": "10,13", 
+    "title": "Section Thirteen - 10,13", 
+    "content": "Aiye nda oro re Ru Okan re ko Bale rara ko mura", 
+    "category": "Distress & Preparation" 
   },
-  "16,13": {
-    "id": "16,13",
-    "title": "Section Thirteen - 16,13",
-    "content": "Ko mase rin loru ki won o maa baa fi jamba see.",
-    "category": "Aabo ati Ifoya"
+  "11,13": { 
+    "id": "11,13", 
+    "title": "Section Thirteen - 11,13", 
+    "content": "Aise deede wa fun Lenu ise ko lo fi Sina sise sile", 
+    "category": "Inconsistency & Work" 
   },
+  "12,13": { 
+    "id": "12,13", 
+    "title": "Section Thirteen - 12,13", 
+    "content": "Omo Kekere Kan Yio se aare Ko toju re", 
+    "category": "Child & Health" 
+  },
+  "14,13": { 
+    "id": "14,13", 
+    "title": "Section Thirteen - 14,13", 
+    "content": "Ajose owo pelu Enikan ko ni Yori si rere", 
+    "category": "Partnership & Loss" 
+  },
+  "15,13": { 
+    "id": "15,13", 
+    "title": "Section Thirteen - 15,13", 
+    "content": "Yio se oogun kan Yio si paa lara", 
+    "category": "Health & Consequence" 
+  },
+  "16,13": { 
+    "id": "16,13", 
+    "title": "Section Thirteen - 16,13", 
+    "content": "Ko mase rin loru ki won o maa baa fi jamba see", 
+    "category": "Warning & Accident" 
+  },
+
   "14@1": {
     "id": "14@1",
     "title": "ALFA, ALADUA, TI MA NGBAWE, ONI MIMO",
@@ -5632,6 +6360,14 @@ const testimoniesData = {
     "content": "Ni won yoo ti se. Ao wo ile 9 ti aba ba good star, o dara; ti o ba je bad star ko dara. Isegun lori ota. Ogun wo lose. Alejo kan nbo ni aipe yi ti o baje. Okunrin yoo je alfa, to ba je obinrin ni, aje ni. Yoo ri eniti o ti ri ti pe.",
     "category": "OOGUN / ASASI"
   },
+
+  "14A": {
+    "id": "14A",
+    "title": "14A",
+    "content": "1@1 ati 1@14 Alejo kan duro de nile onibere agbada lowo, 1@14 alejo nbo fun Alfa, ti a ba fe mo iru alejo ti nbo a wo ile kesan (9) ti a ba mokanlanla (11) 11@9, alejo ngbe moto bo car, ti o ba je 13@9 jeep lalejo ngbe bo, 10@9 o nmu owo bo, 4@9 alejo ngbe aso bo.\n\nORO ALFA , ILE ALFA, SORO NKAN TO BA FE SELE SI ALFA NI 14 MA SABA SO.\n\n1@1 ati 1@14 Alejo kan duro de nile onibere agbada lowo, 1@1 alejo nbo fun Alfa, ti a ba fe mo iru alejo ti nbo a wo ile kesan (9) ti a ba mokanlanla (11) 11@9, alejo ngbe moto bo, ti o ba je 10@9 o nmu owo bo, 4@9 alejo ngbe aso bo.\n\nOOGUN, (14@1 NJE OLOGUN, ALADUA, ALFA) ASASI, MA SORO TO DA ATI ORO TI KO DA (14@1 yoo je onimimo, eni to sunmo Olorun), 14@6 won nsa si lenu ise, won ko feran re, ko rojutu oro aye re, 14@9 eti, set back ifasehin.\n\nBi o ba ni ero lati lo si idale malo nitori aisan lile, ohunkohun ti o ba npete lati se ni rere ni akoko yi fi sile di gbamiran, nitori ki igbehin nkan na le dara, bi o ba si se nkan to fe pelu agbara, ofo, adanu ni kehin o to se pelu agbara, fun akoko miran nkan to fe se si je dandan fi eja osa se sara ifun fi isu bo ogun.\n\nO je onitiju eda ti inu re dara, ti o feran alaafia, ti o ni ifarada igba kigba to de, feran irepo, koferan lati maa yoju si nkan ti kokan. O ni ebun ogbon ati oye tio n lo lati fi yanju oro ti o ba se koko, feran orin, nife ile kiko, elemi gigun, olofin toto, alanu eda ni.\n\nAwon eniyan yoo maa yan je, o maa n fa eniyan goke, o maa n je ibanuje fun ti koba si owolowo re lati fi se iranlowo fun eniyan, o maa n fi arani re lati ran elomiran lowo, o korira gbese tabi ra nka win, o ko rira ki eniyan so rare di bukata si lorun.\n\nOkan re maa n wa lorin kan ti o bafe se tabi pinnu lori nkankan. Nkan ti yoo yi ipinu re pada yoo le die. Igbese aye re yoo kun fun orisirisi ikuna, isoro, aini ifoya, airise ati wahala ati awon eniyan kan ti yoo maa je sababi buruku sinu aye won. Okan re naa lora lati gba yangbo tabi lati sun mo eniyan pelu iriri ti o ti ri pelu awon eniyan.\n\nAisan: eti didun, efori, jedi, kuruna, eyin didun, inurirun, arariro, ona ofun didun, ejeriru.\n\nSora pelu ounje lode.\n\nISE: ise ile kiko, alagbase, Agbe, Oluko, Iwe iroyin, Ounje sise ta, eso tita, nkan oso ara ile ati oso ara, mineral tita, Mechanic.",
+    "category": "FOURTEEN"
+  },
+
   "1,14": {
     "id": "1,14",
     "title": "IRIN AJO YIO YOJU",
