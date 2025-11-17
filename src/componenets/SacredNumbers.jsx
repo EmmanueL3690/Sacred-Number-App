@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { combinations } from "../combinations";
+import combinations from "../combinations";
 import { readings } from "../readings";
 import testimoniesData from "../testimoniesData";
 import { Button } from "./ui/Button";
@@ -12,6 +12,8 @@ export default function SacredNumbers() {
   const [show, setShow] = useState(false);
   const [openId, setOpenId] = useState(null);
   const navigate = useNavigate();
+  const [search, setSearch] = useState("");
+
 
   const uniqueCombinations = [...new Set(combinations)];
 
@@ -50,31 +52,55 @@ export default function SacredNumbers() {
 
       {/* 🔹 Main */}
       <main className="p-6 sm:p-10 space-y-12">
-        {/* ===== Sacred Number Combinations ===== */}
-        <section className="text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold text-orange-700 mb-4">
-            Sacred Number Combinations
-          </h2>
-          <button
-            onClick={() => setShow(!show)}
-            className="bg-gradient-to-r from-red-500 to-yellow-500 text-white px-6 py-2 rounded-xl font-bold shadow-lg hover:scale-105 transition"
-          >
-            Show Numbers
-          </button>
 
-          {show && (
-            <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-3">
-              {uniqueCombinations.map((combo, index) => (
-                <div
-                  key={index}
-                  className="p-3 bg-white/70 backdrop-blur-md border border-orange-300 rounded-lg shadow text-sm font-bold text-gray-800 hover:scale-105 transition"
-                >
-                  ({combo})
-                </div>
-              ))}
+    {/* ===== Sacred Number Combinations ===== */}
+    <section className="text-center">
+      <h2 className="text-2xl sm:text-3xl font-bold text-orange-700 mb-4">
+        Sacred Number Combinations
+      </h2>
+
+      {/* Search Bar */}
+      <input
+        type="text"
+        placeholder="Search e.g. 1+3=6"
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        className="w-full max-w-md mx-auto p-3 border border-orange-400 rounded-xl shadow mb-6 text-center"
+      />
+
+      {/* Results */}
+      <div className="mt-6 grid grid-cols-1 gap-4">
+        {combinations
+          .filter((item) =>
+            item.items.some((combo) =>
+              combo.replace(/\s+/g, "").includes(search.replace(/\s+/g, ""))
+            )
+          )
+          .map((item) => (
+            <div
+              key={item.row}
+              className="p-4 bg-white/80 backdrop-blur border border-orange-300 rounded-xl shadow"
+            >
+              <h3 className="font-bold text-lg text-orange-700 mb-2">
+                ROW {item.row}
+              </h3>
+
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                {item.items.map((combo, index) => (
+                  <div
+                    key={index}
+                    className="p-3 bg-orange-50 border border-orange-300 rounded-lg shadow text-sm font-bold text-gray-800"
+                  >
+                    {combo}
+                  </div>
+                ))}
+              </div>
             </div>
-          )}
-        </section>
+          ))}
+      </div>
+    </section>
+
+
 
         {/* ===== Accordion: Sacred Numbers Meanings ===== */}
         <section>

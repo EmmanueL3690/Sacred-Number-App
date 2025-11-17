@@ -6678,7 +6678,7 @@ const testimoniesData = {
     "id": "15,15",
     "title": "Linked Section - 15,15",
     "content": "Yio je gbese ti yio po ko belori.",
-    "category": "Gbese / Ise"                                                                                                                                     
+    "category": "Gbese / Ise"                                                                                                                                      
   },
 
   "16,15": {
