@@ -5632,7 +5632,6 @@ const testimoniesData = {
     "category": "Sacrifice & Elders" 
   },
 
-
 "11@1": {
   "id": "11@1",
   "title": "Section Eleven - 11@1",
@@ -5990,7 +5989,7 @@ const testimoniesData = {
     "category": "Visitor & Spiritual Offering" 
   },
   "10,12": { 
-    "id": "10,12", 
+    "id": "10,12--section 12", 
     "title": "Section Twelve - 10,12", 
     "content": "Ko sora fun eedi", 
     "category": "Warning & Evil" 
@@ -6411,11 +6410,11 @@ const testimoniesData = {
     "content": "Obinrin pupa kan Nsaa gun sii / ko Leelo / ko ma ba Sepo Mo",
     "category": "14"
   },
-  "10,14": {
-    "id": "10,14",
-    "title": "10,14",
-    "content": "Yio ri iranlowo Lati odo obinrin Onisowo kan",
-    "category": "14"
+  "10,14": { 
+    "id": "10,14", 
+    "title": "Section Ten - 10,14", 
+    "content": "Sara fun agbalagba.", 
+    "category": "Sacrifice & Elders" 
   },
   "11,14": {
     "id": "11,14",
@@ -6530,14 +6529,14 @@ const testimoniesData = {
     "15@11": {
       "id": "15@11",
       "title": "Section Fifteen - 15@11",
-      "content": "Eniyan yi ni agbara lati gbe oro re de ipo giga. Ti o ba je oloselu, yoo ni ipo giga, ti o ba je osise ijoba, yoo de ipo oga.",
+      "content": "Won yio fi se oga, gbogbo nkan ti o nfi okan lodo eniyan, eeyan yoo gbadura ko to bo si.",
       "category": "Oselu / Ise Ijoba / Ogo"
     },
 
     "15@12": {
       "id": "15@12",
       "title": "Section Fifteen - 15@12",
-      "content": "Yio rowo lenu se re yio jere oja, through ise ijoba yoo dolowo, di doloro , di oga, ki a ma se oniduro fun enikeni ni tolopa, ti eeyan bani wahala pelu olopa tabi ijoba, yoo ri aanugba, odara.",
+      "content": "Yoo ri eyin awon ota re lenu ise.",
       "category": "Ase / Ipo / Agbegbe"
     },
 
@@ -6868,11 +6867,11 @@ const testimoniesData = {
     "content": "Alakala Itiju ara",
     "category": "Ori Okan"
   },
-  "13,16": {
-    "id": "13,16",
-    "title": "Section Sixteen Linked - 13,16",
-    "content": "Irin ajo, ko sora lori ijamba oko",
-    "category": "Irinajo"
+  "13,16": { 
+    "id": "13,16", 
+    "title": "Section Thirteen - 13,16", 
+    "content": "Obinrin ati okunrin ti o sun mo o ni yio dide iranlowo fun o", 
+    "category": "Help & Relationship" 
   },
   "16A": {
     "id": "16A",
