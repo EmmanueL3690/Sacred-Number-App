@@ -127,7 +127,7 @@ const combinations = [
 },
 {
   row: 30,
-  items: ["6+9+12"],
+  items: ["6+9+11"],
 },
 {
   row: 31,
@@ -143,7 +143,7 @@ const combinations = [
 },
 {
   row: 34,
-  items: ["12+15+11"],
+  items: ["12+15+14"],
 },
 {
   row: 35,
