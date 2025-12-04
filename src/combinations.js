@@ -143,7 +143,7 @@ const combinations = [
 },
 {
   row: 34,
-  items: ["12+15+14"],
+  items: ["12+15+11"],
 },
 {
   row: 35,
